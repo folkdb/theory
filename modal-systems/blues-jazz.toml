@@ -1,0 +1,46 @@
+[10-tone]
+
+blues = "dor-add-mix-3-add-loc-5-add-ion-7"
+
+[9-tone]
+
+blues-1 = "dor-add-mix-3-add-ion-7"
+blues-2 = "dor-add-mix-3-add-loc-5"
+
+[8-tone]
+
+blues = "dor-add-loc-5"
+bebop-dominant = "mix-add-ion-7"
+bebop-dorian = "dor-add-ion-3"
+bebop-major = "ion-add-aeo-6"
+bebop-melodic-minor ="dor-ion-7-add-aeo-6"
+bebop-harmonic-minor = "aeo-add-ion-7"
+whole-half-diminished = "dor-loc-5-ion-7-add-aeo-6"
+half-whole-diminished = "dor-loc-2-lyd-4-add-ion-3"
+
+[7-tone]
+
+blues-1 = "dor-loc-5"
+blues-2 = "dor-drop-2-add-loc-5"
+melodic-minor-1 = "dor-ion-7"
+melodic-minor-2 = "dor-phr-2"
+melodic-minor-3 = "lyd-sharp-5"
+melodic-minor-4 = "lyd-mix-7"
+melodic-minor-5 = "mix-aeo-6"
+melodic-minor-6 = "aeo-loc-5"
+melodic-minor-7 = "loc-flat-4"
+harmonic-minor = "aeo-ion-7"
+
+[6-tone]
+
+major-blues = "lyd/ion/mix-add-dor-3"
+minor-blues = "dor/aeo/phr-add-loc-5"
+whole-tone = "lyd-aeo-6-mix-7-drop-5"
+augmented = "lyd-sharp-2-aeo-6-drop-5"
+tritone = "lyd-phr-2-mix-7-drop-6"
+two-semitone-tritone = "lyd-aeo-6-drop-3-drop-7-add-phr-2"
+
+[5-tone]
+
+major-pentatonic = "lyd/ion/mix"
+minor-pentatonic = "dor/aeo/phr"
