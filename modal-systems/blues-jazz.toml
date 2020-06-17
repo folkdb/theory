@@ -1,15 +1,17 @@
 [10-tone]
 
-blues = "dor-add-mix-3-add-loc-5-add-ion-7"
+blues-3rd-5th-7th = "dor-add-ion-3-add-loc-5-add-ion-7"
+blues-3rd-6th-7th = "dor-add-ion-3-add-aeo-6-add-ion-7"
 
 [9-tone]
 
-blues-1 = "dor-add-mix-3-add-ion-7"
-blues-2 = "dor-add-mix-3-add-loc-5"
+blues-3rd-7th = "dor-add-ion-3-add-ion-7"
+blues-3rd-5th = "dor-add-ion-3-add-loc-5"
+blues-3rd-6th = "dor-add-ion-3-add-aeo-6"
+blues-5th-7th = "dor-add-loc-5-add-ion-7"
 
 [8-tone]
 
-blues = "dor-add-loc-5"
 bebop-dominant = "mix-add-ion-7"
 bebop-dorian = "dor-add-ion-3"
 bebop-major = "ion-add-aeo-6"
