@@ -24,6 +24,7 @@ half-whole-diminished = "dor-loc-2-lyd-4-add-ion-3"
 
 blues-1 = "dor-loc-5"
 blues-2 = "dor-drop-2-add-loc-5"
+blues-3 = "dor/aeo/phr-add-loc-5-add-ion-7"
 melodic-minor-1 = "dor-ion-7"
 melodic-minor-2 = "dor-phr-2"
 melodic-minor-3 = "lyd-sharp-5"
@@ -31,7 +32,13 @@ melodic-minor-4 = "lyd-mix-7"
 melodic-minor-5 = "mix-aeo-6"
 melodic-minor-6 = "aeo-loc-5"
 melodic-minor-7 = "loc-flat-4"
-harmonic-minor = "aeo-ion-7"
+harmonic-minor-1 = "aeo-ion-7"
+harmonic-minor-2 = "loc-ion-6"
+harmonic-minor-3 = "ion-sharp-5"
+harmonic-minor-4 = "dor-lyd-4"
+harmonic-minor-5 = "phr-ion-4"
+harmonic-minor-6 = "lyd-sharp-2"
+harmonic-minor-7 = "loc-flat-4-double-flat-7"
 
 [6-tone]
 
