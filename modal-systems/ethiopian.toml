@@ -1,7 +1,14 @@
 [5-tone]
-batti-major-sharp-5 = "bhairav-drop-2-drop-5"
-batti-mineur = "todi-drop-2-drop-5"
-anchihoye = [0, 1, 5, 6, 9]
+full-tizita = "lyd/ion/mix"
+half-tizita = "aeo-drop-4-drop-7"
+batti-major = "ion-drop-2-drop-6"
+batti-minor = "dor/aeo/phr"
+ambassel-a = "phr-drop-3-drop-7"
+ambassel-b = "ion/mix/dor"
+anchihoye = "loc-drop-3-drop-7-ion-6"
+yematebela-wofe = "mix/dor/aeo"
+shegaye = "aeo/phr/loc"
 
 [6-tone]
-sabai-silt = "phr-drop-6"
+hareri-a = "phr-drop-5-drop-6-add-ion-3"
+hareri-b = "aeo-ion-7"

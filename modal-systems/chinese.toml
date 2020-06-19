@@ -1,4 +1,6 @@
 [5-tone]
-chaio = "aeo-drop-3-drop-5"
-kung = "lyd-drop-5-drop-7"
-
+gong = "lyd/ion/mix"
+shang = "mix/dor/aeo"
+jue = "aeo/phr/loc"
+zhi = "ion/mix/dor"
+yu = "dor/aeo/phr"

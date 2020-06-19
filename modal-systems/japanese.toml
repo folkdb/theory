@@ -1,5 +1,11 @@
 [5-tone]
-han-kumoi = "aeo-drop-3-drop-7"
-hon-kumoi-joshi = "phr-drop-3-drop-7"
-kokin-joshi = "phr-drop-3-drop-6"
-iwato = "loc-drop-3-drop-6"
+ryo = "lyd/ion/mix"
+ritsu = "ion/mix/dor"
+yo = "dor/aeo/phr"
+in = "phr-drop-3-drop-7"
+
+[7-tone]
+ryo = "lyd"
+ritsu = "dor"
+yo = "aeo"
+in = "phr"

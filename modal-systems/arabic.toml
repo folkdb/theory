@@ -1,4 +1,10 @@
+[7-tone]
+maqam-shawq-afza = "ion-aeo-6"
+
 [8-tone]
-maqam-hijaz = [0, 1, 4, 5, 7, 8, 10, 11]
-maqam-shadd-araban = [0, 1, 3, 4, 5, 6, 9, 10]
-maqam-nahawand = [0, 2, 3, 5, 7, 8, 10, 11]
+maqam-ajam = "ion-add-mix-7"
+maqam-bayati-shuri = "dor-flat-5-add-phr-2"
+maqam-hijaz = "phr-ion-3-add-ion-6"
+
+[9-tone]
+maqam-bayati = "dor-add-phr-2-add-aeo-6"
