@@ -30,6 +30,7 @@ half-diminished = "aeo-loc-5"
 altered-dominant = "loc-flat-4"
 harmonic-minor = "aeo-ion-7"
 harmonic-major = "ion-aeo-6"
+double-harmonic-major = "ion-phr-2-aeo-6"
 lydian-harmonic = "lyd-aeo-6"
 
 [8-tone]
