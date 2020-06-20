@@ -1,22 +1,20 @@
 [5-tone]
-scottish-pentatonic = [0, 2, 5, 7, 9]
-peruvian-pentatonic-a = [0, 2, 4, 7, 9]
-peruvian-pentatonic-b = [0, 3, 5, 7, 10]
-egyptian = [0, 2, 5, 7, 10]
-syrian-pentatonic = [0, 1, 4, 5, 8]
-japanese-a = [0, 1, 5, 7, 8]
-japanese-b = [0, 2, 5, 7, 8]
-balinese = [0, 1, 3, 7, 8]
+scottish-pentatonic = "ion/mix/dor"
+peruvian-pentatonic-a = "lyd/ion/mix"
+peruvian-pentatonic-b = "dor/aeo/phr"
+egyptian = "mix/dor/aeo"
+syrian-pentatonic = "phr-ion-3-drop-5-drop-7"
+japanese-a = "phr-drop-3-drop-7"
+japanese-b = "aeo-drop-3-drop-7"
+balinese = "phr-drop-4-drop-7"
 
 [6-tone]
-ancient-chinese = [0, 2, 4, 6, 7, 9]
-scottish-hexatonic = [0, 2, 4, 5, 7, 9]
-eskimo-hexatonic-a = [0, 2, 3, 5, 7, 10]
-eskimo-hexatonic-b = [0, 2, 4, 6, 8, 11]
-hawaiian-hexatonic = [0, 2, 3, 7, 9, 11]
-romani-hexatonic = [0, 1, 4, 5, 7, 8, 9]
-romani-hexatonic-inverse = [0, 3, 4, 5, 7, 8, 11]
-istrian = [0, 1, 3, 4, 6, 7]
+ancient-chinese = "lyd-drop-7"
+scottish-hexatonic = "ion-drop-7"
+eskimo-hexatonic-a = "dor/aeo"
+eskimo-hexatonic-b = "lyd-aeo-6-drop-5"
+hawaiian-hexatonic = "ion-dor-3-drop-4"
+istrian = "lyd-phr-2-drop-6-drop-7-add-dor-3"
 
 [7-tone]
 hawaiian = [0, 2, 3, 5, 7, 9, 11]
