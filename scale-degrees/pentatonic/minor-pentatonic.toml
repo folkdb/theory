@@ -8,7 +8,7 @@
 7 = [0]
 
 [names]
-Western = ["Minor Pentatonic"]
+Western = ["Minor Pentatonic", "Dorian/Aeolian/Phrygian"]
 Ethiopian = ["Batti Minor"]
 Japanese = ["Yo"]
 Chinese = ["Yu"]
