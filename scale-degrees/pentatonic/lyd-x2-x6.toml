@@ -1,0 +1,16 @@
+[degrees]
+1 = [1]
+2 = []
+3 = [1]
+4 = [1]
+5 = [1]
+6 = []
+7 = [1]
+
+[names]
+Western = ["Lydian x2/x6"]
+Ethiopian = ["Batti Lydian"]
+
+[family]
+base = "phr-x3-x7"
+degree = 2

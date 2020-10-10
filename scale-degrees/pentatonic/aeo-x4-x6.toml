@@ -8,5 +8,9 @@
 7 = []
 
 [names]
+Western = ["Aeolian x4/x7"]
 Ethiopian = ["Half Tizita", "Tizita Minor"]
-Western = ["Aeolian 2/3/5/6"]
+
+[family]
+base = "phr-x3-x7"
+degree = 4

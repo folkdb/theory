@@ -13,3 +13,7 @@ Ethiopian = ["Full Tizita", "Tizita Major"]
 Japanese = ["Ryo"]
 Chinese = ["Gong"]
 Exoticisms = ["Peruvian Pentatonic (major)"]
+
+[family]
+base = "ion-mix-dor"
+degree = 4

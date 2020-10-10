@@ -8,7 +8,11 @@
 7 = []
 
 [names]
+Western = ["Phrygian x3/x7"]
 Ethiopian = ["Ambassel"]
 Japanese = ["In"]
-Western = ["Phrygian 2/4/5/6"]
 Exoticisms = ["Japanese"]
+
+[family]
+base = "phr-x3-x7"
+degree = 1

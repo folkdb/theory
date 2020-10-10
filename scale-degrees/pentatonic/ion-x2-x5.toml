@@ -1,0 +1,16 @@
+[degrees]
+1 = [1]
+2 = []
+3 = [1]
+4 = [0]
+5 = []
+6 = [1]
+7 = [1]
+
+[names]
+Western = ["Ionian x2/x6"]
+Carnatic = ["Raga Bhinna Shadja"]
+
+[family]
+base = "phr-x3-x7"
+degree = 7

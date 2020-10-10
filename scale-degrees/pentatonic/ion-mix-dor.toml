@@ -8,10 +8,14 @@
 7 = []
 
 [names]
+Western = ["Ionian/Mixolydian/Dorian"]
 Korean = ["Pyongjo"]
 Japanese = ["Ritsu"]
 Chinese = ["Zhi"]
 Ethiopian = ["Ambassel (variation)", "Anchihoye (variation)"]
 Jazz = ["Blues Major (pentatonic)"]
-Western = ["Ionian/Mixolydian/Dorian"]
 Exoticisms = ["Scottish Pentatonic"]
+
+[family]
+base = "ion-mix-dor"
+degree = 1

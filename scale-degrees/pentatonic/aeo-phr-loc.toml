@@ -1,0 +1,18 @@
+[degrees]
+1 = [1]
+2 = []
+3 = [0]
+4 = [0]
+5 = []
+6 = [0]
+7 = [0]
+
+[names]
+Western = ["Aeolian/Phrygian/Locrian"]
+Ethiopian = ["Shegaye"]
+Chinese = ["Jue"]
+Jazz = ["Blues Minor (pentatonic)"]
+
+[family]
+base = "ion-mix-dor"
+degree = 6

@@ -10,6 +10,11 @@
 [names]
 Western = ["Minor Pentatonic", "Dorian/Aeolian/Phrygian"]
 Ethiopian = ["Batti Minor"]
+Korean = ["Kyemyonjo"]
 Japanese = ["Yo"]
 Chinese = ["Yu"]
 Exoticisms = ["Peruvian Pentatonic (minor)"]
+
+[family]
+base = "ion-mix-dor"
+degree = 2
