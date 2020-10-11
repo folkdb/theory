@@ -8,12 +8,13 @@
 7 = [0]
 
 [names]
-Western = ["Mixolydian/Dorian/Aeolian"]
+Western = ["Mixolydian/Dorian/Aeolian", "Suspended Pentatonic"]
 Ethiopian = ["Yematebela Wofe"]
 Chinese = ["Shang"]
-Jazz = ["Suspended Pentatonic"]
 Exoticisms = ["Egyptian"]
 
-[family]
-base = "ion-mix-dor"
-degree = 5
+[degree-rotation-from]
+ion-mix-dor = 5
+lyd-ion-mix = 2
+aeo-phr-loc = 3
+dor-aeo-phr = 7

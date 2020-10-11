@@ -1,0 +1,16 @@
+[degrees]
+1 = [1]
+2 = []
+3 = [1]
+4 = [0]
+5 = [1]
+6 = []
+7 = [1]
+
+[names]
+Western = ["Ionian x2/x6"]
+Ethiopian = ["Batti Major"]
+
+[family]
+base = "ion-x2-x6"
+degree = 1

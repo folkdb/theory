@@ -11,8 +11,9 @@
 Western = ["Aeolian/Phrygian/Locrian"]
 Ethiopian = ["Shegaye"]
 Chinese = ["Jue"]
-Jazz = ["Blues Minor (pentatonic)"]
 
-[family]
-base = "ion-mix-dor"
-degree = 6
+[degree-rotation-from]
+dor-aeo-phr = 5
+mix-dor-aeo = 2
+ion-mix-dor = 6
+lyd-ion-mix = 3

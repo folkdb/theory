@@ -10,11 +10,13 @@
 [names]
 Western = ["Minor Pentatonic", "Dorian/Aeolian/Phrygian"]
 Ethiopian = ["Batti Minor"]
-Korean = ["Kyemyonjo"]
+Korean = ["Kyemyonjo (proximate)"]
 Japanese = ["Yo"]
 Chinese = ["Yu"]
 Exoticisms = ["Peruvian Pentatonic (minor)"]
 
-[family]
-base = "ion-mix-dor"
-degree = 2
+[degree-rotation-from]
+mix-dor-aeo = 5
+aeo-phr-loc = 4
+ion-mix-dor = 2
+lyd-ion-mix = 6

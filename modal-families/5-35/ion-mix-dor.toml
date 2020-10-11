@@ -9,13 +9,15 @@
 
 [names]
 Western = ["Ionian/Mixolydian/Dorian"]
+Vietnamese = ["Bac"]
 Korean = ["Pyongjo"]
 Japanese = ["Ritsu"]
 Chinese = ["Zhi"]
-Ethiopian = ["Ambassel (variation)", "Anchihoye (variation)"]
-Jazz = ["Blues Major (pentatonic)"]
+Ethiopian = ["Ambassel (variation)"]
 Exoticisms = ["Scottish Pentatonic"]
 
-[family]
-base = "ion-mix-dor"
-degree = 1
+[degree-rotation-from]
+lyd-ion-mix = 5
+mix-dor-aeo = 4
+aeo-phr-loc = 3
+dor-aeo-phr = 7

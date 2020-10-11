@@ -14,6 +14,8 @@ Japanese = ["Ryo"]
 Chinese = ["Gong"]
 Exoticisms = ["Peruvian Pentatonic (major)"]
 
-[family]
-base = "ion-mix-dor"
-degree = 4
+[degree-rotation-from]
+ion-mix-dor = 4
+aeo-phr-loc = 6
+dor-aeo-phr = 3
+mix-dor-aeo = 7
