@@ -10,7 +10,10 @@
 [names]
 Western = ["Ionian x2/x6"]
 Ethiopian = ["Batti Major"]
+Carnatic = ["Raga Gambhiranata"]
 
-[family]
-base = "ion-x2-x6"
-degree = 1
+[degree-rotation-from]
+lyd-x3-x6 = 5
+mix-x2-x5 = 4
+loc-x3-x7 = 2
+phr-x4-x7 = 6

@@ -1,0 +1,17 @@
+[degrees]
+1 = [1]
+2 = []
+3 = [1]
+4 = [0]
+5 = []
+6 = [1]
+7 = [0]
+
+[names]
+Western = ["Mixolydian x2/x5"]
+
+[degree-rotation-from]
+ion-x2-x6 = 5
+lyd-x3-x6 = 2
+loc-x3-x7 = 6
+phr-x4-x7 = 3

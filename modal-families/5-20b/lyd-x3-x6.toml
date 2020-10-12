@@ -11,6 +11,8 @@
 Western = ["Lydian x3/x6"]
 Carnatic = ["Raga Hamsanadam"]
 
-[family]
-base = "ion-x2-x6"
-degree = 4
+[degree-rotation-from]
+loc-x3-x7 = 5
+ion-x2-x6 = 4
+phr-x4-x7 = 2
+mix-x2-x5 = 7

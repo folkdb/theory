@@ -11,6 +11,8 @@
 Western = ["Aeolian x4/x7"]
 Ethiopian = ["Half Tizita", "Tizita Minor"]
 
-[family]
-base = "phr-x3-x7"
-degree = 4
+[degree-rotation-from]
+phr-x3-x7 = 4
+ion-x2-x5 = 6
+lyd-x2-x6 = 3
+loc-x3-x6 = 7

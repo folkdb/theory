@@ -11,6 +11,8 @@
 Western = ["Ionian x2/x5"]
 Carnatic = ["Raga Bhinna Shadja"]
 
-[family]
-base = "phr-x3-x7"
-degree = 7
+[degree-rotation-from]
+lyd-x2-x6 = 5
+loc-x3-x6 = 2
+phr-x3-x7 = 6
+aeo-x4-x6 = 3

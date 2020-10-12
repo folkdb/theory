@@ -10,7 +10,10 @@
 [names]
 Western = ["Lydian x2/x6"]
 Ethiopian = ["Batti Lydian"]
+Carnatic = ["Raga Amritavarshini"]
 
-[family]
-base = "phr-x3-x7"
-degree = 2
+[degree-rotation-from]
+loc-x3-x6 = 5
+ion-x2-x5 = 4
+phr-x3-x7 = 2
+aeo-x4-x6 = 6

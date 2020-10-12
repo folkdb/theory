@@ -10,10 +10,9 @@
 [names]
 Western = ["Ionian/Mixolydian/Dorian"]
 Vietnamese = ["Bac"]
-Korean = ["Pyongjo"]
+Korean = ["Pyeongjo", "P’yŏngjo"]
 Japanese = ["Ritsu"]
 Chinese = ["Zhi"]
-Ethiopian = ["Ambassel (variation)"]
 Exoticisms = ["Scottish Pentatonic"]
 
 [degree-rotation-from]

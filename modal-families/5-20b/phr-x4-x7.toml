@@ -1,0 +1,20 @@
+[degrees]
+1 = [1]
+2 = [0]
+3 = [0]
+4 = []
+5 = [1]
+6 = [0]
+7 = []
+
+[names]
+Western = ["Phrygian x4/x7"]
+Carnatic = ["Raga Bhupalam"]
+Hindustani = ["Bhupal Todi"]
+Exoticisms = ["Balinese"]
+
+[degree-rotation-from]
+loc-x3-x7 = 4
+mix-x2-x5 = 6
+ion-x2-x6 = 3
+lyd-x3-x6 = 7

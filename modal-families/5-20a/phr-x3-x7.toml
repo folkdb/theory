@@ -10,9 +10,12 @@
 [names]
 Western = ["Phrygian x3/x7"]
 Ethiopian = ["Ambassel"]
+Carnatic = ["Karnataka Shuddha Saveri"]
 Japanese = ["In"]
 Exoticisms = ["Japanese"]
 
-[family]
-base = "phr-x3-x7"
-degree = 1
+[degree-rotation-from]
+aeo-x4-x6 = 5
+loc-x3-x6 = 4
+ion-x2-x5 = 3
+lyd-x2-x6 = 7

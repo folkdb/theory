@@ -1,0 +1,17 @@
+[degrees]
+1 = [1]
+2 = [0]
+3 = []
+4 = [0]
+5 = [0]
+6 = [0]
+7 = []
+
+[names]
+Western = ["Locrian x3/x7"]
+
+[degree-rotation-from]
+lyd-x3-x6 = 5
+mix-x2-x5 = 4
+loc-x3-x7 = 2
+phr-x4-x7 = 6
