@@ -1,0 +1,19 @@
+[degrees]
+1 = [1]
+2 = [0]
+3 = [0]
+4 = [0]
+5 = []
+6 = [0]
+7 = [0]
+
+[names]
+Western = ["Phrygian/Locrian Hexatonic"]
+
+[degree-rotation-from]
+lyd-ion = 0
+ion-mix = 0
+mix-dor = 0
+dor-aeo = 0
+aeo-phr = 0
+

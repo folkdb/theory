@@ -8,8 +8,10 @@
 7 = [0]
 
 [names]
-Western = ["Mixolydian/Dorian/Aeolian", "Suspended Pentatonic"]
+Western = ["Mixolydian/Dorian/Aeolian Pentatonic", "Suspended Pentatonic"]
 Ethiopian = ["Yematebela Wofe"]
+Carnatic = ["Raga Madhyamavati"]
+Hindustani = ["Madhumad Sarang"]
 Chinese = ["Shang"]
 Exoticisms = ["Egyptian"]
 
