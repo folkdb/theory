@@ -1,21 +1,20 @@
 [degrees]
-1 = [1]
-2 = []
-3 = [0]
-4 = [0]
-5 = [1]
-6 = []
-7 = [0]
+3 = 0
+4 = 0
+5 = 1
+7 = 0
 
 [names]
-Western = ["Minor Pentatonic", "Dorian/Aeolian/Phrygian Pentatonic"]
-Ethiopian = ["Batti Minor"]
-Korean = ["Gyemyeonjo", "Kyemyŏnjo"]
-Japanese = ["Yo"]
-Chinese = ["Yu"]
-Exoticisms = ["Peruvian Pentatonic (minor)"]
+Common = "Minor Pentatonic"
+Western = "Dorian/Aeolian/Phrygian Pentatonic"
+Ethiopian = "Bati (Batti) Minor"
+Carnatic = "Udayaravichandrika Rāgam, Shuddha (Śuddha) Dhanyasi Rāgam"
+Hindustani = "Raag Dhani"
+Korean = "Gyemyeonjo (Kyemyŏnjo)"
+Japanese = "Yo"
+Chinese = "Yu"
 
-[degree-rotation-from]
+[rotational-pivots]
 mix-dor-aeo = 5
 aeo-phr-loc = 4
 ion-mix-dor = 2

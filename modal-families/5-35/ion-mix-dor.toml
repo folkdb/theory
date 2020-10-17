@@ -1,21 +1,19 @@
 [degrees]
-1 = [1]
-2 = [1]
-3 = []
-4 = [0]
-5 = [1]
-6 = [1]
-7 = []
+2 = 1
+4 = 0
+5 = 1
+6 = 1
 
 [names]
-Western = ["Ionian/Mixolydian/Dorian Pentatonic"]
-Vietnamese = ["Bac"]
-Korean = ["Pyeongjo", "P’yŏngjo"]
-Japanese = ["Ritsu"]
-Chinese = ["Zhi"]
-Exoticisms = ["Scottish Pentatonic"]
+Western = "Ionian/Mixolydian/Dorian Pentatonic"
+Carnatic = "Shuddha Saveri (Śuddha Sāveri) Rāgam"
+Hindustani = "Raag Durga"
+Vietnamese = "Bac"
+Korean = "Pyeongjo (P’yŏngjo)"
+Japanese = "Ritsu"
+Chinese = "Zhi"
 
-[degree-rotation-from]
+[rotational-pivots]
 lyd-ion-mix = 5
 mix-dor-aeo = 4
 aeo-phr-loc = 3

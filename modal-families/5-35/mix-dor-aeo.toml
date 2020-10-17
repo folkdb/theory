@@ -1,21 +1,17 @@
 [degrees]
-1 = [1]
-2 = [1]
-3 = []
-4 = [0]
-5 = [1]
-6 = []
-7 = [0]
+2 = 1
+4 = 0
+5 = 1
+7 = 0
 
 [names]
-Western = ["Mixolydian/Dorian/Aeolian Pentatonic", "Suspended Pentatonic"]
-Ethiopian = ["Yematebela Wofe"]
-Carnatic = ["Raga Madhyamavati"]
-Hindustani = ["Madhumad Sarang"]
-Chinese = ["Shang"]
-Exoticisms = ["Egyptian"]
+Western = "Mixolydian/Dorian/Aeolian Pentatonic"
+Ethiopian = "Yematebela Wofe"
+Carnatic = "Madhyamavati (Madhyamāvati) Rāgam"
+Hindustani = "Raag Madhumad Sarang"
+Chinese = "Shang"
 
-[degree-rotation-from]
+[rotational-pivots]
 ion-mix-dor = 5
 lyd-ion-mix = 2
 aeo-phr-loc = 3

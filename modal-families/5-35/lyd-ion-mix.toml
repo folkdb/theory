@@ -1,20 +1,19 @@
 [degrees]
-1 = [1]
-2 = [1]
-3 = [1]
-4 = []
-5 = [1]
-6 = [1]
-7 = []
+2 = 1
+3 = 1
+5 = 1
+6 = 1
 
 [names]
-Western = ["Major Pentatonic", "Lydian/Ionian/Mixolydian Pentatonic"]
-Ethiopian = ["Full Tizita", "Tizita Major"]
-Japanese = ["Ryo"]
-Chinese = ["Gong"]
-Exoticisms = ["Peruvian Pentatonic (major)"]
+Common = "Major Pentatonic"
+Western = "Lydian/Ionian/Mixolydian Pentatonic"
+Ethiopian = "Full Tizita (Tezita), Tizita Major"
+Carnatic = "Mohanam Rāgam"
+Hindustani = "Raag Bhoopali (Bhoop, Bhupālī)"
+Japanese = "Ryo"
+Chinese = "Gong"
 
-[degree-rotation-from]
+[rotational-pivots]
 ion-mix-dor = 4
 aeo-phr-loc = 6
 dor-aeo-phr = 3
