@@ -1,4 +1,9 @@
-[degrees]
+[names]
+Western = "Lydian x2/x6"
+Ethiopian = "Bati (Batti) Lydian"
+Carnatic = "Amritavarshini (Amr̥tavarṣiṇi) Rāgam"
+
+[scaleDegrees]
 1 = [1]
 2 = []
 3 = [1]
@@ -7,13 +12,8 @@
 6 = []
 7 = [1]
 
-[names]
-Western = ["Lydian x2/x6"]
-Ethiopian = ["Bati (Batti) Lydian"]
-Carnatic = ["Raga Amritavarshini"]
-
-[degree-rotation-from]
-loc-x3-x6 = 5
-ion-x2-x5 = 4
-phr-x3-x7 = 2
-aeo-x4-x6 = 6
+[degreeRotations]
+3 = "aeo-x4-x7"
+4s = "loc-x3-x6"
+5 = "ion-x2-x5"
+7 = "phr-x3-x7"

@@ -1,4 +1,11 @@
-[degrees]
+[names]
+Western = "Mixolydian/Dorian/Aeolian Pentatonic"
+Ethiopian = "Yematebela Wofe"
+Carnatic = "Madhyamāvati Rāgam"
+Hindustani = "Raag Madhumad Sarang"
+Chinese = "Shang"
+
+[scaleDegrees]
 1 = [1]
 2 = [1]
 3 = []
@@ -7,15 +14,8 @@
 6 = []
 7 = [0]
 
-[names]
-Western = "Mixolydian/Dorian/Aeolian Pentatonic"
-Ethiopian = "Yematebela Wofe"
-Carnatic = "Madhyamavati (Madhyamāvati) Rāgam"
-Hindustani = "Raag Madhumad Sarang"
-Chinese = "Shang"
-
-[rotational-pivots]
-ion-mix-dor = 5
-lyd-ion-mix = 2
-aeo-phr-loc = 3
-dor-aeo-phr = 7
+[degreeRotations]
+2 = "aeo-phr-loc"
+4 = "ion-mix-dor"
+5 = "dor-aeo-phr"
+7b = "lyd-ion-mix"

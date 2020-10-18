@@ -1,4 +1,9 @@
-[degrees]
+[names]
+Western = "Ionian x2/x6"
+Ethiopian = "Bati (Batti) Major"
+Carnatic = "Gambhiranata Rāgam"
+
+[scaleDegrees]
 1 = [1]
 2 = []
 3 = [1]
@@ -7,13 +12,8 @@
 6 = []
 7 = [1]
 
-[names]
-Western = ["Ionian x2/x6"]
-Ethiopian = ["Bati (Batti) Major"]
-Carnatic = ["Raga Gambhiranata"]
-
-[degree-rotation-from]
-lyd-x3-x6 = 5
-mix-x2-x5 = 4
-loc-x3-x7 = 2
-phr-x4-x7 = 6
+[degreeRotations]
+3 = "phr-x4-x7"
+4 = "lyd-x3-x6"
+5 = "mix-x2-x5"
+7 = "loc-x3-x7"

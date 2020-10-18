@@ -1,12 +1,3 @@
-[degrees]
-1 = [1]
-2 = []
-3 = [0]
-4 = [0]
-5 = [1]
-6 = []
-7 = [0]
-
 [names]
 Common = "Minor Pentatonic"
 Western = "Dorian/Aeolian/Phrygian Pentatonic"
@@ -17,8 +8,17 @@ Korean = "Gyemyeonjo (Kyemyŏnjo)"
 Japanese = "Yo"
 Chinese = "Yu"
 
-[rotational-pivots]
-mix-dor-aeo = 5
-aeo-phr-loc = 4
-ion-mix-dor = 2
-lyd-ion-mix = 6
+[scaleDegrees]
+1 = [1]
+2 = []
+3 = [0]
+4 = [0]
+5 = [1]
+6 = []
+7 = [0]
+
+[degreeRotations]
+3b = "lyd-ion-mix"
+4 = "mix-dor-aeo"
+5 = "aeo-phr-loc"
+7b = "ion-mix-dor"

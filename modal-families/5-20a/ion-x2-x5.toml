@@ -1,4 +1,8 @@
-[degrees]
+[names]
+Western = "Ionian x2/x5"
+Hindustani = "Raag Bhinna Shadja"
+
+[scaleDegrees]
 1 = [1]
 2 = []
 3 = [1]
@@ -7,12 +11,8 @@
 6 = [1]
 7 = [1]
 
-[names]
-Western = ["Ionian x2/x5"]
-Carnatic = ["Raga Bhinna Shadja"]
-
-[degree-rotation-from]
-lyd-x2-x6 = 5
-loc-x3-x6 = 2
-phr-x3-x7 = 6
-aeo-x4-x6 = 3
+[degreeRotations]
+3 = "phr-x3-x7"
+4 = "lyd-x2-x6"
+6 = "aeo-x4-x7"
+7 = "loc-x3-x6"

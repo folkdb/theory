@@ -1,12 +1,3 @@
-[degrees]
-1 = [1]
-2 = [1]
-3 = [1]
-4 = []
-5 = [1]
-6 = [1]
-7 = []
-
 [names]
 Common = "Major Pentatonic"
 Western = "Lydian/Ionian/Mixolydian Pentatonic"
@@ -16,8 +7,17 @@ Hindustani = "Raag Bhoopali (Bhoop, Bhupālī)"
 Japanese = "Ryo"
 Chinese = "Gong"
 
-[rotational-pivots]
-ion-mix-dor = 4
-aeo-phr-loc = 6
-dor-aeo-phr = 3
-mix-dor-aeo = 7
+[scaleDegrees]
+1 = [1]
+2 = [1]
+3 = [1]
+4 = []
+5 = [1]
+6 = [1]
+7 = []
+
+[degreeRotations]
+2 = "mix-dor-aeo"
+3 = "aeo-phr-loc"
+5 = "ion-mix-dor"
+6 = "dor-aeo-phr"

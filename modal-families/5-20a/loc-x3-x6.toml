@@ -1,18 +1,18 @@
-[degrees]
+[names]
+Western = "Locrian x3/x6"
+Ethiopian = "Anchihoye"
+
+[scaleDegrees]
 1 = [1]
 2 = [0]
 3 = []
-4 = [0]
-5 = [0]
+4 = [0, 1]
+5 = []
 6 = []
 7 = [0]
 
-[names]
-Western = ["Locrian x3/x6"]
-Ethiopian = ["Anchihoye"]
-
-[degree-rotation-from]
-phr-x3-x7 = 5
-lyd-x2-x6 = 4
-aeo-x4-x6 = 2
-ion-x2-x5 = 7
+[degreeRotations]
+2b = "ion-x2-x5"
+4 = "phr-x2-x6"
+4s = "lyd-x2-x6"
+7b = "aeo-x4-x7"

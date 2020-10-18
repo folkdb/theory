@@ -1,4 +1,8 @@
-[degrees]
+[names]
+Western = "Aeolian x4/x7"
+Ethiopian = "Half Tizita (Tezita), Tizita Minor"
+
+[scaleDegrees]
 1 = [1]
 2 = [1]
 3 = [0]
@@ -7,12 +11,8 @@
 6 = [0]
 7 = []
 
-[names]
-Western = ["Aeolian x4/x7"]
-Ethiopian = ["Half Tezita (Tizita)", "Tezita (Tizita) Minor"]
-
-[degree-rotation-from]
-phr-x3-x7 = 4
-ion-x2-x5 = 6
-lyd-x2-x6 = 3
-loc-x3-x6 = 7
+[degreeRotations]
+2 = "loc-x3-x6"
+3b = "ion-x2-x5"
+5 = "phr-x3-x7"
+6b = "lyd-x2-x6"
