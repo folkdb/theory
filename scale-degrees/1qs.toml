@@ -1,0 +1,11 @@
+degree = 1
+position = 1.5
+12-TET = 50
+
+[ratios]
+low = "128/125"
+high = "25/24"
+
+[cents]
+low = "41"
+high = "71"
