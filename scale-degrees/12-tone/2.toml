@@ -1,0 +1,14 @@
+degree = 2
+position = 1
+
+[ET]
+ratio = "2^(2/12)"
+cents = 200
+
+[L3]
+ratio = "9/8"
+cents = 204
+
+[L5]
+ratio = "10/9"
+cents = 182

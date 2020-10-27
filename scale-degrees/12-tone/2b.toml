@@ -1,0 +1,30 @@
+degree = 2
+position = 0
+
+[ET]
+ratio = "2^(1/12)"
+cents = 100
+
+[L3]
+ratio = "256/243"
+cents = 90
+
+[L5]
+ratio = "16/15"
+cents = 112
+
+[L7]
+ratio = "15/14"
+cents = 119
+
+[L11]
+ratio = "22/21"
+cents = 81
+
+[L17]
+ratio = "17/16"
+cents = 105
+
+[L19]
+ratio = "19/18"
+cents = 94

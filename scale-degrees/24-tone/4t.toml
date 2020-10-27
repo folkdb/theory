@@ -1,0 +1,18 @@
+degree = 4
+position = 0.5
+
+[ET]
+ratio = "2^(11/24)"
+cents = 550
+
+[L5]
+ratio = "25/18"
+cents = 569
+
+[L11]
+ratio = "15/11"
+cents = 537
+
+[L13]
+ratio = "18/13"
+cents = 563

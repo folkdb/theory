@@ -1,0 +1,22 @@
+degree = 3
+position = -0.5
+
+[ET]
+ratio = "2^(5/24)"
+cents = 250
+
+[L5]
+ratio = "75/64"
+cents = 275
+
+[L7]
+ratio = "7/6"
+cents = 267
+
+[L11]
+ratio = "64/55"
+cents = 262
+
+[L13]
+ratio = "15/13"
+cents = 248
