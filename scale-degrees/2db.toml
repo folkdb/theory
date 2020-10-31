@@ -1,0 +1,14 @@
+degree = 2
+position = -0.5
+pitch24 = 1
+ET = 50
+
+[[tunings]]
+limit = 7
+ratio = "28/27"
+cents = 62.96
+
+[[tunings]]
+limit = 5
+ratio = "25/24"
+cents = 70.67
