@@ -4,6 +4,11 @@ pitch24 = 5
 ET = 250
 
 [[tunings]]
+limit = 7
+ratio = "8/7"
+cents = 231.17
+
+[[tunings]]
 limit = 13
 ratio = "15/13"
 cents = 247.74

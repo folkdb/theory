@@ -1,0 +1,97 @@
+[[modes]]
+  canonical = "Lydian/Ionian/Mixolydian Pentatonic"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [1]
+    3 = [1]
+    4 = []
+    5 = [1]
+    6 = [1]
+    7 = []
+
+  [modes.names]
+    Western = "Major Pentatonic"
+    Ethiopian = "Full Tizita (Tezita), Tizita Major"
+    Carnatic = "Mohanam Rāgam"
+    Hindustani = "Raag Bhoopali (Bhoop, Bhupālī)"
+    Japanese = "Ryo"
+    Chinese = "Gong"
+
+[[modes]]
+  canonical = "Ionian/Mixolydian/Dorian Pentatonic"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [1]
+    3 = []
+    4 = [0]
+    5 = [1]
+    6 = [1]
+    7 = []
+
+  [modes.names]
+    Western = "Scottish Pentatonic"
+    Carnatic = "Shuddha (Śuddha) Sāveri Rāgam"
+    Hindustani = "Raag Durga"
+    Vietnamese = "Bac"
+    Korean = "Pyeongjo (P’yŏngjo)"
+    Japanese = "Ritsu"
+    Chinese = "Zhi"
+
+[[modes]]
+  canonical = "Mixolydian/Dorian/Aeolian Pentatonic"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [1]
+    3 = []
+    4 = [0]
+    5 = [1]
+    6 = []
+    7 = [0]
+
+  [modes.names]
+    Ethiopian = "Yematebela Wofe"
+    Carnatic = "Madhyamāvati Rāgam"
+    Hindustani = "Raag Madhumad Sarang"
+    Chinese = "Shang"
+
+[[modes]]
+  canonical = "Dorian/Aeolian/Phrygian Pentatonic"
+
+  [modes.degrees]
+    1 = [1]
+    2 = []
+    3 = [0]
+    4 = [0]
+    5 = [1]
+    6 = []
+    7 = [0]
+
+  [modes.names]
+    Western = "Minor Pentatonic"
+    Ethiopian = "Bati (Batti) Minor"
+    Carnatic = "Udayaravichandrika Rāgam, Shuddha (Śuddha) Dhanyasi Rāgam"
+    Hindustani = "Raag Dhani"
+    Korean = "Gyemyeonjo (Kyemyŏnjo)"
+    Japanese = "Yo"
+    Chinese = "Yu"
+
+[[modes]]
+  canonical = "Aeolian/Phrygian/Locrian Pentatonic"
+
+  [modes.degrees]
+    1 = [1]
+    2 = []
+    3 = [0]
+    4 = [0]
+    5 = []
+    6 = [0]
+    7 = [0]
+
+  [modes.names]
+    Ethiopian = "Shegaye"
+    Carnatic = "Hindolam (Hindōḷaṃ) Rāgam"
+    Hindustani = "Raag Malkauns"
+    Chinese = "Jue"

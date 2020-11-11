@@ -13,13 +13,3 @@ cents = 884.36
 limit = 3
 ratio = "27/16"
 cents = 905.87
-
-[[tunings]]
-limit = 5
-ratio = "128/75"
-cents = 925.42
-
-[[tunings]]
-limit = 7
-ratio = "12/7"
-cents = 933.13

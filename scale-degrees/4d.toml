@@ -1,5 +1,5 @@
-degree = 3
-position = 1.5
+degree = 4
+position = -0.5
 pitch24 = 9
 ET = 450
 
@@ -17,3 +17,8 @@ cents = 435.08
 limit = 13
 ratio = "13/10"
 cents = 454.21
+
+[[tunings]]
+limit = 7
+ratio = "64/49"
+cents = 462.35

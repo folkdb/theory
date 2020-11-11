@@ -13,8 +13,3 @@ cents = 182.4
 limit = 3
 ratio = "9/8"
 cents = 203.91
-
-[[tunings]]
-limit = 7
-ratio = "8/7"
-cents = 231.17
