@@ -1,4 +1,5 @@
 [[modes]]
+  slug = "lyd-ion-mix"
   canonical = "Lydian/Ionian/Mixolydian Pentatonic"
 
   [modes.degrees]
@@ -19,6 +20,7 @@
     Chinese = "Gong"
 
 [[modes]]
+  slug = "ion-mix-dor"
   canonical = "Ionian/Mixolydian/Dorian Pentatonic"
 
   [modes.degrees]
@@ -40,6 +42,7 @@
     Chinese = "Zhi"
 
 [[modes]]
+  slug = "mix-dor-aeo"
   canonical = "Mixolydian/Dorian/Aeolian Pentatonic"
 
   [modes.degrees]
@@ -58,6 +61,7 @@
     Chinese = "Shang"
 
 [[modes]]
+  slug = "dor-aeo-phr"
   canonical = "Dorian/Aeolian/Phrygian Pentatonic"
 
   [modes.degrees]
@@ -79,6 +83,7 @@
     Chinese = "Yu"
 
 [[modes]]
+  slug = "aeo-phr-loc"
   canonical = "Aeolian/Phrygian/Locrian Pentatonic"
 
   [modes.degrees]
