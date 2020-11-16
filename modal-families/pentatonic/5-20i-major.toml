@@ -28,8 +28,9 @@
     7 = [1]
 
   [modes.names]
-    Ethiopian = "Bati (Batti) Major"
+    Ethiopian = "Bati [Batti] Major"
     Carnatic = "Gambhiranata Rāgam"
+    Japanese = "Ryu-kyu"
 
 [[modes]]
   slug = "mix-x2-x5"

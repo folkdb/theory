@@ -12,7 +12,7 @@
     7 = []
 
   [modes.names]
-    Ethiopian = "Half Tizita (Tezita), Tizita Minor"
+    Ethiopian = "Half Tizita [Tezita], Tizita Minor"
 
 [[modes]]
   slug = "phr-x3-x7"
@@ -29,8 +29,8 @@
 
   [modes.names]
     Ethiopian = "Ambassel"
-    Carnatic = "Karnataka Shuddha (Śuddha) Sāveri Rāgam, Asāvēri Rāgam (ascending)"
-    Japanese = "In"
+    Carnatic = "Karnataka Shuddha [Śuddha] Sāveri Rāgam, Asāvēri Rāgam (ascending)"
+    Japanese = "Miyako-bushi, In (primary mode)"
 
 [[modes]]
   slug = "loc-x3-x6"

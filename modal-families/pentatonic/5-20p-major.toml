@@ -12,8 +12,8 @@
     7 = [1]
 
   [modes.names]
-    Ethiopian = "Bati (Batti) Lydian"
-    Carnatic = "Amritavarshini (Amr̥tavarṣiṇi) Rāgam"
+    Ethiopian = "Bati [Batti] Lydian"
+    Carnatic = "Amritavarshini [Amr̥tavarṣiṇi] Rāgam"
 
 [[modes]]
   slug = "ion-x2-x5"

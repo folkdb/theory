@@ -12,7 +12,7 @@
     7 = []
 
   [modes.names]
-    Carnatic = "Shivaranjani (Śivaranjani) Rāgam"
+    Carnatic = "Shivaranjani [Śivaranjani] Rāgam"
     Hindustani = "Raag Shivaranjani"
 
 [[modes]]
@@ -45,7 +45,7 @@
 
   [modes.names]
     Carnatic = "Revati Rāgam"
-    Hindustani = "Raag Bairagi (Bairagi Bhairav)"
+    Hindustani = "Raag Bairagi [Bairagi Bhairav]"
 
 [[modes]]
   slug = "loc-x2-x6"

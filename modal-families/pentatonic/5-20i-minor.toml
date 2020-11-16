@@ -13,7 +13,7 @@
 
   [modes.names]
     Carnatic = "Bhūpalam Rāgam"
-    Hindustani = "Raag Bhoopal (Bhupal) Todi"
+    Hindustani = "Raag Bhoopal [Bhupal] Todi"
 
 [[modes]]
   slug = "loc-x3-x7"

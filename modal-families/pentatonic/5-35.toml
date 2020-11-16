@@ -13,9 +13,9 @@
 
   [modes.names]
     Western = "Major Pentatonic"
-    Ethiopian = "Full Tizita (Tezita), Tizita Major"
+    Ethiopian = "Full Tizita [Tezita], Tizita Major"
     Carnatic = "Mohanam Rāgam"
-    Hindustani = "Raag Bhoopali (Bhoop, Bhupālī)"
+    Hindustani = "Raag Bhoopali [Bhoop, Bhupālī]"
     Japanese = "Ryo"
     Chinese = "Gong"
 
@@ -34,11 +34,11 @@
 
   [modes.names]
     Western = "Scottish Pentatonic"
-    Carnatic = "Shuddha (Śuddha) Sāveri Rāgam"
+    Carnatic = "Shuddha [Śuddha] Sāveri Rāgam"
     Hindustani = "Raag Durga"
     Vietnamese = "Bac"
-    Korean = "Pyeongjo (P’yŏngjo)"
-    Japanese = "Ritsu"
+    Korean = "Pyeongjo [P’yŏngjo]"
+    Japanese = "Ritsu, Yo (major mode)"
     Chinese = "Zhi"
 
 [[modes]]
@@ -75,11 +75,11 @@
 
   [modes.names]
     Western = "Minor Pentatonic"
-    Ethiopian = "Bati (Batti) Minor"
-    Carnatic = "Udayaravichandrika Rāgam, Shuddha (Śuddha) Dhanyasi Rāgam"
+    Ethiopian = "Bati [Batti] Minor"
+    Carnatic = "Udayaravichandrika Rāgam, Shuddha [Śuddha] Dhanyasi Rāgam"
     Hindustani = "Raag Dhani"
-    Korean = "Gyemyeonjo (Kyemyŏnjo)"
-    Japanese = "Yo"
+    Korean = "Gyemyeonjo [Kyemyŏnjo]"
+    Japanese = "Min-yo [Min'yō], Yo (minor mode)"
     Chinese = "Yu"
 
 [[modes]]
@@ -97,6 +97,6 @@
 
   [modes.names]
     Ethiopian = "Shegaye"
-    Carnatic = "Hindolam (Hindōḷaṃ) Rāgam"
+    Carnatic = "Hindolam [Hindōḷaṃ] Rāgam"
     Hindustani = "Raag Malkauns"
     Chinese = "Jue"
