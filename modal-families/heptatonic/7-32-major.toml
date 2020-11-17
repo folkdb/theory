@@ -1,0 +1,30 @@
+[[modes]]
+  slug = "lyd-x2-b3+"
+  canonical = "Lydian (drop 2, add b3)"
+
+  [modes.degrees]
+    1 = [1]
+    2 = []
+    3 = [0, 1]
+    4 = [1]
+    5 = [1]
+    6 = [1]
+    7 = [1]
+
+  [modes.names]
+    Carnatic = "Kōsalam Rāgam (71st Mēlakarta)"
+
+[[modes]]
+  slug = "ion-x5-b6+"
+  canonical = "Ionian (drop 5, add b6)"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [1]
+    3 = [1]
+    4 = [0]
+    5 = []
+    6 = [0, 1]
+    7 = [1]
+
+  names = {}

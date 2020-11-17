@@ -56,7 +56,7 @@
     Hindustani = "Khamaj Thaat"
     Persian = "Dastgāh-e Māhur (upper octave)"
     Turkish = "Rast Makam (descending)"
-    Jewish = "Adonai Malach Mode (lower octave)"
+    Ashkenazi = "Adonai Malach Mode (lower octave)"
     Japanese = "Ryo (auxiliary 4/b7)"
 
 [[modes]]
@@ -75,7 +75,7 @@
   [modes.names]
     Carnatic = "Kharaharapriya Rāgam (22nd Mēlakarta)"
     Hindustani = "Kafi Thaat"
-    Jewish = "Adonai Malach Mode (upper octave)"
+    Ashkenazi = "Adonai Malach Mode (upper octave)"
     Japanese = "Ritsu (auxiliary b3/b7)"
 
 [[modes]]
@@ -95,9 +95,9 @@
       Western = "Minor Scale, Natural Minor"
       Carnatic = "Natabhairavi [Naṭabhairavi] Rāgam (20th Mēlakarta)"
       Hindustani = "Asavari Thaat"
-      Turkish = "Buselik [Bûselik] Makam"
+      Turkish = "Bûselik-Kurdi Makam"
       Arabic = "Maqam Nahawand-Kurd"
-      Jewish = "Magein Avot Mode"
+      Ashkenazi = "Magein Avot Mode"
       Japanese = "Yo (minor mode, auxiliary 2/b6)"
 
 [[modes]]
@@ -118,7 +118,7 @@
     Hindustani = "Bhairavi Thaat"
     Turkish = "Kurdi [Kürdî] Makam"
     Arabic = "Maqam Kurd"
-    Jewish = "Yishtabach Mode"
+    Ashkenazi = "Yishtabach Mode"
     Japanese = "In (primary mode, auxiliary b3/b7)"
 
 [[modes]]

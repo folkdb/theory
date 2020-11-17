@@ -1,0 +1,57 @@
+[[modes]]
+  slug = "dor-s4"
+  canonical = "Dorian ♯4"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [1]
+    3 = [0]
+    4 = [1]
+    5 = [1]
+    6 = [1]
+    7 = [0]
+
+  [modes.names]
+    Western = "Ukrainian Dorian, Romanian Minor"
+    Carnatic = "Hēmavati Rāgam (58th Mēlakarta)"
+    Arabic = "Maqam Nikriz"
+    Ashkenazi = "Misheberekh Mode"
+
+[[modes]]
+  slug = "aeo-maj7"
+  canonical = "Aeolian Δ7"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [1]
+    3 = [0]
+    4 = [0]
+    5 = [1]
+    6 = [0]
+    7 = [1]
+
+  [modes.names]
+    Western = "Harmonic Minor"
+    Carnatic = "Keeravāni [Keeravāṇi] Rāgam (21st Mēlakarta)"
+    Turkish = "Bûselik-Hicaz Makam"
+    Arabic = "Maqam Nahawand-Hijaz"
+
+[[modes]]
+  slug = "phr-maj3"
+  canonical = "Phrygian Δ3"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [0]
+    3 = [1]
+    4 = [0]
+    5 = [1]
+    6 = [0]
+    7 = [0]
+
+  [modes.names]
+    Western = "Phrygian Dominant, Spanish Phrygian"
+    Iberian = "Escala Andaluza"
+    Carnatic = "Vakulābharanam [Vakuḷābharaṇam] Rāgam (14th Mēlakarta)"
+    Arabic = "Maqam Hijaz-Nahawand"
+    Ashkenazi = "Ahava Rabbah Mode, Freygish"
