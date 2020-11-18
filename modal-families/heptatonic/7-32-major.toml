@@ -12,7 +12,7 @@
     7 = [1]
 
   [modes.names]
-    Carnatic = "Kōsalam Rāgam (71st Mēlakarta)"
+    Carnatic = "Kōsalam (71st Mēḷakarta Rāgam)"
 
 [[modes]]
   slug = "ion-x5-b6+"

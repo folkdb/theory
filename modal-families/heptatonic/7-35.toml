@@ -12,8 +12,8 @@
     7 = [1]
 
   [modes.names]
-    Carnatic = "Kalyāni [Kaḷyāṇi] Rāgam (65th Mēlakarta)"
     Hindustani = "Kalyan Thaat"
+    Carnatic = "Kaḷyāṇi (65th Mēḷakarta Rāgam)"
     Japanese = "Ryo (auxiliary #4/7)"
 
 [[modes]]
@@ -31,11 +31,11 @@
 
   [modes.names]
     Western = "Major Scale"
-    Carnatic = "Shankarābharanam [Śankarābharaṇaṃ, Dhīraśankarābharaṇaṃ] Rāgam (29th Mēlakarta)"
-    Hindustani = "Bilaval [Bilawal] Thaat"
-    Persian = "Dastgāh-e Māhur (lower octave)"
-    Turkish = "Çargah [Çârgâh] Makam, Rast Makam (ascending)"
     Arabic = "Maqam ‘Ajam"
+    Turkish = "Çârgâh Makam, Rast Makam (ascending)"
+    Persian = "Dastgāh-e Māhur (lower octave)"
+    Hindustani = "Bilaval [Bilawal] Thaat"
+    Carnatic = "Śankarābharaṇaṃ [Dhīraśankarābharaṇaṃ] (29th Mēḷakarta Rāgam)"
     Japanese = "Ryo (auxiliary 4/7)"
 
 [[modes]]
@@ -52,11 +52,11 @@
     7 = [0]
 
   [modes.names]
-    Carnatic = "Harikāmbhōji Rāgam (28th Mēlakarta)"
-    Hindustani = "Khamaj Thaat"
-    Persian = "Dastgāh-e Māhur (upper octave)"
-    Turkish = "Rast Makam (descending)"
     Ashkenazi = "Adonai Malach Mode (lower octave)"
+    Turkish = "Rast Makam (descending)"
+    Persian = "Dastgāh-e Māhur (upper octave)"
+    Hindustani = "Khamaj Thaat"
+    Carnatic = "Harikāmbhōji (28th Mēḷakarta Rāgam)"
     Japanese = "Ryo (auxiliary 4/b7)"
 
 [[modes]]
@@ -73,9 +73,9 @@
     7 = [0]
 
   [modes.names]
-    Carnatic = "Kharaharapriya Rāgam (22nd Mēlakarta)"
-    Hindustani = "Kafi Thaat"
     Ashkenazi = "Adonai Malach Mode (upper octave)"
+    Hindustani = "Kafi Thaat"
+    Carnatic = "Kharaharapriya (22nd Mēḷakarta Rāgam)"
     Japanese = "Ritsu (auxiliary b3/b7)"
 
 [[modes]]
@@ -93,11 +93,11 @@
 
     [modes.names]
       Western = "Minor Scale, Natural Minor"
-      Carnatic = "Natabhairavi [Naṭabhairavi] Rāgam (20th Mēlakarta)"
-      Hindustani = "Asavari Thaat"
-      Turkish = "Bûselik-Kurdi Makam"
-      Arabic = "Maqam Nahawand-Kurd"
       Ashkenazi = "Magein Avot Mode"
+      Arabic = "Maqam Nahawand-Kurd"
+      Turkish = "Bûselik-Kurdi Makam"
+      Hindustani = "Asavari Thaat"
+      Carnatic = "Naṭabhairavi (20th Mēḷakarta Rāgam)"
       Japanese = "Yo (minor mode, auxiliary 2/b6)"
 
 [[modes]]
@@ -114,11 +114,11 @@
     7 = [0]
 
   [modes.names]
-    Carnatic = "Tōdi [Hanumatōdi] Rāgam (8th Mēlakarta)"
-    Hindustani = "Bhairavi Thaat"
-    Turkish = "Kurdi [Kürdî] Makam"
-    Arabic = "Maqam Kurd"
     Ashkenazi = "Yishtabach Mode"
+    Arabic = "Maqam Kurd"
+    Turkish = "Kürdî Makam"
+    Hindustani = "Bhairavi Thaat"
+    Carnatic = "Tōdi [Hanumatōdi] (8th Mēḷakarta Rāgam)"
     Japanese = "In (primary mode, auxiliary b3/b7)"
 
 [[modes]]

@@ -13,9 +13,9 @@
 
   [modes.names]
     Western = "Ukrainian Dorian, Romanian Minor"
-    Carnatic = "Hēmavati Rāgam (58th Mēlakarta)"
-    Arabic = "Maqam Nikriz"
     Ashkenazi = "Misheberekh Mode"
+    Arabic = "Maqam Nikriz"
+    Carnatic = "Hēmavati (58th Mēḷakarta Rāgam)"
 
 [[modes]]
   slug = "aeo-maj7"
@@ -32,9 +32,9 @@
 
   [modes.names]
     Western = "Harmonic Minor"
-    Carnatic = "Keeravāni [Keeravāṇi] Rāgam (21st Mēlakarta)"
-    Turkish = "Bûselik-Hicaz Makam"
     Arabic = "Maqam Nahawand-Hijaz"
+    Turkish = "Bûselik-Hicaz Makam"
+    Carnatic = "Keeravāṇi (21st Mēḷakarta Rāgam)"
 
 [[modes]]
   slug = "phr-maj3"
@@ -51,7 +51,22 @@
 
   [modes.names]
     Western = "Phrygian Dominant, Spanish Phrygian"
-    Iberian = "Escala Andaluza"
-    Carnatic = "Vakulābharanam [Vakuḷābharaṇam] Rāgam (14th Mēlakarta)"
-    Arabic = "Maqam Hijaz-Nahawand"
     Ashkenazi = "Ahava Rabbah Mode, Freygish"
+    Iberian = "Escala Andaluza"
+    Arabic = "Maqam Hijaz-Nahawand"
+    Carnatic = "Vakuḷābharaṇam (14th Mēḷakarta Rāgam)"
+
+[[modes]]
+  slug = "loc-maj6"
+  canonical = "Locrian Δ6"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [0]
+    3 = [0]
+    4 = [0, 1]
+    5 = []
+    6 = [1]
+    7 = [0]
+
+  names = {}
