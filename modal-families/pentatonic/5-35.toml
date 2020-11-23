@@ -1,6 +1,8 @@
 [[modes]]
+  ordinal = 1
   slug = "lyd-ion-mix"
   canonical = "Lydian/Ionian/Mixolydian Pentatonic"
+  quality = "major"
 
   [modes.degrees]
     1 = [1]
@@ -14,14 +16,16 @@
   [modes.names]
     Western = "Major Pentatonic"
     Ethiopian = "Full Tizita [Tezita], Tizita Major"
-    Carnatic = "Mohanam Rāgam"
     Hindustani = "Raag Bhoopali [Bhoop, Bhupālī]"
-    Japanese = "Ryo"
+    Carnatic = "Mohanam Rāgam"
     Chinese = "Gong"
+    Japanese = "Ryo, Yo (C mode)"
 
 [[modes]]
+  ordinal = 2
   slug = "ion-mix-dor"
   canonical = "Ionian/Mixolydian/Dorian Pentatonic"
+  quality = "major"
 
   [modes.degrees]
     1 = [1]
@@ -34,16 +38,18 @@
 
   [modes.names]
     Western = "Scottish Pentatonic"
-    Carnatic = "Shuddha [Śuddha] Sāveri Rāgam"
     Hindustani = "Raag Durga"
-    Vietnamese = "Bac"
-    Korean = "Pyeongjo [P’yŏngjo]"
-    Japanese = "Ritsu, Yo (major mode)"
+    Carnatic = "Śuddha Sāveri Rāgam"
     Chinese = "Zhi"
+    Korean = "Pyeongjo [P’yŏngjo]"
+    Japanese = "Ritsu, Yo (G mode)"
+    Vietnamese = "Bac"
 
 [[modes]]
+  ordinal = 3
   slug = "mix-dor-aeo"
   canonical = "Mixolydian/Dorian/Aeolian Pentatonic"
+  quality = "major-minor"
 
   [modes.degrees]
     1 = [1]
@@ -56,13 +62,16 @@
 
   [modes.names]
     Ethiopian = "Yematebela Wofe"
-    Carnatic = "Madhyamāvati Rāgam"
     Hindustani = "Raag Madhumad Sarang"
+    Carnatic = "Madhyamāvati Rāgam"
     Chinese = "Shang"
+    Japanese = "Yo (D mode)"
 
 [[modes]]
+  ordinal = 4
   slug = "dor-aeo-phr"
   canonical = "Dorian/Aeolian/Phrygian Pentatonic"
+  quality = "minor"
 
   [modes.degrees]
     1 = [1]
@@ -76,15 +85,17 @@
   [modes.names]
     Western = "Minor Pentatonic"
     Ethiopian = "Bati [Batti] Minor"
-    Carnatic = "Udayaravichandrika Rāgam, Shuddha [Śuddha] Dhanyasi Rāgam"
     Hindustani = "Raag Dhani"
-    Korean = "Gyemyeonjo [Kyemyŏnjo]"
-    Japanese = "Min-yo [Min'yō], Yo (minor mode)"
+    Carnatic = "Udayaravichandrika Rāgam, Śuddha Dhanyasi Rāgam"
     Chinese = "Yu"
+    Korean = "Gyemyeonjo [Kyemyŏnjo]"
+    Japanese = "Min-yo [Min'yō], Yo (A mode)"
 
 [[modes]]
+  ordinal = 5
   slug = "aeo-phr-loc"
   canonical = "Aeolian/Phrygian/Locrian Pentatonic"
+  quality = "minor"
 
   [modes.degrees]
     1 = [1]
@@ -97,6 +108,7 @@
 
   [modes.names]
     Ethiopian = "Shegaye"
-    Carnatic = "Hindolam [Hindōḷaṃ] Rāgam"
     Hindustani = "Raag Malkauns"
+    Carnatic = "Hindōḷaṃ Rāgam"
     Chinese = "Jue"
+    Japanese = "Yo (E mode)"

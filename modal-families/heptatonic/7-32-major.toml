@@ -1,6 +1,6 @@
 [[modes]]
-  slug = "lyd-x2-b3+"
-  canonical = "Lydian (drop 2, add b3)"
+  slug = "lyd-r2"
+  canonical = "Lydian ↑2"
 
   [modes.degrees]
     1 = [1]
@@ -15,8 +15,8 @@
     Carnatic = "Kōsalam (71st Mēḷakarta Rāgam)"
 
 [[modes]]
-  slug = "ion-x5-b6+"
-  canonical = "Ionian (drop 5, add b6)"
+  slug = "ion-r5"
+  canonical = "Ionian ↑5"
 
   [modes.degrees]
     1 = [1]
@@ -26,5 +26,3 @@
     5 = []
     6 = [0, 1]
     7 = [1]
-
-  names = {}

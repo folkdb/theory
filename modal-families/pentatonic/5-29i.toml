@@ -1,0 +1,94 @@
+[[modes]]
+  ordinal = 1
+  slug = "lyd-x2-x5"
+  canonical = "Lydian ×2 ×5"
+  quality = "major"
+
+  [modes.degrees]
+    1 = [1]
+    2 = []
+    3 = [1]
+    4 = [1]
+    5 = []
+    6 = [1]
+    7 = [1]
+
+  [modes.names]
+    Carnatic = "Sunādavinodini Rāgam"
+    Japanese = "Kon-go (F mode)"
+
+[[modes]]
+  ordinal = 4
+  slug = "dor-x4-x7"
+  canonical = "Dorian ×4 ×7"
+  quality = "minor"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [1]
+    3 = [0]
+    4 = []
+    5 = [1]
+    6 = [1]
+    7 = []
+
+  [modes.names]
+    Hindustani = "Raag Shivaranjani"
+    Carnatic = "Śivaranjani Rāgam"
+    Japanese = "Kon-go (D mode)"
+
+[[modes]]
+  ordinal = 5
+  slug = "aeo-x3-x7"
+  canonical = "Aeolian ×3 ×7"
+  quality = "minor"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [1]
+    3 = []
+    4 = [0]
+    5 = [1]
+    6 = [0]
+    7 = []
+
+  [modes.names]
+    Japanese = "Kon-go (A mode)"
+
+[[modes]]
+  ordinal = 6
+  slug = "phr-x3-x6"
+  canonical = "Phrygian ×3 ×6"
+  quality = "minor"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [0]
+    3 = []
+    4 = [0]
+    5 = [1]
+    6 = []
+    7 = [0]
+
+  [modes.names]
+    Hindustani = "Raag Bairagi [Bairagi Bhairav]"
+    Carnatic = "Revati Rāgam"
+    Japanese = "Kon-go (E mode)"
+
+[[modes]]
+  ordinal = 7
+  slug = "loc-x2-x6"
+  canonical = "Locrian ×2 ×6"
+  quality = "minor"
+
+  [modes.degrees]
+    1 = [1]
+    2 = []
+    3 = [0]
+    4 = [0, 1]
+    5 = []
+    6 = []
+    7 = [0]
+
+  [modes.names]
+    Japanese = "Kon-go (B mode)"

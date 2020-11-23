@@ -1,0 +1,92 @@
+[[modes]]
+  ordinal = 1
+  slug = "lyd-x3-x6"
+  canonical = "Lydian ×3 ×6"
+  quality = "major"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [1]
+    3 = []
+    4 = [1]
+    5 = [1]
+    6 = []
+    7 = [1]
+
+  [modes.names]
+    Carnatic = "Hamsanādam Rāgam"
+    Japanese = "Ryu-kyu (F mode)"
+
+[[modes]]
+  ordinal = 2
+  slug = "ion-x2-x6"
+  canonical = "Ionian ×2 ×6"
+  quality = "major"
+
+  [modes.degrees]
+    1 = [1]
+    2 = []
+    3 = [1]
+    4 = [0]
+    5 = [1]
+    6 = []
+    7 = [1]
+
+  [modes.names]
+    Ethiopian = "Bati [Batti] Major"
+    Carnatic = "Gambhiranata Rāgam"
+    Japanese = "Ryu-kyu (C mode)"
+
+[[modes]]
+  ordinal = 3
+  slug = "mix-x2-x5"
+  canonical = "Mixolydian ×2 ×5"
+  quality = "major"
+
+  [modes.degrees]
+    1 = [1]
+    2 = []
+    3 = [1]
+    4 = [0]
+    5 = []
+    6 = [1]
+    7 = [0]
+
+  [modes.names]
+    Japanese = "Ryu-kyu (G mode)"
+
+[[modes]]
+  ordinal = 6
+  slug = "phr-x4-x7"
+  canonical = "Phrygian ×4 ×7"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [0]
+    3 = [0]
+    4 = []
+    5 = [1]
+    6 = [0]
+    7 = []
+
+  [modes.names]
+    Hindustani = "Raag Bhoopal [Bhupal] Todi"
+    Carnatic = "Bhūpalam Rāgam"
+    Japanese = "Ryu-kyu (E mode)"
+
+[[modes]]
+  slug = "loc-x3-x7"
+  canonical = "Locrian ×3 ×7"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [0]
+    3 = []
+    4 = [0, 1]
+    5 = []
+    6 = [0]
+    7 = []
+
+  [modes.names]
+    Japanese = "Ryu-kyu (B mode)"
+

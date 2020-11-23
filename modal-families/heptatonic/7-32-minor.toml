@@ -1,3 +1,6 @@
+family = "7-32"
+progression = "minor"
+
 [[modes]]
   slug = "dor-s4"
   canonical = "Dorian ♯4"
@@ -68,5 +71,3 @@
     5 = []
     6 = [1]
     7 = [0]
-
-  names = {}

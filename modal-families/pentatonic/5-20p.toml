@@ -1,0 +1,96 @@
+[[modes]]
+  ordinal = 1
+  slug = "lyd-x2-x6"
+  canonical = "Lydian ×2 ×6"
+  quality = "major"
+
+  [modes.degrees]
+    1 = [1]
+    2 = []
+    3 = [1]
+    4 = [1]
+    5 = [1]
+    6 = []
+    7 = [1]
+
+  [modes.names]
+    Ethiopian = "Bati [Batti] Lydian"
+    Carnatic = "Amr̥tavarṣiṇi Rāgam"
+    Japanese = "In (F mode)"
+
+[[modes]]
+  ordinal = 2
+  slug = "ion-x2-x5"
+  canonical = "Ionian ×2 ×5"
+  quality = "major"
+
+  [modes.degrees]
+    1 = [1]
+    2 = []
+    3 = [1]
+    4 = [0]
+    5 = []
+    6 = [1]
+    7 = [1]
+
+  [modes.names]
+    Hindustani = "Raag Bhinna Shadja"
+    Japanese = "In (C mode)"
+
+[[modes]]
+  ordinal = 5
+  slug = "aeo-x4-x6"
+  canonical = "Aeolian ×4 ×6"
+  quality = "minor"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [1]
+    3 = [0]
+    4 = []
+    5 = [1]
+    6 = [0]
+    7 = []
+
+  [modes.names]
+    Ethiopian = "Half Tizita [Tezita], Tizita Minor"
+    Japanese = "In (A mode)"
+
+[[modes]]
+  ordinal = 6
+  slug = "phr-x3-x7"
+  canonical = "Phrygian ×3 ×7"
+  quality = "minor"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [0]
+    3 = []
+    4 = [0]
+    5 = [1]
+    6 = [0]
+    7 = []
+
+  [modes.names]
+    Ethiopian = "Ambassel"
+    Carnatic = "Karnataka Śuddha Sāveri Rāgam, Asāvēri Rāgam (ascending)"
+    Japanese = "Miyako-bushi, In (E mode)"
+
+[[modes]]
+  ordinal = 7
+  slug = "loc-x3-x6"
+  canonical = "Locrian ×3 ×6"
+  quality = "minor"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [0]
+    3 = []
+    4 = [0, 1]
+    5 = []
+    6 = []
+    7 = [0]
+
+  [modes.names]
+    Ethiopian = "Anchihoye"
+    Japanese = "In (B mode)"
