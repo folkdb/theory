@@ -1,6 +1,8 @@
 [[modes]]
-  slug = "lydian"
+  ordinal = 1
+  slug = "lyd"
   canonical = "Lydian Mode"
+  quality = "major"
 
   [modes.degrees]
     1 = [1]
@@ -14,11 +16,13 @@
   [modes.names]
     Hindustani = "Kalyan Thaat"
     Carnatic = "Kaḷyāṇi (65th Mēḷakarta Rāgam)"
-    Japanese = "Ryo (auxiliary #4/7)"
+    Japanese = "Ryo (aux. #4/7)"
 
 [[modes]]
-  slug = "ionian"
+  ordinal = 2
+  slug = "ion"
   canonical = "Ionian Mode"
+  quality = "major"
 
   [modes.degrees]
     1 = [1]
@@ -36,11 +40,13 @@
     Persian = "Dastgāh-e Māhur (lower octave)"
     Hindustani = "Bilaval [Bilawal] Thaat"
     Carnatic = "Śankarābharaṇaṃ [Dhīraśankarābharaṇaṃ] (29th Mēḷakarta Rāgam)"
-    Japanese = "Ryo (auxiliary 4/7)"
+    Japanese = "Ryo (aux. 4/7)"
 
 [[modes]]
-  slug = "mixolydian"
+  ordinal = 3
+  slug = "mix"
   canonical = "Mixolydian Mode"
+  quality = "major"
 
   [modes.degrees]
     1 = [1]
@@ -57,11 +63,13 @@
     Persian = "Dastgāh-e Māhur (upper octave)"
     Hindustani = "Khamaj Thaat"
     Carnatic = "Harikāmbhōji (28th Mēḷakarta Rāgam)"
-    Japanese = "Ryo (auxiliary 4/b7)"
+    Japanese = "Ryo (aux. 4/♭7)"
 
 [[modes]]
-  slug = "dorian"
+  ordinal = 4
+  slug = "dor"
   canonical = "Dorian Mode"
+  quality = "minor"
 
   [modes.degrees]
     1 = [1]
@@ -76,11 +84,13 @@
     Ashkenazi = "Adonai Malach Mode (upper octave)"
     Hindustani = "Kafi Thaat"
     Carnatic = "Kharaharapriya (22nd Mēḷakarta Rāgam)"
-    Japanese = "Ritsu (auxiliary b3/b7)"
+    Japanese = "Ritsu (aux. ♭3/♭7)"
 
 [[modes]]
-  slug = "aeolian"
+  ordinal = 5
+  slug = "aeo"
   canonical = "Aeolian Mode"
+  quality = "minor"
 
   [modes.degrees]
     1 = [1]
@@ -98,11 +108,13 @@
       Turkish = "Bûselik-Kurdi Makam"
       Hindustani = "Asavari Thaat"
       Carnatic = "Naṭabhairavi (20th Mēḷakarta Rāgam)"
-      Japanese = "Yo (minor mode, auxiliary 2/b6)"
+      Japanese = "Yo (A mode, aux. 2/♭6)"
 
 [[modes]]
-  slug = "phrygian"
+  ordinal = 6
+  slug = "phr"
   canonical = "Phrygian Mode"
+  quality = "minor"
 
   [modes.degrees]
     1 = [1]
@@ -110,7 +122,7 @@
     3 = [0]
     4 = [0]
     5 = [1]
-    6 = [1]
+    6 = [0]
     7 = [0]
 
   [modes.names]
@@ -119,11 +131,13 @@
     Turkish = "Kürdî Makam"
     Hindustani = "Bhairavi Thaat"
     Carnatic = "Tōdi [Hanumatōdi] (8th Mēḷakarta Rāgam)"
-    Japanese = "In (primary mode, auxiliary b3/b7)"
+    Japanese = "In (E mode, aux. ♭3/♭7)"
 
 [[modes]]
-  slug = "locrian"
+  ordinal = 7
+  slug = "loc"
   canonical = "Locrian Mode"
+  quality = "minor"
 
   [modes.degrees]
     1 = [1]

@@ -1,9 +1,41 @@
-family = "7-32"
-progression = "minor"
+[[modes]]
+  ordinal = 1
+  slug = "lyd-r2"
+  canonical = "Lydian ↑2"
+  quality = "major"
+
+  [modes.degrees]
+    1 = [1]
+    2 = []
+    3 = [0, 1]
+    4 = [1]
+    5 = [1]
+    6 = [1]
+    7 = [1]
+
+  [modes.names]
+    Carnatic = "Kōsalam (71st Mēḷakarta Rāgam)"
 
 [[modes]]
+  ordinal = 2
+  slug = "ion-r5"
+  canonical = "Ionian ↑5"
+  quality = "major"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [1]
+    3 = [1]
+    4 = [0]
+    5 = []
+    6 = [0, 1]
+    7 = [1]
+
+[[modes]]
+  ordinal = 4
   slug = "dor-s4"
   canonical = "Dorian ♯4"
+  quality = "minor"
 
   [modes.degrees]
     1 = [1]
@@ -21,8 +53,10 @@ progression = "minor"
     Carnatic = "Hēmavati (58th Mēḷakarta Rāgam)"
 
 [[modes]]
+  ordinal = 5
   slug = "aeo-maj7"
   canonical = "Aeolian Δ7"
+  quality = "minor"
 
   [modes.degrees]
     1 = [1]
@@ -40,8 +74,10 @@ progression = "minor"
     Carnatic = "Keeravāṇi (21st Mēḷakarta Rāgam)"
 
 [[modes]]
+  ordinal = 6
   slug = "phr-maj3"
   canonical = "Phrygian Δ3"
+  quality = "minor"
 
   [modes.degrees]
     1 = [1]
@@ -60,8 +96,10 @@ progression = "minor"
     Carnatic = "Vakuḷābharaṇam (14th Mēḷakarta Rāgam)"
 
 [[modes]]
+  ordinal = 7
   slug = "loc-maj6"
   canonical = "Locrian Δ6"
+  quality = "minor"
 
   [modes.degrees]
     1 = [1]
