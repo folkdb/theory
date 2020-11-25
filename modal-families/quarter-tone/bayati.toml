@@ -1,0 +1,44 @@
+[[modes]]
+  ordinal = 1
+  slug = "rast-bayati-x4-x7"
+  canonical = "Rast-Bayati ×4 ×7"
+  quality = "minor"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [1]
+    3 = [0.5]
+    4 = []
+    5 = [1]
+    6 = [0.5]
+    7 = []
+
+[[modes]]
+  ordinal = 2
+  slug = "bayati-rast-x3-x7"
+  canonical = "Bayati-Rast ×3 ×7"
+  quality = "minor"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [0.5]
+    3 = []
+    4 = [0]
+    5 = [1]
+    6 = [0.5]
+    7 = []
+
+[[modes]]
+  ordinal = 3
+  slug = "bayati-hijaz-x3-x6"
+  canonical = "Bayati-Hijaz ×3 ×6"
+  quality = "minor"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [0.5]
+    3 = []
+    4 = [0]
+    5 = [0.5]
+    6 = []
+    7 = [0]
