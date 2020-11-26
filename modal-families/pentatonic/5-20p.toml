@@ -39,8 +39,8 @@
 
 [[modes]]
   ordinal = 5
-  slug = "aeo-x4-x6"
-  canonical = "Aeolian ×4 ×6"
+  slug = "aeo-x4-x7"
+  canonical = "Aeolian ×4 ×7"
   quality = "minor"
 
   [modes.degrees]
