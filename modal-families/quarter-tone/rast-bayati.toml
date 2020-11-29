@@ -1,0 +1,83 @@
+[[modes]]
+  ordinal = 1
+  slug = "rast-bayati-x4-x7"
+  canonical = "Rast-Bayati ×4 ×7"
+  quality = "half-major"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [1]
+    3 = [0.5]
+    4 = []
+    5 = [1]
+    6 = [0.5]
+    7 = []
+
+[[modes]]
+  ordinal = 2
+  slug = "bayati-rast-x3-x7"
+  canonical = "Bayati-Rast ×3 ×7"
+  quality = "half-major"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [0.5]
+    3 = []
+    4 = [0]
+    5 = [1]
+    6 = [0.5]
+    7 = []
+
+  [modes.names]
+    Vietnamese = "Ho Mai Nhi"
+
+[[modes]]
+  ordinal = 3
+  slug = "bayati-rast-x3-x7"
+  canonical = "Bayati-Rast ×3 ×7"
+  quality = "half-major"
+
+  [modes.degrees]
+    1 = [1]
+    2 = [0.5]
+    3 = []
+    4 = [0]
+    5 = [1]
+    6 = []
+    7 = [0.5]
+
+  [modes.names]
+    Vietnamese = "Hơi Xuân"
+
+[[modes]]
+  ordinal = 4
+  slug = "rast-x2-x6"
+  canonical = "Rast ×2 ×6"
+  quality = "half-minor"
+
+  [modes.degrees]
+    1 = [1]
+    2 = []
+    3 = [0.5]
+    4 = [0]
+    5 = [1]
+    6 = []
+    7 = [0.5]
+
+  [modes.names]
+    Vietnamese = "Hơi Sa Mac (lower 3), Hơi Ai/Oán (higher 3)"
+
+[[modes]]
+  ordinal = 5
+  slug = "rast-bayati-x2-x5"
+  canonical = "Rast-Bayati ×2 ×5"
+  quality = "half-minor"
+
+  [modes.degrees]
+    1 = [1]
+    2 = []
+    3 = [0.5]
+    4 = [0]
+    5 = []
+    6 = [0.5]
+    7 = [0]

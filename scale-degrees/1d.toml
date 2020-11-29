@@ -14,11 +14,6 @@ ratio = "27/14"
 cents = 1137.04
 
 [[tunings]]
-limit = 7
-ratio = "35/18"
-cents = 1151.23
-
-[[tunings]]
 limit = 5
 ratio = "125/64"
 cents = 1158.94
