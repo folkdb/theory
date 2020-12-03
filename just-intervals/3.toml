@@ -1,0 +1,65 @@
+[[intervals]]
+  notation = "♭3[-33]"
+  interval = "♭7/5"
+  ratio = "7/6"
+  cents = 266.87
+
+[[intervals]]
+  notation = "♭3[-19]"
+  interval = "Δ3/♭2"
+  ratio = "20/17"
+  cents = 281.35
+
+[[intervals]]
+  notation = "♭3[-11]"
+  interval = "♭6/♯4"
+  ratio = "13/11"
+  cents = 289.21
+
+[[intervals]]
+  notation = "♭3[+16]"
+  interval = "5/Δ3"
+  ratio = "6/5"
+  cents = 315.64
+
+[[intervals]]
+  notation = "♭3[+47]"
+  interval = "♯4/Δ2"
+  ratio = "11/9"
+  cents = 347.40
+
+[[intervals]]
+  notation = "Δ3[-41]"
+  interval = "8/♭6"
+  ratio = "16/13"
+  cents = 359.47
+
+[[intervals]]
+  notation = "Δ3[-34]"
+  interval = "4/♭2"
+  ratio = "21/17"
+  cents = 365.82
+
+[[intervals]]
+  notation = "Δ3[-14]"
+  interval = "Δ3/1"
+  ratio = "5/4"
+  cents = 386.31
+
+[[intervals]]
+  notation = "Δ3[+9]"
+  interval = "♭10/Δ7"
+  ratio = "19/15"
+  cents = 409.24
+
+[[intervals]]
+  notation = "Δ3[+17]"
+  interval = "♭7/♯4"
+  ratio = "14/11"
+  cents = 417.27
+
+[[intervals]]
+  notation = "Δ3[+35]"
+  interval = "Δ9/♭7"
+  ratio = "9/7"
+  cents = 435.08
