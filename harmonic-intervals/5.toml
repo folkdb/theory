@@ -1,11 +1,11 @@
 [[intervals]]
   notation = "5[-43]"
-  interval = "♭10/♭6"
+  interval = "♭10/♮6"
   ratio = "19/13"
   cents = 656.98
 
 [[intervals]]
   notation = "5[+2]"
-  interval = "5/1"
+  interval = "P5/P1"
   ratio = "3/2"
   cents = 701.96

@@ -1,0 +1,41 @@
+[[intervals]]
+  notation = "♭7[-31]"
+  interval = "♭7/P1"
+  ratio = "7/4"
+  cents = 968.83
+
+[[intervals]]
+  notation = "♭7[-4]"
+  interval = "P8/Δ2"
+  ratio = "16/9"
+  cents = 996.09
+
+[[intervals]]
+  notation = "♭7[+18]"
+  interval = "Δ9/Δ3"
+  ratio = "9/5"
+  cents = 1017.60
+
+[[intervals]]
+  notation = "♭7[+35]"
+  interval = "Δ10/♯4"
+  ratio = "20/11"
+  cents = 1035.00
+
+[[intervals]]
+  notation = "♭7[+49]"
+  interval = "♯11/5"
+  ratio = "11/6"
+  cents = 1049.36
+
+[[intervals]]
+  notation = "Δ7[-28]"
+  interval = "♮13/♭7"
+  ratio = "13/7"
+  cents = 1071.70
+
+[[intervals]]
+  notation = "Δ7[-12]"
+  interval = "Δ7/P1"
+  ratio = "15/8"
+  cents = 1088.27

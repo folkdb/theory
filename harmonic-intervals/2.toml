@@ -18,13 +18,13 @@
 
 [[intervals]]
   notation = "♭2[+5]"
-  interval = "♭2/1"
+  interval = "♭2/P1"
   ratio = "17/16"
   cents = 104.96
 
 [[intervals]]
   notation = "♭2[+12]"
-  interval = "8/Δ7"
+  interval = "P8/Δ7"
   ratio = "16/15"
   cents = 111.73
 
@@ -36,19 +36,19 @@
 
 [[intervals]]
   notation = "♭2[+28]"
-  interval = "♭7/♭6"
+  interval = "♭7/♮6"
   ratio = "14/13"
   cents = 128.30
 
 [[intervals]]
   notation = "♭2[+39]"
-  interval = "♭6/5"
+  interval = "♮6/P5"
   ratio = "13/12"
   cents = 138.57
 
 [[intervals]]
   notation = "Δ2[-49]"
-  interval = "5/♯4"
+  interval = "P5/♯4"
   ratio = "12/11"
   cents = 150.64
 
@@ -60,7 +60,7 @@
 
 [[intervals]]
   notation = "Δ2[-27]"
-  interval = "4/♭3"
+  interval = "♮4/♭3"
   ratio = "21/19"
   cents = 173.27
 
@@ -78,7 +78,7 @@
 
 [[intervals]]
   notation = "Δ2[+4]"
-  interval = "Δ2/1"
+  interval = "Δ2/P1"
   ratio = "9/8"
   cents = 203.91
 
@@ -90,12 +90,12 @@
 
 [[intervals]]
   notation = "Δ2[+31]"
-  interval = "8/♭7"
+  interval = "P8/♭7"
   ratio = "8/7"
   cents = 231.17
 
 [[intervals]]
   notation = "Δ2[+48]"
-  interval = "Δ7/♭6"
+  interval = "Δ7/♮6"
   ratio = "15/13"
   cents = 247.74
