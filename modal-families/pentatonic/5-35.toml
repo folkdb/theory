@@ -1,17 +1,15 @@
 [[modes]]
-  ordinal = 1
   slug = "lyd-ion-mix"
   canonical = "Lydian/Ionian/Mixolydian Pentatonic"
-  quality = "major"
+  degrees = "P1 Δ2 Δ3 P5 Δ6"
 
-  [modes.degrees]
-    1 = [1]
-    2 = [1]
-    3 = [1]
-    4 = []
-    5 = [1]
-    6 = [1]
-    7 = []
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] P5[+2] Δ6[+6]"
+
+  [[modes.tunings]]
+    name = "Just Thirds"
+    adjustments = "P1[0] Δ2[+4] Δ3[-14] P5[+2] Δ6[-16]"
 
   [modes.names]
     Western = "Major Pentatonic"
@@ -22,19 +20,17 @@
     Japanese = "Ryo, Yo (C mode)"
 
 [[modes]]
-  ordinal = 2
   slug = "ion-mix-dor"
   canonical = "Ionian/Mixolydian/Dorian Pentatonic"
-  quality = "major"
+  degrees = "P1 Δ2 P4 P5 Δ6"
 
-  [modes.degrees]
-    1 = [1]
-    2 = [1]
-    3 = []
-    4 = [0]
-    5 = [1]
-    6 = [1]
-    7 = []
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] Δ2[+4] P4[-2] P5[+2] Δ6[+6]"
+
+  [[modes.tunings]]
+    name = "Just Thirds"
+    adjustments = "P1[0] Δ2[-18] P4[-2] P5[+2] Δ6[-16]"
 
   [modes.names]
     Western = "Scottish Pentatonic"
