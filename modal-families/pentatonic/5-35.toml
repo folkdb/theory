@@ -4,12 +4,16 @@
   degrees = "P1 Δ2 Δ3 P5 Δ6"
 
   [[modes.tunings]]
-    name = "Pythagorean"
+    name = "Pythagorean / Gong"
     adjustments = "P1[0] Δ2[+4] Δ3[+8] P5[+2] Δ6[+6]"
 
   [[modes.tunings]]
-    name = "Just Thirds"
+    name = "Just Thirds (major)"
     adjustments = "P1[0] Δ2[+4] Δ3[-14] P5[+2] Δ6[-16]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (minor) / Bhoop"
+    adjustments = "P1[0] Δ2[-18] Δ3[-14] P5[+2] Δ6[-16]"
 
   [modes.names]
     Western = "Major Pentatonic"
@@ -29,8 +33,16 @@
     adjustments = "P1[0] Δ2[+4] P4[-2] P5[+2] Δ6[+6]"
 
   [[modes.tunings]]
-    name = "Just Thirds"
+    name = "Just Thirds (major) / Durga"
     adjustments = "P1[0] Δ2[-18] P4[-2] P5[+2] Δ6[-16]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (minor)"
+    adjustments = "P1[0] Δ2[-18] P4[-2] P5[-20] Δ6[-16]"
+
+  [[modes.tunings]]
+    name = "Zhi"
+    adjustments = "P1[0] Δ2[+4] P4[+23] P5[+2] Δ6[+6]"
 
   [modes.names]
     Western = "Scottish Pentatonic"
@@ -39,22 +51,28 @@
     Chinese = "Zhi"
     Korean = "Pyeongjo [P’yŏngjo]"
     Japanese = "Ritsu, Yo (G mode)"
-    Vietnamese = "Hơi Bắc"
+    Vietnamese = "Hoi Bac [Hơi Bắc]"
 
 [[modes]]
-  ordinal = 3
   slug = "mix-dor-aeo"
   canonical = "Mixolydian/Dorian/Aeolian Pentatonic"
-  quality = "major-minor"
+  degrees = "P1 Δ2 P4 P5 ♭7"
 
-  [modes.degrees]
-    1 = [1]
-    2 = [1]
-    3 = []
-    4 = [0]
-    5 = [1]
-    6 = []
-    7 = [0]
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] Δ2[+4] P4[-2] P5[+2] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (major)"
+    adjustments = "P1[0] Δ2[-18] P4[-2] P5[-22] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (minor) / Madhumad Sarang"
+    adjustments = "P1[0] Δ2[+4] P4[-2] P5[+2] ♭7[+19]"
+
+  [[modes.tunings]]
+    name = "Shang"
+    adjustments = "P1[0] Δ2[+4] P4[+23] P5[+2] ♭7[+19]"
 
   [modes.names]
     Ethiopian = "Yematebela Wofe"
@@ -64,19 +82,25 @@
     Japanese = "Yo (D mode)"
 
 [[modes]]
-  ordinal = 4
   slug = "dor-aeo-phr"
   canonical = "Dorian/Aeolian/Phrygian Pentatonic"
-  quality = "minor"
+  degrees = "P1 ♭3 P4 P5 ♭7"
 
-  [modes.degrees]
-    1 = [1]
-    2 = []
-    3 = [0]
-    4 = [0]
-    5 = [1]
-    6 = []
-    7 = [0]
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] ♭3[-6] P4[-2] P5[+2] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (major)"
+    adjustments = "P1[0] ♭3[+16] P4[+22] P5[+2] ♭7[+18]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (minor) / Dhani"
+    adjustments = "P1[0] ♭3[+16] P4[-2] P5[+2] ♭7[+18]"
+
+  [[modes.tunings]]
+    name = "Yu"
+    adjustments = "P1[0] ♭3[+26] P4[+23] P5[+2] ♭7[+19]"
 
   [modes.names]
     Western = "Minor Pentatonic"
@@ -88,19 +112,26 @@
     Japanese = "Min-yo [Min'yō], Yo (A mode)"
 
 [[modes]]
-  ordinal = 5
   slug = "aeo-phr-loc"
   canonical = "Aeolian/Phrygian/Locrian Pentatonic"
-  quality = "minor"
+  degrees = "P1 ♭3 P4 ♭6 ♭7"
 
-  [modes.degrees]
-    1 = [1]
-    2 = []
-    3 = [0]
-    4 = [0]
-    5 = []
-    6 = [0]
-    7 = [0]
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] ♭3[-6] P4[-2] ♭6[+6] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (major)"
+    adjustments = "P1[0] ♭3[+16] P4[-2] ♭6[+14] ♭7[+18]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (minor) / Malkauns"
+    adjustments = "P1[0] ♭3[+16] P4[-2] ♭6[+14] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Jue"
+    adjustments = "P1[0] ♭3[+26] P4[+23] ♭6[+14] ♭7[+19]"
+
 
   [modes.names]
     Ethiopian = "Shegaye"
