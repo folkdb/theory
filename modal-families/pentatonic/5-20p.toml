@@ -2,19 +2,19 @@
   ordinal = 1
   slug = "lyd-x2-x6"
   canonical = "Lydian ×2 ×6"
-  quality = "major"
+  degrees = "P1 Δ3 ♯4 P5 Δ7"
 
-  [modes.degrees]
-    1 = [1]
-    2 = []
-    3 = [1]
-    4 = [1]
-    5 = [1]
-    6 = []
-    7 = [1]
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] Δ3[+8] ♯4[+12] P5[+2] Δ7[+10]"
+
+  [[modes.tunings]]
+    name = "Just Thirds / Amritvarshini"
+    adjustments = "P1[0] Δ3[-14] ♯4[-10] P5[+2] Δ7[-12]"
 
   [modes.names]
     Ethiopian = "Bati [Batti] Lydian"
+    Hindustani = "Raag Amritvarshini"
     Carnatic = "Amr̥tavarṣiṇi Rāgam"
     Japanese = "In (F mode)"
 
@@ -22,16 +22,15 @@
   ordinal = 2
   slug = "ion-x2-x5"
   canonical = "Ionian ×2 ×5"
-  quality = "major"
+  degrees = "P1 Δ3 P4 Δ6 Δ7"
 
-  [modes.degrees]
-    1 = [1]
-    2 = []
-    3 = [1]
-    4 = [0]
-    5 = []
-    6 = [1]
-    7 = [1]
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] Δ3[+8] P4[-2] Δ6[+6] Δ7[+10]"
+
+  [[modes.tunings]]
+    name = "Just Thirds / Bhinna Shadja"
+    adjustments = "P1[0] Δ3[-14] P4[-2] Δ6[-16] Δ7[-12]"
 
   [modes.names]
     Hindustani = "Raag Bhinna Shadja"
@@ -41,38 +40,37 @@
   ordinal = 5
   slug = "aeo-x4-x7"
   canonical = "Aeolian ×4 ×7"
-  quality = "minor"
+  degrees = "P1 Δ2 ♭3 P5 ♭6"
 
-  [modes.degrees]
-    1 = [1]
-    2 = [1]
-    3 = [0]
-    4 = []
-    5 = [1]
-    6 = [0]
-    7 = []
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] Δ2[+4] ♭3[-6] P5[+2] ♭6[+6]"
+
+  [[modes.tunings]]
+    name = "Just Thirds"
+    adjustments = "P1[0] Δ2[+4] ♭3[+16] P5[+2] ♭6[+14]"
 
   [modes.names]
-    Ethiopian = "Half Tizita [Tezita], Tizita Minor"
+    Ethiopian = "Tizita [Tezita] (minor)"
     Japanese = "In (A mode)"
 
 [[modes]]
   ordinal = 6
   slug = "phr-x3-x7"
   canonical = "Phrygian ×3 ×7"
-  quality = "minor"
+  degrees = "P1 ♭2 P4 P5 ♭6"
 
-  [modes.degrees]
-    1 = [1]
-    2 = [0]
-    3 = []
-    4 = [0]
-    5 = [1]
-    6 = [0]
-    7 = []
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] ♭2[-10] P4[-2] P5[+2] ♭6[-8]"
+
+  [[modes.tunings]]
+    name = "Just Thirds / Gunakri"
+    adjustments = "P1[0] ♭2[+12] P4[-2] P5[+2] ♭6[+14]"
 
   [modes.names]
     Ethiopian = "Ambassel"
+    Hindustani = "Raag Gunakri"
     Carnatic = "Karnataka Śuddha Sāveri Rāgam, Asāvēri Rāgam (ascending)"
     Japanese = "Miyako-bushi, In (E mode)"
 
@@ -80,16 +78,15 @@
   ordinal = 7
   slug = "loc-x3-x6"
   canonical = "Locrian ×3 ×6"
-  quality = "minor"
+  degrees = "P1 ♭2 P4 ♯4 ♭7"
 
-  [modes.degrees]
-    1 = [1]
-    2 = [0]
-    3 = []
-    4 = [0, 1]
-    5 = []
-    6 = []
-    7 = [0]
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] ♭2[-10] P4[-2] ♯4[-12] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Just Thirds"
+    adjustments = "P1[0] ♭2[+12] P4[-2] ♯4[+10] ♭7[-4]"
 
   [modes.names]
     Ethiopian = "Anchihoye"

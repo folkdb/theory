@@ -1,4 +1,5 @@
 [[modes]]
+  ordinal = 1
   slug = "lyd-ion-mix"
   canonical = "Lydian/Ionian/Mixolydian Pentatonic"
   degrees = "P1 Δ2 Δ3 P5 Δ6"
@@ -24,6 +25,7 @@
     Japanese = "Ryo, Yo (C mode)"
 
 [[modes]]
+  ordinal = 2
   slug = "ion-mix-dor"
   canonical = "Ionian/Mixolydian/Dorian Pentatonic"
   degrees = "P1 Δ2 P4 P5 Δ6"
@@ -54,6 +56,7 @@
     Vietnamese = "Hoi Bac [Hơi Bắc]"
 
 [[modes]]
+  ordinal = 3
   slug = "mix-dor-aeo"
   canonical = "Mixolydian/Dorian/Aeolian Pentatonic"
   degrees = "P1 Δ2 P4 P5 ♭7"
@@ -75,13 +78,14 @@
     adjustments = "P1[0] Δ2[-18] P4[-2] P5[-22] ♭7[-4]"
 
   [modes.names]
-    Ethiopian = "Yematebela Wof (song)"
+    Ethiopian = "Yematebela Wof (popular song)"
     Hindustani = "Raag Madhumad Sarang"
     Carnatic = "Madhyamāvati Rāgam"
     Chinese = "Shang"
     Japanese = "Yo (D mode)"
 
 [[modes]]
+  ordinal = 4
   slug = "dor-aeo-phr"
   canonical = "Dorian/Aeolian/Phrygian Pentatonic"
   degrees = "P1 ♭3 P4 P5 ♭7"
@@ -112,13 +116,14 @@
     Japanese = "Min-yo [Min'yō], Yo (A mode)"
 
 [[modes]]
+  ordinal = 5
   slug = "aeo-phr-loc"
   canonical = "Aeolian/Phrygian/Locrian Pentatonic"
   degrees = "P1 ♭3 P4 ♭6 ♭7"
 
   [[modes.tunings]]
     name = "Pythagorean"
-    adjustments = "P1[0] ♭3[-6] P4[-2] ♭6[+6] ♭7[-4]"
+    adjustments = "P1[0] ♭3[-6] P4[-2] ♭6[-8] ♭7[-4]"
 
   [[modes.tunings]]
     name = "Just Thirds (minor) / Malkauns"
@@ -133,7 +138,7 @@
     adjustments = "P1[0] ♭3[+26] P4[+23] ♭6[+14] ♭7[+19]"
 
   [modes.names]
-    Ethiopian = "Shegaye (song)"
+    Ethiopian = "Shegaye [Shegye Shegitu] (popular song)"
     Hindustani = "Raag Malkauns"
     Carnatic = "Hindōḷaṃ Rāgam"
     Chinese = "Jue"
