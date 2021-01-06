@@ -2,19 +2,18 @@
   ordinal = 1
   slug = "lyd"
   canonical = "Lydian Mode"
-  quality = "major"
+  degrees = "P1 Δ2 Δ3 ♯4 P5 Δ6 Δ7"
 
-  [modes.degrees]
-    1 = [1]
-    2 = [1]
-    3 = [1]
-    4 = [1]
-    5 = [1]
-    6 = [1]
-    7 = [1]
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] ♯4[+12] P5[+2] Δ6[+6] Δ7[+10]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (major) / Yaman"
+    adjustments = "P1[0] Δ2[+4] Δ3[-14] ♯4[-10] P5[+2] Δ6[+6] Δ7[-12]"
 
   [modes.names]
-    Hindustani = "Kalyan Thaat"
+    Hindustani = "Kalyan Thaat, Raag Yaman"
     Carnatic = "Kaḷyāṇi (65th Mēḷakarta Rāgam)"
     Japanese = "Ryo (aux. #4/7)"
 
@@ -22,16 +21,15 @@
   ordinal = 2
   slug = "ion"
   canonical = "Ionian Mode"
-  quality = "major"
+  degrees = "P1 Δ2 Δ3 P4 P5 Δ6 Δ7"
 
-  [modes.degrees]
-    1 = [1]
-    2 = [1]
-    3 = [1]
-    4 = [0]
-    5 = [1]
-    6 = [1]
-    7 = [1]
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] P4[-2] P5[+2] Δ6[+6] Δ7[+10]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (major)"
+    adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] P5[+2] Δ6[-16] Δ7[-12]"
 
   [modes.names]
     Western = "Major Scale"
@@ -46,16 +44,15 @@
   ordinal = 3
   slug = "mix"
   canonical = "Mixolydian Mode"
-  quality = "major"
+  degrees = "P1 Δ2 Δ3 P4 P5 Δ6 ♭7"
 
-  [modes.degrees]
-    1 = [1]
-    2 = [1]
-    3 = [1]
-    4 = [0]
-    5 = [1]
-    6 = [1]
-    7 = [0]
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] P4[-2] P5[+2] Δ6[+6] Δ7[-4]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (major)"
+    adjustments = "P1[0] Δ2[-18] Δ3[-14] P4[-2] P5[+2] Δ6[-16] ♭7[-4]"
 
   [modes.names]
     Ashkenazi = "Adonai Malach Mode (lower octave)"
@@ -69,16 +66,19 @@
   ordinal = 4
   slug = "dor"
   canonical = "Dorian Mode"
-  quality = "minor"
+  degrees = "P1 Δ2 ♭3 P4 P5 Δ6 ♭7"
 
-  [modes.degrees]
-    1 = [1]
-    2 = [1]
-    3 = [0]
-    4 = [0]
-    5 = [1]
-    6 = [1]
-    7 = [0]
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] Δ2[+4] ♭3[-6] P4[-2] P5[+2] Δ6[+6] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (major)"
+    adjustments = "P1[0] Δ2[-18] ♭3[-6] P4[-2] P5[-20] Δ6[-16] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Kafi"
+    adjustments = "P1[0] Δ2[+4] ♭3[-6] P4[-2] P5[+2] Δ6[-16] ♭7[-4]"
 
   [modes.names]
     Ashkenazi = "Adonai Malach Mode (upper octave)"
@@ -90,25 +90,32 @@
   ordinal = 5
   slug = "aeo"
   canonical = "Aeolian Mode"
-  quality = "minor"
+  degrees = "P1 Δ2 ♭3 P4 P5 Δ6 ♭7"
 
-  [modes.degrees]
-    1 = [1]
-    2 = [1]
-    3 = [0]
-    4 = [0]
-    5 = [1]
-    6 = [0]
-    7 = [0]
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] Δ2[+4] ♭3[-6] P4[-2] P5[+2] ♭6[-8] ♭7[-4]"
 
-    [modes.names]
-      Western = "Minor Scale, Natural Minor"
-      Ashkenazi = "Magein Avot Mode"
-      Arabic = "Maqam Nahawand-Kurd"
-      Turkish = "Bûselik-Kurdi Makam"
-      Hindustani = "Asavari Thaat"
-      Carnatic = "Naṭabhairavi (20th Mēḷakarta Rāgam)"
-      Japanese = "Yo (A mode, aux. 2/♭6)"
+  [[modes.tunings]]
+    name = "Just Thirds (major)"
+    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[+20] P5[+2] ♭6[+14] ♭7[+18]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (minor)"
+    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[-2] P5[+2] ♭6[+14] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Darabari"
+    adjustments = "P1[0] Δ2[-18] ♭3[-6] P4[-2] P5[+2] ♭6[-8] ♭7[-4]"
+
+  [modes.names]
+    Western = "Minor Scale, Natural Minor"
+    Ashkenazi = "Magein Avot Mode"
+    Arabic = "Maqam Nahawand-Kurd"
+    Turkish = "Bûselik-Kurdi Makam"
+    Hindustani = "Asavari Thaat, Raag Darabari"
+    Carnatic = "Naṭabhairavi (20th Mēḷakarta Rāgam)"
+    Japanese = "Yo (A mode, aux. 2/♭6)"
 
 [[modes]]
   ordinal = 6

@@ -2,16 +2,15 @@
   ordinal = 1
   slug = "lyd-x2-x5"
   canonical = "Lydian ×2 ×5"
-  quality = "major"
+  degrees = "P1 Δ3 ♯4 Δ6 Δ7"
 
-  [modes.degrees]
-    1 = [1]
-    2 = []
-    3 = [1]
-    4 = [1]
-    5 = []
-    6 = [1]
-    7 = [1]
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] Δ3[+8] ♯4[+12] Δ6[+6] Δ7[+10]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (major)"
+    adjustments = "P1[0] Δ3[-14] ♯4[-10] Δ6[-16] Δ7[-12]"
 
   [modes.names]
     Carnatic = "Sunādavinodini Rāgam"
@@ -21,16 +20,15 @@
   ordinal = 4
   slug = "dor-x4-x7"
   canonical = "Dorian ×4 ×7"
-  quality = "minor"
+  degrees = "P1 Δ2 ♭3 P5 Δ6"
 
-  [modes.degrees]
-    1 = [1]
-    2 = [1]
-    3 = [0]
-    4 = []
-    5 = [1]
-    6 = [1]
-    7 = []
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] Δ2[+4] ♭3[-6] P5[+2] Δ6[+6]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (major)"
+    adjustments = "P1[0] Δ3[-14] P4[-2] Δ6[-16] Δ7[-12]"
 
   [modes.names]
     Hindustani = "Raag Shivaranjani"
