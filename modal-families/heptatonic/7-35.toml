@@ -28,7 +28,7 @@
     adjustments = "P1[0] Δ2[+4] Δ3[+8] P4[-2] P5[+2] Δ6[+6] Δ7[+10]"
 
   [[modes.tunings]]
-    name = "Just Thirds (major)"
+    name = "Just Thirds (major) / Bilaval"
     adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] P5[+2] Δ6[-16] Δ7[-12]"
 
   [modes.names]
@@ -73,12 +73,16 @@
     adjustments = "P1[0] Δ2[+4] ♭3[-6] P4[-2] P5[+2] Δ6[+6] ♭7[-4]"
 
   [[modes.tunings]]
-    name = "Just Thirds (major)"
-    adjustments = "P1[0] Δ2[-18] ♭3[-6] P4[-2] P5[-20] Δ6[-16] ♭7[-4]"
-
-  [[modes.tunings]]
     name = "Kafi"
     adjustments = "P1[0] Δ2[+4] ♭3[-6] P4[-2] P5[+2] Δ6[-16] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (minor)"
+    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[-2] P5[+2] Δ6[+6] ♭7[+18]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (major)"
+    adjustments = "P1[0] Δ2[-18] ♭3[-6] P4[-2] P5[-20] Δ6[-16] ♭7[-4]"
 
   [modes.names]
     Ashkenazi = "Adonai Malach Mode (upper octave)"
@@ -90,23 +94,23 @@
   ordinal = 5
   slug = "aeo"
   canonical = "Aeolian Mode"
-  degrees = "P1 Δ2 ♭3 P4 P5 Δ6 ♭7"
+  degrees = "P1 Δ2 ♭3 P4 P5 ♭6 ♭7"
 
   [[modes.tunings]]
     name = "Pythagorean"
     adjustments = "P1[0] Δ2[+4] ♭3[-6] P4[-2] P5[+2] ♭6[-8] ♭7[-4]"
 
   [[modes.tunings]]
-    name = "Just Thirds (major)"
-    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[+20] P5[+2] ♭6[+14] ♭7[+18]"
+    name = "Darabari"
+    adjustments = "P1[0] Δ2[-18] ♭3[-6] P4[-2] P5[+2] ♭6[-8] ♭7[-4]"
 
   [[modes.tunings]]
     name = "Just Thirds (minor)"
     adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[-2] P5[+2] ♭6[+14] ♭7[-4]"
 
   [[modes.tunings]]
-    name = "Darabari"
-    adjustments = "P1[0] Δ2[-18] ♭3[-6] P4[-2] P5[+2] ♭6[-8] ♭7[-4]"
+    name = "Just Thirds (major)"
+    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[+20] P5[+2] ♭6[+14] ♭7[+18]"
 
   [modes.names]
     Western = "Minor Scale, Natural Minor"
