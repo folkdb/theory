@@ -13,7 +13,7 @@
     adjustments = "P1[0] Δ2[+4] Δ3[-14] P5[+2] Δ6[-16]"
 
   [[modes.tunings]]
-    name = "Just Thirds (minor) / Bhoop"
+    name = "Just Thirds (minor)"
     adjustments = "P1[0] Δ2[-18] Δ3[-14] P5[+2] Δ6[-16]"
 
   [modes.names]
@@ -36,10 +36,10 @@
 
   [[modes.tunings]]
     name = "Zhi"
-    adjustments = "P1[0] Δ2[+4] P4[+23] P5[+2] Δ6[+6]"
+    adjustments = "P1[0] Δ2[+4] P4[+21] P5[+2] Δ6[+6]"
 
   [[modes.tunings]]
-    name = "Just Thirds (major) / Durga / Bac"
+    name = "Just Thirds (major) / Bac"
     adjustments = "P1[0] Δ2[-18] P4[-2] P5[+2] Δ6[-16]"
 
   [[modes.tunings]]
@@ -66,16 +66,16 @@
     adjustments = "P1[0] Δ2[+4] P4[-2] P5[+2] ♭7[-4]"
 
   [[modes.tunings]]
-    name = "Just Thirds (minor) / Madhumad Sarang"
-    adjustments = "P1[0] Δ2[+4] P4[-2] P5[+2] ♭7[+19]"
+    name = "Just Thirds (minor)"
+    adjustments = "P1[0] Δ2[+4] P4[-2] P5[+2] ♭7[+18]"
 
   [[modes.tunings]]
     name = "Shang"
-    adjustments = "P1[0] Δ2[+4] P4[+23] P5[+2] ♭7[+19]"
+    adjustments = "P1[0] Δ2[+4] P4[+21] P5[+2] ♭7[+19]"
 
   [[modes.tunings]]
     name = "Just Thirds (major)"
-    adjustments = "P1[0] Δ2[-18] P4[-2] P5[-22] ♭7[-4]"
+    adjustments = "P1[0] Δ2[-18] P4[-2] P5[-20] ♭7[-4]"
 
   [modes.names]
     Ethiopian = "Yematebela Wof (popular song)"
@@ -95,16 +95,16 @@
     adjustments = "P1[0] ♭3[-6] P4[-2] P5[+2] ♭7[-4]"
 
   [[modes.tunings]]
-    name = "Just Thirds (minor) / Dhani"
+    name = "Just Thirds (minor)"
     adjustments = "P1[0] ♭3[+16] P4[-2] P5[+2] ♭7[+18]"
 
   [[modes.tunings]]
     name = "Just Thirds (major)"
-    adjustments = "P1[0] ♭3[+16] P4[+22] P5[+2] ♭7[+18]"
+    adjustments = "P1[0] ♭3[+16] P4[+20] P5[+2] ♭7[+18]"
 
   [[modes.tunings]]
     name = "Yu"
-    adjustments = "P1[0] ♭3[+26] P4[+23] P5[+2] ♭7[+19]"
+    adjustments = "P1[0] ♭3[+26] P4[+21] P5[+2] ♭7[+19]"
 
   [modes.names]
     Western = "Minor Pentatonic"
@@ -126,7 +126,7 @@
     adjustments = "P1[0] ♭3[-6] P4[-2] ♭6[-8] ♭7[-4]"
 
   [[modes.tunings]]
-    name = "Just Thirds (minor) / Malkauns"
+    name = "Just Thirds (minor)"
     adjustments = "P1[0] ♭3[+16] P4[-2] ♭6[+14] ♭7[-4]"
 
   [[modes.tunings]]
@@ -135,7 +135,7 @@
 
   [[modes.tunings]]
     name = "Jue"
-    adjustments = "P1[0] ♭3[+26] P4[+23] ♭6[+14] ♭7[+19]"
+    adjustments = "P1[0] ♭3[+26] P4[+23] ♭6[+16] ♭7[+19]"
 
   [modes.names]
     Ethiopian = "Shegaye [Shegye Shegitu] (popular song)"

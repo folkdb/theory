@@ -47,6 +47,7 @@
     Hindustani = "Bilaval [Bilawal] Thaat"
     Carnatic = "Śankarābharaṇaṃ [Dhīraśankarābharaṇaṃ] (29th Mēḷakarta Rāgam)"
     Japanese = "Ryo (aux. 4/7)"
+
 [[modes]]
   ordinal = 3
   slug = "mix"
@@ -108,10 +109,6 @@
     adjustments = "P1[0] Δ2[+4] ♭3[-6] P4[-2] P5[+2] ♭6[-8] ♭7[-4]"
 
   [[modes.tunings]]
-    name = "Persian (minor)"
-    adjustments = "P1[0] Δ2[+4] ♭3[+3] P4[-2] P5[+2] ♭6[+1] ♭7[-4]"
-
-  [[modes.tunings]]
     name = "Just Thirds (minor)"
     adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[-2] P5[+2] ♭6[+14] ♭7[+18]"
 
@@ -139,10 +136,6 @@
     adjustments = "P1[0] ♭2[-10] ♭3[-6] P4[-2] P5[+2] ♭6[-8] ♭7[-4]"
 
   [[modes.tunings]]
-    name = "Persian (minor)"
-    adjustments = "P1[0] ♭2[-1] ♭3[+3] P4[-2] P5[+2] ♭6[+1] ♭7[-4]"
-
-  [[modes.tunings]]
     name = "Just Thirds (minor)"
     adjustments = "P1[0] ♭2[+12] ♭3[+16] P4[-2] P5[+2] ♭6[+14] ♭7[-4]"
 
@@ -167,10 +160,6 @@
   [[modes.tunings]]
     name = "Pythagorean"
     adjustments = "P1[0] ♭2[-10] ♭3[-6] P4[-2] ♯4[-12] ♭6[-8] ♭7[-4]"
-
-  [[modes.tunings]]
-    name = "Persian (minor)"
-    adjustments = "P1[0] ♭2[-1] ♭3[-6] P4[-2] ♯4[-3] ♭6[-8] ♭7[-4]"
 
   [[modes.tunings]]
     name = "Just Thirds (minor)"
