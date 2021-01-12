@@ -106,6 +106,14 @@
     name = "Yu"
     adjustments = "P1[0] ♭3[+26] P4[+21] P5[+2] ♭7[+19]"
 
+  [[modes.tunings]]
+    name = "Harmonic 11/10"
+    adjustments = "P1[0] ♭3[+33] P4[+37] P5[+2] ♭7[+35]"
+
+  [[modes.tunings]]
+    name = "Harmonic 12/11"
+    adjustments = "P1[0] ♭3[+47] P4[+51] P5[+2] ♭7[+49]"
+
   [modes.names]
     Western = "Minor Pentatonic"
     Ethiopian = "Bati [Batti] (minor)"
@@ -136,6 +144,14 @@
   [[modes.tunings]]
     name = "Jue"
     adjustments = "P1[0] ♭3[+26] P4[+23] ♭6[+16] ♭7[+19]"
+
+  [[modes.tunings]]
+    name = "Harmonic 11/10"
+    adjustments = "P1[0] ♭3[+33] P4[-2] P5[+31] ♭7[+35]"
+
+  [[modes.tunings]]
+    name = "Harmonic 12/11"
+    adjustments = "P1[0] ♭3[+47] P4[-2] ♭6[+45] ♭7[+49]"
 
   [modes.names]
     Ethiopian = "Shegaye [Shegye Shegitu] (popular song)"

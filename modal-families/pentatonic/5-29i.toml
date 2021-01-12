@@ -31,8 +31,12 @@
     adjustments = "P1[0] Δ2[+4] ♭3[-6] P5[+2] Δ6[+6]"
 
   [[modes.tunings]]
+    name = "Just Thirds (minor)"
+    adjustments = "P1[0] Δ2[+4] ♭3[+16] P5[+2] Δ6[+6]"
+
+  [[modes.tunings]]
     name = "Just Thirds (major)"
-    adjustments = "P1[0] Δ3[-14] P4[-2] Δ6[-16] Δ7[-12]"
+    adjustments = "P1[0] Δ2[-18] ♭3[-6] P5[-20] Δ6[-16]"
 
   [modes.names]
     Hindustani = "Raag Shivaranjani"

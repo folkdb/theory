@@ -9,8 +9,21 @@
     adjustments = "P1[0] Δ3[+8] ♯4[+12] P5[+2] Δ7[+10]"
 
   [[modes.tunings]]
-    name = "Just Thirds / Amritvarshini"
+    name = "Just Thirds"
     adjustments = "P1[0] Δ3[-14] ♯4[-10] P5[+2] Δ7[-12]"
+
+  [[modes.tunings]]
+    name = "Harmonic 15/14"
+    adjustments = "P1[0] Δ3[-21] ♯4[-17] P5[+2] Δ7[-19]"
+
+  [[modes.tunings]]
+    name = "Harmonic 14/13"
+    adjustments = "P1[0] Δ3[-30] ♯4[-26] P5[+2] Δ7[-28]"
+
+  [[modes.tunings]]
+    name = "Harmonic 13/12"
+    adjustments = "P1[0] Δ3[-41] ♯4[-37] P5[+2] Δ7[-39]"
+
 
   [modes.names]
     Ethiopian = "Bati [Batti] Lydian"
@@ -29,8 +42,21 @@
     adjustments = "P1[0] Δ3[+8] P4[-2] Δ6[+6] Δ7[+10]"
 
   [[modes.tunings]]
-    name = "Just Thirds / Bhinna Shadja"
+    name = "Just Thirds"
     adjustments = "P1[0] Δ3[-14] P4[-2] Δ6[-16] Δ7[-12]"
+
+  [[modes.tunings]]
+    name = "Harmonic 15/14"
+    adjustments = "P1[0] Δ3[-21] P4[-2] Δ6[-23] Δ7[-19]"
+
+  [[modes.tunings]]
+    name = "Harmonic 14/13"
+    adjustments = "P1[0] Δ3[-30] P4[-2] Δ6[-32] Δ7[-28]"
+
+  [[modes.tunings]]
+    name = "Harmonic 13/12"
+    adjustments = "P1[0] Δ3[-41] P4[-2] Δ6[-43] Δ7[-39]"
+
 
   [modes.names]
     Hindustani = "Raag Bhinna Shadja"
@@ -44,15 +70,24 @@
 
   [[modes.tunings]]
     name = "Pythagorean"
-    adjustments = "P1[0] Δ2[+4] ♭3[-6] P5[+2] ♭6[+6]"
+    adjustments = "P1[0] Δ2[+4] ♭3[-6] P5[+2] ♭6[-8]"
 
   [[modes.tunings]]
     name = "Just Thirds"
     adjustments = "P1[0] Δ2[+4] ♭3[+16] P5[+2] ♭6[+14]"
 
-  [modes.names]
-    Ethiopian = "Tizita [Tezita] (minor)"
-    Japanese = "In (A mode)"
+  [[modes.tunings]]
+    name = "Harmonic 15/14"
+    adjustments = "P1[0] Δ2[+4] ♭3[+23] P5[+2] ♭6[+21]"
+
+  [[modes.tunings]]
+    name = "Harmonic 14/13"
+    adjustments = "P1[0] Δ2[+4] ♭3[+32] P5[+2] ♭6[+30]"
+
+  [[modes.tunings]]
+    name = "Harmonic 13/12"
+    adjustments = "P1[0] Δ2[+4] ♭3[+43] P5[+2] ♭6[+41]"
+
 
 [[modes]]
   ordinal = 6
@@ -65,8 +100,20 @@
     adjustments = "P1[0] ♭2[-10] P4[-2] P5[+2] ♭6[-8]"
 
   [[modes.tunings]]
-    name = "Just Thirds / Gunakri"
+    name = "Just Thirds"
     adjustments = "P1[0] ♭2[+12] P4[-2] P5[+2] ♭6[+14]"
+
+  [[modes.tunings]]
+    name = "Harmonic 15/14"
+    adjustments = "P1[0] ♭2[+19] P4[-2] P5[+2] ♭6[+21]"
+
+  [[modes.tunings]]
+    name = "Harmonic 14/13"
+    adjustments = "P1[0] ♭2[+28] P4[-2] P5[+2] ♭6[+30]"
+
+  [[modes.tunings]]
+    name = "Harmonic 13/12"
+    adjustments = "P1[0] ♭2[+39] P4[-2] P5[+2] ♭6[+41]"
 
   [modes.names]
     Ethiopian = "Ambassel"
@@ -85,8 +132,24 @@
     adjustments = "P1[0] ♭2[-10] P4[-2] ♯4[-12] ♭7[-4]"
 
   [[modes.tunings]]
-    name = "Just Thirds"
+    name = "Just Thirds (minor)"
     adjustments = "P1[0] ♭2[+12] P4[-2] ♯4[+10] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Just Thirds (major)"
+    adjustments = "P1[0] ♭2[+12] P4[-2] ♯4[+10] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 15/14"
+    adjustments = "P1[0] ♭2[+19] P4[-2] ♯4[+17] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 14/13"
+    adjustments = "P1[0] ♭2[+28] P4[-2] ♯4[+26] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 13/12"
+    adjustments = "P1[0] ♭2[+39] P4[-2] ♯4[+37] ♭7[-4]"
 
   [modes.names]
     Ethiopian = "Anchihoye"
