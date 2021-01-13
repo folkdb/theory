@@ -16,6 +16,14 @@
     name = "Just Thirds (minor)"
     adjustments = "P1[0] Δ2[-18] Δ3[-14] P5[+2] Δ6[-16]"
 
+  [[modes.tunings]]
+    name = "Harmonic 11/10"
+    adjustments = "P1[0] Δ2[+4] Δ3[-31] P5[+2] Δ6[-33]"
+
+  [[modes.tunings]]
+    name = "Harmonic 12/11"
+    adjustments = "P1[0] Δ2[+4] Δ3[-45] P5[+2] Δ6[-47]]"
+
   [modes.names]
     Western = "Major Pentatonic"
     Ethiopian = "Tizita [Tezita] (major)"
@@ -45,6 +53,14 @@
   [[modes.tunings]]
     name = "Just Thirds (minor)"
     adjustments = "P1[0] Δ2[-18] P4[-2] P5[-20] Δ6[-16]"
+
+  [[modes.tunings]]
+    name = "Harmonic 11/10"
+    adjustments = "P1[0] Δ2[-35] P4[-2] P5[+2] Δ6[-33]"
+
+  [[modes.tunings]]
+    name = "Harmonic 12/11"
+    adjustments = "P1[0] Δ2[-49] P4[-2] P5[+2] Δ6[-47]"
 
   [modes.names]
     Western = "Scottish Pentatonic"
@@ -76,6 +92,14 @@
   [[modes.tunings]]
     name = "Just Thirds (major)"
     adjustments = "P1[0] Δ2[-18] P4[-2] P5[-20] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 11/10"
+    adjustments = "P1[0] Δ2[-35] P4[-2] P5[-37] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 12/11"
+    adjustments = "P1[0] Δ2[-49] P4[-2] P5[-51] ♭7[-4]"
 
   [modes.names]
     Ethiopian = "Yematebela Wof (popular song)"
