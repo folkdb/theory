@@ -13,6 +13,14 @@
     adjustments = "P1[0] Δ2[+4] Δ3[-14] ♯4[-10] P5[+2] Δ6[+6] Δ7[-12]"
 
   [[modes.tunings]]
+    name = "Harmonic 11/10 (major)"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] ♯4[-27] P5[+2] Δ6[+6] Δ7[-29]"
+
+  [[modes.tunings]]
+    name = "Harmonic 12/11 (major)"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] ♯4[-41] P5[+2] Δ6[+6] Δ7[-43]"
+
+  [[modes.tunings]]
     name = "Just Thirds (minor)"
     adjustments = "P1[0] Δ2[+4] Δ3[-14] ♯4[-10] P5[+2] Δ6[-16] Δ7[-12]"
 
@@ -34,6 +42,14 @@
   [[modes.tunings]]
     name = "Just Thirds (major)"
     adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] P5[+2] Δ6[-16] Δ7[-12]"
+
+  [[modes.tunings]]
+    name = "Harmonic 11/10"
+    adjustments = "P1[0] Δ2[+4] Δ3[-31] P4[-2] P5[+2] Δ6[+6] Δ7[-29]"
+
+  [[modes.tunings]]
+    name = "Harmonic 12/11"
+    adjustments = "P1[0] Δ2[+4] Δ3[-45] P4[-2] P5[+2] Δ6[+6] Δ7[-43]"
 
   [[modes.tunings]]
     name = "Just Thirds (minor)"
@@ -61,6 +77,14 @@
   [[modes.tunings]]
     name = "Just Thirds (major)"
     adjustments = "P1[0] Δ2[-18] Δ3[-14] P4[-2] P5[+2] Δ6[-16] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 11/10 (major)"
+    adjustments = "P1[0] Δ2[+4] Δ3[-31] P4[-2] P5[+2] Δ6[-33] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 12/11 (major)"
+    adjustments = "P1[0] Δ2[+4] Δ3[-45] P4[-2] P5[+2] Δ6[-47] ♭7[-4]"
 
   [[modes.tunings]]
     name = "Just Thirds (minor)"
