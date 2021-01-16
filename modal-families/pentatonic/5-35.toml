@@ -64,7 +64,7 @@
 
   [[modes.tunings]]
     name = "Ho Mai Nhi"
-    adjustments = "P1[0] Δ2[-34] P4[+13] P5[-5] Δ6[-41]"
+    adjustments = "P1[0] Δ2[-35] P4[+20] P5[+2] Δ6[-33]"
 
   [[modes.tunings]]
     name = "Harmonic 12/11 (major)"
@@ -123,7 +123,7 @@
 
   [[modes.tunings]]
     name = "Nam Xuan"
-    adjustments = "P1[0] Δ2[-34] P4[+3] P5[-3] ♭7[+34]"
+    adjustments = "P1[0] Δ2[-35] P4[-2] P5[+2] ♭7[+35]"
 
   [[modes.tunings]]
     name = "Harmonic 12/11 (major)"
@@ -152,12 +152,8 @@
     adjustments = "P1[0] ♭3[+16] P4[-2] P5[+2] ♭7[+18]"
 
   [[modes.tunings]]
-    name = "Harmonic 11/10 (minor)"
+    name = "Harmonic 11/10 (minor) / Sa Mac"
     adjustments = "P1[0] ♭3[+33] P4[-2] P5[+2] ♭7[+35]"
-
-  [[modes.tunings]]
-    name = "Sa Mac"
-    adjustments = "P1[0] ♭3[+38] P4[+4] P5[-1] ♭7[+26]"
 
   [[modes.tunings]]
     name = "Harmonic 12/11 (minor)"
