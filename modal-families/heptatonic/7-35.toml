@@ -10,7 +10,7 @@
 
   [[modes.tunings]]
     name = "Just Thirds (major)"
-    adjustments = "P1[0] Δ2[+4] Δ3[-14] ♯4[-10] P5[+2] Δ6[+6] Δ7[-12]"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] ♯4[-10] P5[+2] Δ6[+6] Δ7[-12]"
 
   [[modes.tunings]]
     name = "Harmonic 11/10 (major)"
@@ -41,7 +41,7 @@
 
   [[modes.tunings]]
     name = "Just Thirds (major)"
-    adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] P5[+2] Δ6[-16] Δ7[-12]"
+    adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] P5[+2] Δ6[+6] Δ7[-12]"
 
   [[modes.tunings]]
     name = "Harmonic 11/10"
@@ -76,7 +76,7 @@
 
   [[modes.tunings]]
     name = "Just Thirds (major)"
-    adjustments = "P1[0] Δ2[-18] Δ3[-14] P4[-2] P5[+2] Δ6[-16] ♭7[-4]"
+    adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] P5[+2] Δ6[-16] ♭7[-4]"
 
   [[modes.tunings]]
     name = "Harmonic 11/10 (major)"
@@ -110,11 +110,11 @@
 
   [[modes.tunings]]
     name = "Just Thirds (minor)"
-    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[+20] P5[+2] Δ6[+6] ♭7[+18]"
+    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[-2] P5[+2] Δ6[+6] ♭7[+18]"
 
   [[modes.tunings]]
     name = "Just Thirds (major)"
-    adjustments = "P1[0] Δ2[-18] ♭3[-6] P4[-2] P5[-20] Δ6[-16] ♭7[-4]"
+    adjustments = "P1[0] Δ2[-18] ♭3[-6] P4[-2] P5[+2] Δ6[-16] ♭7[-4]"
 
   [modes.names]
     Ashkenazi = "Adonai Malach Mode (upper octave)"
@@ -134,11 +134,11 @@
 
   [[modes.tunings]]
     name = "Just Thirds (minor)"
-    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[-2] P5[+2] ♭6[+14] ♭7[+18]"
+    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[-2] P5[+2] ♭6[+14] ♭7[-4]"
 
   [[modes.tunings]]
     name = "Just Thirds (major)"
-    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[+20] P5[+2] ♭6[+14] ♭7[+18]"
+    adjustments = "P1[0] Δ2[-18] ♭3[-6] P4[-2] P5[-20] ♭6[-16] ♭7[-4]"
 
   [modes.names]
     Western = "Minor Scale, Natural Minor"
@@ -161,11 +161,11 @@
 
   [[modes.tunings]]
     name = "Just Thirds (minor)"
-    adjustments = "P1[0] ♭2[+12] ♭3[+16] P4[-2] P5[+2] ♭6[+14] ♭7[-4]"
+    adjustments = "P1[0] ♭2[+12] ♭3[-6] P4[-2] P5[+2] ♭6[+14] ♭7[-4]"
 
   [[modes.tunings]]
     name = "Just Thirds (major)"
-    adjustments = "P1[0] ♭2[+12] ♭3[+16] P4[-2] P5[+2] ♭6[+14] ♭7[+18]"
+    adjustments = "P1[0] ♭2[+12] ♭3[+16] P4[+20] P5[+2] ♭6[+14] ♭7[+18]"
 
   [modes.names]
     Ashkenazi = "Yishtabach Mode"
@@ -187,11 +187,11 @@
 
   [[modes.tunings]]
     name = "Just Thirds (minor)"
-    adjustments = "P1[0] ♭2[+12] ♭3[-6] P4[-2] ♯4[+10] ♭6[+14] ♭7[-4]"
+    adjustments = "P1[0] ♭2[+12] ♭3[-6] P4[-2] ♯4[+10] ♭6[-8] ♭7[-4]"
 
   [[modes.tunings]]
     name = "Just Thirds (major)"
-    adjustments = "P1[0] ♭2[+12] ♭3[+16] P4[-2] ♯4[+10] ♭6[+14] ♭7[-4]"
+    adjustments = "P1[0] ♭2[+12] ♭3[+16] P4[-2] ♯4[+10] ♭6[+14] ♭7[+18]"
 
   [modes.names]
     Arabic = "Maqam Lami"
