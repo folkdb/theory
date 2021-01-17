@@ -22,7 +22,7 @@
 
   [[modes.tunings]]
     name = "Just Thirds (minor)"
-    adjustments = "P1[0] Δ2[+4] Δ3[-14] ♯4[-10] P5[+2] Δ6[-16] Δ7[-12]"
+    adjustments = "P1[0] Δ2[-18] Δ3[-14] ♯4[-10] P5[+2] Δ6[-16] Δ7[-12]"
 
   [modes.names]
     Hindustani = "Kalyan Thaat"
@@ -44,16 +44,16 @@
     adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] P5[+2] Δ6[+6] Δ7[-12]"
 
   [[modes.tunings]]
-    name = "Harmonic 11/10"
+    name = "Harmonic 11/10 (major)"
     adjustments = "P1[0] Δ2[+4] Δ3[-31] P4[-2] P5[+2] Δ6[+6] Δ7[-29]"
 
   [[modes.tunings]]
-    name = "Harmonic 12/11"
+    name = "Harmonic 12/11 (major)"
     adjustments = "P1[0] Δ2[+4] Δ3[-45] P4[-2] P5[+2] Δ6[+6] Δ7[-43]"
 
   [[modes.tunings]]
     name = "Just Thirds (minor)"
-    adjustments = "P1[0] Δ2[-18] Δ3[-14] P4[-2] P5[+2] Δ6[-16] Δ7[-12]"
+    adjustments = "P1[0] Δ2[-18] Δ3[-14] P4[-2] P5[-20] Δ6[-16] Δ7[-12]"
 
   [modes.names]
     Western = "Major Scale"
@@ -88,7 +88,7 @@
 
   [[modes.tunings]]
     name = "Just Thirds (minor)"
-    adjustments = "P1[0] Δ2[-18] Δ3[-14] P4[-2] P5[-20] Δ6[-16] ♭7[-4]"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] P4[+20] P5[+2] Δ6[+6] ♭7[+18]"
 
   [modes.names]
     Ashkenazi = "Adonai Malach Mode (lower octave)"
@@ -138,7 +138,7 @@
 
   [[modes.tunings]]
     name = "Just Thirds (major)"
-    adjustments = "P1[0] Δ2[-18] ♭3[-6] P4[-2] P5[-20] ♭6[-16] ♭7[-4]"
+    adjustments = "P1[0] Δ2[-18] ♭3[-6] P4[-2] P5[-20] ♭6[-8] ♭7[-4]"
 
   [modes.names]
     Western = "Minor Scale, Natural Minor"
