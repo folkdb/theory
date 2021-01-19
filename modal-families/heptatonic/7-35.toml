@@ -36,21 +36,21 @@
     adjustments = "P1[0] Δ2[+4] Δ3[+8] P4[-2] P5[+2] Δ6[+6] Δ7[+10]"
 
   [[modes.tunings]]
-    name = "Harmonic 10/9"
+    name = "Harmonic 10/9, Turkish Rast (ascending)"
     adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] P5[+2] Δ6[+6] Δ7[-12]"
 
   [[modes.tunings]]
-    name = "Harmonic 11/10"
+    name = "Harmonic 11/10, Arabic Rast"
     adjustments = "P1[0] Δ2[+4] Δ3[-31] P4[-2] P5[+2] Δ6[+6] Δ7[-29]"
 
   [[modes.tunings]]
-    name = "Harmonic 12/11"
+    name = "Harmonic 12/11, Arabic Rast"
     adjustments = "P1[0] Δ2[+4] Δ3[-45] P4[-2] P5[+2] Δ6[+6] Δ7[-43]"
 
   [modes.names]
     Western = "Major Scale"
-    Arabic = "Maqam ‘Ajam"
-    Turkish = "Çârgâh Makam, Rast Makam (ascending)"
+    Arabic = "Maqam ‘Ajam (major 3/7), Maqam Rast (half-flat 3/7)"
+    Turkish = "Çârgâh Makam (major 3/7), Rast Makam (quarter-flat 3/7)"
     Persian = "Dastgāh-e Māhur (lower octave)"
     Hindustani = "Bilaval [Bilawal] Thaat"
     Carnatic = "Śankarābharaṇaṃ [Dhīraśankarābharaṇaṃ] (29th Mēḷakarta Rāgam)"
@@ -67,7 +67,7 @@
     adjustments = "P1[0] Δ2[+4] Δ3[+8] P4[-2] P5[+2] Δ6[+6] Δ7[-4]"
 
   [[modes.tunings]]
-    name = "Harmonic 10/9"
+    name = "Harmonic 10/9, Turkish Rast (descending)"
     adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] P5[+2] Δ6[-16] ♭7[-4]"
 
   [[modes.tunings]]

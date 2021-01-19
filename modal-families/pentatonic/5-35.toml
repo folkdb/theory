@@ -5,7 +5,7 @@
   degrees = "P1 Δ2 Δ3 P5 Δ6"
 
   [[modes.tunings]]
-    name = "Pythagorean / Gong"
+    name = "Pythagorean, Gong"
     adjustments = "P1[0] Δ2[+4] Δ3[+8] P5[+2] Δ6[+6]"
 
   [[modes.tunings]]
@@ -55,11 +55,11 @@
     adjustments = "P1[0] Δ2[+4] P4[+21] P5[+2] Δ6[+6]"
 
   [[modes.tunings]]
-    name = "Harmonic 10/9 (Bac)"
+    name = "Harmonic 10/9 (major), Bac"
     adjustments = "P1[0] Δ2[-18] P4[-2] P5[+2] Δ6[-16]"
 
   [[modes.tunings]]
-    name = "Harmonic 11/10"
+    name = "Harmonic 11/10 (major)"
     adjustments = "P1[0] Δ2[-35] P4[-2] P5[+2] Δ6[-33]"
 
   [[modes.tunings]]
@@ -67,11 +67,11 @@
     adjustments = "P1[0] Δ2[-35] P4[+20] P5[+2] Δ6[-33]"
 
   [[modes.tunings]]
-    name = "Harmonic 12/11"
+    name = "Harmonic 12/11 (major)"
     adjustments = "P1[0] Δ2[-49] P4[-2] P5[+2] Δ6[-47]"
 
   [[modes.tunings]]
-    name = "Just Thirds (minor)"
+    name = "Harmonic 10/9 (minor)"
     adjustments = "P1[0] Δ2[-18] P4[-2] P5[-20] Δ6[-16]"
 
   [[modes.tunings]]
@@ -102,7 +102,7 @@
     adjustments = "P1[0] Δ2[+4] P4[-2] P5[+2] ♭7[-4]"
 
   [[modes.tunings]]
-    name = "Just Thirds (minor) / Shang"
+    name = "Harmonic 10/9 (minor), Shang"
     adjustments = "P1[0] Δ2[+4] P4[+20] P5[+2] ♭7[+18]"
 
   [[modes.tunings]]
@@ -114,7 +114,7 @@
     adjustments = "P1[0] Δ2[+4] P4[+51] P5[+2] ♭7[+49]"
 
   [[modes.tunings]]
-    name = "Just Thirds (major)"
+    name = "Harmonic 10/9 (major)"
     adjustments = "P1[0] Δ2[-18] P4[-2] P5[-20] ♭7[-4]"
 
   [[modes.tunings]]
@@ -135,7 +135,7 @@
     Carnatic = "Madhyamāvati Rāgam"
     Chinese = "Shang"
     Japanese = "Yo (D mode)"
-    Vietnamese = "Nam Xuan"
+    Vietnamese = "Hơi Xuân"
 
 [[modes]]
   ordinal = 4
@@ -148,11 +148,11 @@
     adjustments = "P1[0] ♭3[-6] P4[-2] P5[+2] ♭7[-4]"
 
   [[modes.tunings]]
-    name = "Just Thirds (minor)"
+    name = "Harmonic 10/9 (minor)"
     adjustments = "P1[0] ♭3[+16] P4[-2] P5[+2] ♭7[+18]"
 
   [[modes.tunings]]
-    name = "Harmonic 11/10 (minor) / Sa Mac"
+    name = "Harmonic 11/10 (minor), Sa Mac"
     adjustments = "P1[0] ♭3[+33] P4[-2] P5[+2] ♭7[+35]"
 
   [[modes.tunings]]
@@ -160,7 +160,7 @@
     adjustments = "P1[0] ♭3[+47] P4[-2] P5[+2] ♭7[+49]"
 
   [[modes.tunings]]
-    name = "Just Thirds (major)"
+    name = "Harmonic 10/9 (major)"
     adjustments = "P1[0] ♭3[+16] P4[+20] P5[+2] ♭7[+18]"
 
   [[modes.tunings]]
@@ -183,7 +183,7 @@
     Chinese = "Yu"
     Korean = "Gyemyeonjo [Kyemyŏnjo]"
     Japanese = "Min-yo [Min'yō], Yo (A mode)"
-    Vietnamese = "Sa Mac"
+    Vietnamese = "Hơi Sa Mac"
 
 [[modes]]
   ordinal = 5
@@ -196,7 +196,7 @@
     adjustments = "P1[0] ♭3[-6] P4[-2] ♭6[-8] ♭7[-4]"
 
   [[modes.tunings]]
-    name = "Just Thirds (minor)"
+    name = "Harmonic 10/9 (minor)"
     adjustments = "P1[0] ♭3[+16] P4[-2] ♭6[+14] ♭7[-4]"
 
   [[modes.tunings]]
@@ -208,7 +208,7 @@
     adjustments = "P1[0] ♭3[+47] P4[-2] ♭6[+45] ♭7[-4]"
 
   [[modes.tunings]]
-    name = "Just Thirds (major)"
+    name = "Harmonic 10/9 (major)"
     adjustments = "P1[0] ♭3[+16] P4[-2] ♭6[+14] ♭7[+18]"
 
   [[modes.tunings]]
