@@ -50,7 +50,7 @@
   [modes.names]
     Western = "Major Scale"
     Arabic = "Maqam ‘Ajam (major 3/7), Maqam Rast (half-flat 3/7)"
-    Turkish = "Çârgâh Makam (major 3/7), Rast Makam (quarter-flat 3/7)"
+    Turkish = "Acem/Çârgâh Makam (major 3/7), Rast Makam (quarter-flat 3/7)"
     Persian = "Dastgāh-e Māhur (lower octave)"
     Hindustani = "Bilaval [Bilawal] Thaat"
     Carnatic = "Śankarābharaṇaṃ [Dhīraśankarābharaṇaṃ] (29th Mēḷakarta Rāgam)"
@@ -98,22 +98,36 @@
 
   [[modes.tunings]]
     name = "Harmonic 16/15"
-    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[-2] P5[+2] ♭6[+6] ♭7[+18]"
+    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[-2] P5[+2] Δ6[+6] ♭7[+18]"
 
   [[modes.tunings]]
     name = "Harmonic 15/14"
-    adjustments = "P1[0] Δ2[+4] ♭3[+23] P4[-2] P5[+2] ♭6[+6] ♭7[+25]"
+    adjustments = "P1[0] Δ2[+4] ♭3[+23] P4[-2] P5[+2] Δ6[+6] ♭7[+25]"
 
   [[modes.tunings]]
     name = "Harmonic 14/13"
-    adjustments = "P1[0] Δ2[+4] ♭3[+32] P4[-2] P5[+2] ♭6[+6] ♭7[+34]"
+    adjustments = "P1[0] Δ2[+4] ♭3[+32] P4[-2] P5[+2] Δ6[+6] ♭7[+34]"
 
   [[modes.tunings]]
     name = "Harmonic 13/12"
-    adjustments = "P1[0] Δ2[+4] ♭3[+43] P4[-2] P5[+2] ♭6[+6] ♭7[+45]"
+    adjustments = "P1[0] Δ2[+4] ♭3[+43] P4[-2] P5[+2] Δ6[+6] ♭7[+45]"
+
+  [[modes.tunings]]
+    name = "Harmonic 10/9 (major), Uşşâk-Rast"
+    adjustments = "P1[0] Δ2[-18] ♭3[-6] P4[-2] P5[+2] Δ6[-16] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 11/10 (major), Bayati-Rast"
+    adjustments = "P1[0] Δ2[-35] ♭3[-6] P4[-2] P5[+2] Δ6[-33] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 12/11 (major), Bayati-Rast"
+    adjustments = "P1[0] Δ2[-49] ♭3[-6] P4[-2] P5[+2] Δ6[-47] ♭7[-4]"
 
   [modes.names]
     Ashkenazi = "Adonai Malach Mode (upper octave)"
+    Arabic = "Maqam Bayati-Rast"
+    Turkish = "Uşşâk-Rast Makam"
     Hindustani = "Kafi Thaat"
     Carnatic = "Kharaharapriya (22nd Mēḷakarta Rāgam)"
     Japanese = "Ritsu (aux. ♭3/♭7)"
