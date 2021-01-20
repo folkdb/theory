@@ -113,7 +113,7 @@
     adjustments = "P1[0] Δ2[+4] ♭3[+43] P4[-2] P5[+2] Δ6[+6] ♭7[+45]"
 
   [[modes.tunings]]
-    name = "Harmonic 10/9 (major), Uşşâk-Rast"
+    name = "Harmonic 10/9 (major), Neva"
     adjustments = "P1[0] Δ2[-18] ♭3[-6] P4[-2] P5[+2] Δ6[-16] ♭7[-4]"
 
   [[modes.tunings]]
@@ -127,7 +127,7 @@
   [modes.names]
     Ashkenazi = "Adonai Malach Mode (upper octave)"
     Arabic = "Maqam Bayati-Rast"
-    Turkish = "Uşşâk-Rast Makam"
+    Turkish = "Neva Makam"
     Hindustani = "Kafi Thaat"
     Carnatic = "Kharaharapriya (22nd Mēḷakarta Rāgam)"
     Japanese = "Ritsu (aux. ♭3/♭7)"
