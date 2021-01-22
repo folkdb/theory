@@ -64,7 +64,7 @@
 
   [[modes.tunings]]
     name = "Pythagorean"
-    adjustments = "P1[0] Δ2[+4] Δ3[+8] P4[-2] P5[+2] Δ6[+6] Δ7[-4]"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] P4[-2] P5[+2] Δ6[+6] ♭7[-4]"
 
   [[modes.tunings]]
     name = "Harmonic 10/9, Turkish Rast (descending)"

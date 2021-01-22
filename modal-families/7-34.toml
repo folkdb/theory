@@ -1,0 +1,75 @@
+[[modes]]
+  ordinal = 1
+  slug = "lyd-b7"
+  canonical = "Lydian ♭7"
+  degrees = "P1 Δ2 Δ3 ♯4 P5 Δ6 ♭7"
+
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] ♯4[+12] P5[+2] Δ6[+6] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 10/9"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] ♯4[-10] P5[+2] Δ6[-16] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 11/10"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] ♯4[-27] P5[+2] Δ6[-33] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 12/11"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] ♯4[-41] P5[+2] Δ6[-47] ♭7[-4]"
+
+  [modes.names]
+
+[[modes]]
+  ordinal = 2
+  slug = "ion-b3"
+  canonical = "Ionian ♭3"
+  degrees = "P1 Δ2 ♭3 P4 P5 Δ6 Δ7"
+
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] Δ2[+4] ♭3[-6] P4[-2] P5[+2] Δ6[+6] Δ7[+10]"
+
+  [[modes.tunings]]
+    name = "Harmonic 10/9"
+    adjustments = "P1[0] Δ2[-18] ♭3[-6] P4[-2] P5[+2] Δ6[+6] Δ7[-12]"
+
+  [[modes.tunings]]
+    name = "Harmonic 11/10"
+    adjustments = "P1[0] Δ2[-35] ♭3[-6] P4[-2] P5[+2] Δ6[+6] Δ7[-29]"
+
+  [[modes.tunings]]
+    name = "Harmonic 12/11"
+    adjustments = "P1[0] Δ2[-49] ♭3[-6] P4[-2] P5[+2] Δ6[+6] Δ7[-43]"
+
+  [modes.names]
+
+[[modes]]
+  ordinal = 3
+  slug = "mix-b6"
+  canonical = "Mixolydian ♭6"
+  degrees = "P1 Δ2 Δ3 P4 P5 ♭6 ♭7"
+
+  [[modes.tunings]]
+    name = "Pythagorean"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] P4[-2] P5[+2] ♭6[-8] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 16/15"
+    adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] P5[+2] ♭6[+14] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 15/14"
+    adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] P5[+2] ♭6[+21] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 14/13"
+    adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] P5[+2] ♭6[+30] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 13/12"
+    adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] P5[+2] ♭6[+41] ♭7[-4]"
+
+  [modes.names]
