@@ -5,32 +5,45 @@
   degrees = "P1 Δ2 Δ3 P5 Δ6"
 
   [[modes.tunings]]
-    name = "Pythagorean, Gong"
+    intervals = "32/27 - 9/8"
+    names = ["Pythagorean", "Gong"]
     adjustments = "P1[0] Δ2[+4] Δ3[+8] P5[+2] Δ6[+6]"
 
   [[modes.tunings]]
-    name = "Harmonic 10/9 (major)"
+    intervals = "6/5 - 9/8 - 10/9 (major)"
     adjustments = "P1[0] Δ2[+4] Δ3[-14] P5[+2] Δ6[-16]"
 
   [[modes.tunings]]
-    name = "Harmonic 11/10 (major)"
-    adjustments = "P1[0] Δ2[+4] Δ3[-31] P5[+2] Δ6[-33]"
-
-  [[modes.tunings]]
-    name = "Harmonic 12/11 (major)"
-    adjustments = "P1[0] Δ2[+4] Δ3[-45] P5[+2] Δ6[-47]"
-
-  [[modes.tunings]]
-    name = "Harmonic 10/9 (minor)"
+    intervals = "6/5 - 9/8 - 10/9 (minor)"
     adjustments = "P1[0] Δ2[-18] Δ3[-14] P5[+2] Δ6[-16]"
 
   [[modes.tunings]]
-    name = "Harmonic 11/10 (minor)"
+    intervals = "40/33 - 9/8 - 11/10 (major)"
+    adjustments = "P1[0] Δ2[+4] Δ3[-31] P5[+2] Δ6[-33]"
+
+  [[modes.tunings]]
+    intervals = "40/33 - 9/8 - 11/10 (minor)"
     adjustments = "P1[0] Δ2[-35] Δ3[-31] P5[+2] Δ6[-33]"
 
   [[modes.tunings]]
-    name = "Harmonic 12/11 (minor)"
+    intervals = "11/9 - 9/8 - 12/11 (major)"
+    adjustments = "P1[0] Δ2[+4] Δ3[-45] P5[+2] Δ6[-47]"
+
+  [[modes.tunings]]
+    intervals = "11/9 - 9/8 - 12/11 (minor)"
     adjustments = "P1[0] Δ2[-49] Δ3[-45] P5[+2] Δ6[-47]"
+
+  [[modes.tunings]]
+    intervals = "20/17 - 17/15 - 9/8 (major)"
+    adjustments = "P1[0] Δ2[+4] Δ3[+21] P5[+2] Δ6[+19]"
+
+  [[modes.tunings]]
+    intervals = "7/6 - 8/7 - 9/8 (major)"
+    adjustments = "P1[0] Δ2[+4] Δ3[+35] P5[+2] Δ6[+33]"
+
+  [[modes.tunings]]
+    intervals = "52/45 - 15/13 - 9/8 (major)"
+    adjustments = "P1[0] Δ2[+4] Δ3[+52] P5[+2] Δ6[+50]"
 
   [modes.names]
     Western = "Major Pentatonic"
@@ -59,8 +72,16 @@
     adjustments = "P1[0] Δ2[-18] P4[-2] P5[+2] Δ6[-16]"
 
   [[modes.tunings]]
+    name = "Harmonic 10/9 (minor)"
+    adjustments = "P1[0] Δ2[-18] P4[-2] P5[-20] Δ6[-16]"
+
+  [[modes.tunings]]
     name = "Harmonic 11/10 (major)"
     adjustments = "P1[0] Δ2[-35] P4[-2] P5[+2] Δ6[-33]"
+
+  [[modes.tunings]]
+    name = "Harmonic 11/10 (minor)"
+    adjustments = "P1[0] Δ2[-35] P4[-2] P5[-37] Δ6[-33]"
 
   [[modes.tunings]]
     name = "Ho Mai Nhi"
@@ -71,16 +92,20 @@
     adjustments = "P1[0] Δ2[-49] P4[-2] P5[+2] Δ6[-47]"
 
   [[modes.tunings]]
-    name = "Harmonic 10/9 (minor)"
-    adjustments = "P1[0] Δ2[-18] P4[-2] P5[-20] Δ6[-16]"
-
-  [[modes.tunings]]
-    name = "Harmonic 11/10 (minor)"
-    adjustments = "P1[0] Δ2[-35] P4[-2] P5[-37] Δ6[-33]"
-
-  [[modes.tunings]]
     name = "Harmonic 12/11 (minor)"
     adjustments = "P1[0] Δ2[-49] P4[-2] P5[-51] Δ6[-47]"
+
+  [[modes.tunings]]
+    name = "Harmonic 17/15"
+    adjustments = "P1[0] Δ2[+17] P4[-2] P5[+2] Δ6[+19]"
+
+  [[modes.tunings]]
+    name = "Harmonic 8/7"
+    adjustments = "P1[0] Δ2[+31] P4[-2] P5[+2] Δ6[+33]"
+
+  [[modes.tunings]]
+    name = "Harmonic 15/13"
+    adjustments = "P1[0] Δ2[+48] P4[-2] P5[+2] Δ6[+50]"
 
   [modes.names]
     Western = "Scottish Pentatonic"
@@ -106,28 +131,40 @@
     adjustments = "P1[0] Δ2[+4] P4[+20] P5[+2] ♭7[+18]"
 
   [[modes.tunings]]
-    name = "Harmonic 11/10 (minor)"
-    adjustments = "P1[0] Δ2[+4] P4[+37] P5[+2] ♭7[+35]"
-
-  [[modes.tunings]]
-    name = "Harmonic 12/11 (minor)"
-    adjustments = "P1[0] Δ2[+4] P4[+51] P5[+2] ♭7[+49]"
-
-  [[modes.tunings]]
     name = "Harmonic 10/9 (major)"
     adjustments = "P1[0] Δ2[-18] P4[-2] P5[-20] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 11/10 (minor)"
+    adjustments = "P1[0] Δ2[+4] P4[+37] P5[+2] ♭7[+35]"
 
   [[modes.tunings]]
     name = "Harmonic 11/10 (major)"
     adjustments = "P1[0] Δ2[-35] P4[-2] P5[-37] ♭7[-4]"
 
   [[modes.tunings]]
-    name = "Nam Xuan"
+    name = "Hơi Xuân"
     adjustments = "P1[0] Δ2[-35] P4[-2] P5[+2] ♭7[+35]"
+
+  [[modes.tunings]]
+    name = "Harmonic 12/11 (minor)"
+    adjustments = "P1[0] Δ2[+4] P4[+51] P5[+2] ♭7[+49]"
 
   [[modes.tunings]]
     name = "Harmonic 12/11 (major)"
     adjustments = "P1[0] Δ2[-49] P4[-2] P5[-51] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 17/15"
+    adjustments = "P1[0] Δ2[+17] P4[-2] P5[+15] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 8/7"
+    adjustments = "P1[0] Δ2[+31] P4[-2] P5[+29] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 15/13"
+    adjustments = "P1[0] Δ2[+48] P4[-2] P5[+46] ♭7[-4]"
 
   [modes.names]
     Ethiopian = "Yematebela Wof (popular song)"
@@ -152,14 +189,6 @@
     adjustments = "P1[0] ♭3[+16] P4[-2] P5[+2] ♭7[+18]"
 
   [[modes.tunings]]
-    name = "Harmonic 11/10 (minor), Sa Mac"
-    adjustments = "P1[0] ♭3[+33] P4[-2] P5[+2] ♭7[+35]"
-
-  [[modes.tunings]]
-    name = "Harmonic 12/11 (minor)"
-    adjustments = "P1[0] ♭3[+47] P4[-2] P5[+2] ♭7[+49]"
-
-  [[modes.tunings]]
     name = "Harmonic 10/9 (major)"
     adjustments = "P1[0] ♭3[+16] P4[+20] P5[+2] ♭7[+18]"
 
@@ -168,12 +197,32 @@
     adjustments = "P1[0] ♭3[+26] P4[+21] P5[+2] ♭7[+19]"
 
   [[modes.tunings]]
+    name = "Harmonic 11/10 (minor), Sa Mac"
+    adjustments = "P1[0] ♭3[+33] P4[-2] P5[+2] ♭7[+35]"
+
+  [[modes.tunings]]
     name = "Harmonic 11/10 (major)"
     adjustments = "P1[0] ♭3[+33] P4[+37] P5[+2] ♭7[+35]"
 
   [[modes.tunings]]
+    name = "Harmonic 12/11 (minor)"
+    adjustments = "P1[0] ♭3[+47] P4[-2] P5[+2] ♭7[+49]"
+
+  [[modes.tunings]]
     name = "Harmonic 12/11 (major)"
     adjustments = "P1[0] ♭3[+47] P4[+51] P5[+2] ♭7[+49]"
+
+  [[modes.tunings]]
+    name = "Harmonic 20/17"
+    adjustments = "P1[0] ♭3[-19] P4[-15] P5[+2] ♭7[-17]"
+
+  [[modes.tunings]]
+    name = "Harmonic 7/6"
+    adjustments = "P1[0] ♭3[-33] P4[-29] P5[+2] ♭7[-31]"
+
+  [[modes.tunings]]
+    name = "Harmonic 37/32"
+    adjustments = "P1[0] ♭3[-49] P4[-45] P5[+2] ♭7[-47]"
 
   [modes.names]
     Western = "Minor Pentatonic"
