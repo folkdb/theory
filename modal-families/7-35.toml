@@ -20,6 +20,10 @@
     name = "Harmonic 12/11"
     adjustments = "P1[0] Δ2[+4] Δ3[+8] ♯4[-41] P5[+2] Δ6[+6] Δ7[-43]"
 
+  [[modes.tunings]]
+    intervals = "19/17 - 102/95"
+    tetrachord = "19/17 - 5/4 - 51/38"
+
   [modes.names]
     Hindustani = "Kalyan Thaat"
     Carnatic = "Kaḷyāṇi (65th Mēḷakarta Rāgam)"
@@ -32,12 +36,30 @@
   degrees = "P1 Δ2 Δ3 P4 P5 Δ6 Δ7"
 
   [[modes.tunings]]
-    name = "Pythagorean"
+    intervals = "9/8, 256/243"
+    tetrachords = "9/8 - 81/64 - 4/3 | 9/8 - 81/64 - 4/3"
     adjustments = "P1[0] Δ2[+4] Δ3[+8] P4[-2] P5[+2] Δ6[+6] Δ7[+10]"
+    names = "Pythagorean"
 
   [[modes.tunings]]
-    name = "Harmonic 10/9, Turkish Rast (ascending)"
+    intervals = "9/8, 10/9, 16/15"
+    tetrachords = "9/8 - 5/4 - 4/3 | 9/8 - 5/4 - 4/3"
     adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] P5[+2] Δ6[+6] Δ7[-12]"
+    names = "Just major"
+
+  [[modes.tunings]]
+    intervals = "19/17, 936/875"
+    tetrachords = "19/17 - 5/4 - 234/175 | 19/17 - 5/4 - 234/175"
+    adjustments = "P1[0] Δ2[-7] Δ3[-14] P4[+3] P5[-3] Δ6[-10] Δ7[-17]"
+    names = "Quarter-comma meantone (rationalized)"
+
+  [[modes.tunings]]
+    intervals = "19/17, 29/27"
+    tetrachords = "19/17 - 5/4 - 145/108 | 19/17 - 5/4 - 145/108"
+    adjustments = "P1[0] Δ2[-7] Δ3[-14] P4[+9] P5[+2] Δ6[-5] Δ7[-12]"
+    names = "Perfect-fifth/stretched-octave meantone (rationalized)"
+
+
 
   [[modes.tunings]]
     name = "Harmonic 11/10, Arabic Rast"
