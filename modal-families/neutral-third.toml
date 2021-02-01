@@ -1,0 +1,301 @@
+[[modes]]
+  ordinal = 1
+  slug = "lyd"
+  canonical = "Lydian Mode"
+  degrees = "P1 Δ2 Δ3 ♯4 P5 Δ6 Δ7"
+
+  [[modes.tunings]]
+    intervals = "9/8, 256/243"
+    tetrachords = "9/8 - 81/64 - 729/512 | 9/8 - 81/64 - 4/3"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] ♯4[+12] P5[+2] Δ6[+6] Δ7[+10]"
+    names = "Pythagorean"
+
+  [[modes.tunings]]
+    intervals = "9/8, 10/9, 16/15"
+    tetrachords = "9/8 - 5/4 - 45/32 | 9/8 - 5/4 - 4/3"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] ♯4[-10] P5[+2] Δ6[+6] Δ7[-12]"
+    names = "Just Major"
+
+  [[modes.tunings]]
+    intervals = "19/17, 936/875"
+    tetrachords = "19/17 - 5/4 - 225/161 | 19/17 - 5/4 - 234/175"
+    adjustments = "P1[0] Δ2[-7] Δ3[-14] ♯4[-20] P5[-3] Δ6[-10] Δ7[-17]"
+    names = "Quarter-Comma Meantone (rationalized)"
+
+  [[modes.tunings]]
+    intervals = "19/17, 29/27"
+    tetrachords = "19/17 - 5/4 - 81/58 | 19/17 - 5/4 - 145/108"
+    adjustments = "P1[0] Δ2[-7] Δ3[-14] ♯4[-21] P5[+2] Δ6[-5] Δ7[-12]"
+    names = "Perfect-Fifth/Stretched-Octave Meantone (rationalized)"
+
+
+  [[modes.tunings]]
+    name = "Harmonic 11/10"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] ♯4[-27] P5[+2] Δ6[+6] Δ7[-29]"
+
+  [[modes.tunings]]
+    name = "Harmonic 12/11"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] ♯4[-41] P5[+2] Δ6[+6] Δ7[-43]"
+
+  [modes.names]
+
+[[modes]]
+  ordinal = 2
+  slug = "rast"
+  canonical = "Rast"
+  degrees = "P1 Δ2 ▷3 P4 P5 Δ6 ▷7"
+
+  [[modes.tunings]]
+    intervals = "9/8, 12/11, 88/81"
+    tetrachords = "9/8 - 27/22 - 4/3 | 9/8 - 27/22 - 4/3"
+    adjustments = "P1[0] Δ2[+4] ▷3[+5] P4[-2] P5[+2] Δ6[+6] ▷7[+7]"
+    names = "Pythagorean Second/Zalzalian Third"
+
+  [[modes.tunings]]
+    intervals = "9/8, 35/32, 13/12"
+    tetrachords = "9/8 - 16/13 - 4/3 | 9/8 - 16/13 - 4/3"
+    adjustments = "P1[0] Δ2[+4] ▷3[+9] P4[-2] P5[+2] Δ6[+6] ▷7[+11]"
+    names = "Pythagorean Second/Tridecimal Neutral Third"
+
+  [[modes.tunings]]
+    intervals = "9/8, 11/10, 42/39"
+    tetrachords = "9/8 - 26/21 - 4/3 | 9/8 - 26/21 - 4/3"
+    adjustments = "P1[0] Δ2[+4] ▷3[+19] P4[-2] P5[+2] Δ6[+6] ▷7[+21]"
+    names = "Pythagorean Second/Unidecimal 4/5-Tone"
+
+  [[modes.tunings]]
+    intervals = "19/17, 35/32"
+    tetrachords = "19/17 - 11/9 - 4/3 | 19/17 - 11/9 - 4/3"
+    adjustments = "P1[0] Δ2[-7] ▷3[-3] P4[+3] P5[-3] Δ6[-10] ▷7[-5]"
+    names = "Quasi-Meantone/Unidecimal Neutral Third"
+
+  [[modes.tunings]]
+    intervals = "19/17, 11/10, 12/11"
+    tetrachords = "19/17 - 16/13 - 145/108 | 19/17 - 16/13 - 145/108"
+    adjustments = "P1[0] Δ2[-7] ▷3[+9] P4[+9] P5[+2] Δ6[-5] ▷7[+11]"
+    names = "Stretched-Octave/Quasi-Meantone/Tridecimal Neutral Third"
+
+  [modes.names]
+    Arabic = "Maqam Rast"
+
+[[modes]]
+  ordinal = 3
+  slug = "mix"
+  canonical = "Mixolydian Mode"
+  degrees = "P1 Δ2 Δ3 P4 P5 Δ6 ♭7"
+
+  [[modes.tunings]]
+    intervals = "9/8 (204), 256/243 (90)"
+    tetrachords = "9/8 - 81/64 - 4/3 | 9/8 - 32/27 - 4/3"
+    adjustments = "P1[0] Δ2[+4] Δ3[+8] P4[-2] P5[+2] Δ6[+6] ♭7[-4]"
+    names = "Pythagorean"
+
+  [[modes.tunings]]
+    intervals = "9/8 (204), 10/9 (182), 16/15 (112)"
+    tetrachords = "9/8 - 5/4 - 4/3 | 9/8 - 6/5 - 4/3"
+    adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] P5[+2] Δ6[-16] ♭7[-4]"
+    names = "Just Major, Turkish Rast (descending)"
+
+  [[modes.tunings]]
+    intervals = "19/17 (193), 936/875 (117)"
+    tetrachords = "19/17 - 5/4 - 234/175 | 19/17 - 280/234 - 234/175"
+    adjustments = "P1[0] Δ2[-7] Δ3[-14] P4[+3] P5[-3] Δ6[-10] ♭7[+7]"
+    names = "Quarter-Comma Meantone (rationalized)"
+
+  [[modes.tunings]]
+    intervals = "19/17 (193), 29/27 (123)"
+    tetrachords = "19/17 - 5/4 - 145/108 | 19/17 - 6/5 - 145/108"
+    adjustments = "P1[0] Δ2[-7] Δ3[-14] P4[+9] P5[+2] Δ6[-5] ♭7[+18]"
+    names = "Perfect-Fifth/Stretched-Octave Meantone (rationalized)"
+
+  [[modes.tunings]]
+    name = "Harmonic 11/10"
+    adjustments = "P1[0] Δ2[+4] Δ3[-31] P4[-2] P5[+2] Δ6[-33] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 12/11"
+    adjustments = "P1[0] Δ2[+4] Δ3[-45] P4[-2] P5[+2] Δ6[-47] ♭7[-4]"
+
+    [modes.names]
+    
+[[modes]]
+  ordinal = 4
+  slug = "dor"
+  canonical = "Dorian Mode"
+  degrees = "P1 Δ2 ♭3 P4 P5 Δ6 ♭7"
+
+  [[modes.tunings]]
+    intervals = "9/8 (204), 256/243 (90)"
+    tetrachords = "9/8 - 32/27 - 4/3 | 9/8 - 32/27 - 4/3"
+    adjustments = "P1[0] Δ2[+4] ♭3[-6] P4[-2] P5[+2] Δ6[+6] ♭7[-4]"
+    names = "Pythagorean"
+
+  [[modes.tunings]]
+    intervals = "9/8 (204), 10/9 (182), 16/15 (112)"
+    tetrachords = "9/8 - 6/5 - 4/3 | 9/8 - 6/5 - 4/3"
+    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[-2] P5[+2] Δ6[+6] ♭7[+18]"
+    names = "Just Minor"
+
+  [[modes.tunings]]
+    intervals = "19/17 (193), 936/875 (117)"
+    tetrachords = "19/17 - 280/234 - 234/175 | 19/17 - 280/234 - 234/175"
+    adjustments = "P1[0] Δ2[-7] ♭3[+10] P4[+3] P5[-3] Δ6[-10] ♭7[+7]"
+    names = "Quarter-Comma Meantone (rationalized)"
+
+  [[modes.tunings]]
+    intervals = "19/17 (193), 29/27 (123)"
+    tetrachords = "19/17 - 6/5 - 145/108 | 19/17 - 6/5 - 145/108"
+    adjustments = "P1[0] Δ2[-7] ♭3[+16] P4[+9] P5[+2] Δ6[-5] ♭7[+18]"
+    names = "Perfect-Fifth/Stretched-Octave Meantone (rationalized)"
+
+  [[modes.tunings]]
+    name = "Harmonic 10/9 (major), Neva"
+    adjustments = "P1[0] Δ2[-18] ♭3[-6] P4[-2] P5[+2] Δ6[-16] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 11/10 (major), Bayati-Rast"
+    adjustments = "P1[0] Δ2[-35] ♭3[-6] P4[-2] P5[+2] Δ6[-33] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 12/11 (major), Bayati-Rast"
+    adjustments = "P1[0] Δ2[-49] ♭3[-6] P4[-2] P5[+2] Δ6[-47] ♭7[-4]"
+
+  [modes.names]
+    Ashkenazi = "Adonai Malach Mode (upper octave)"
+    Arabic = "Maqam Bayati-Rast"
+    Turkish = "Neva Makam"
+    
+[[modes]]
+  ordinal = 5
+  slug = "aeo"
+  canonical = "Aeolian Mode"
+  degrees = "P1 Δ2 ♭3 P4 P5 ♭6 ♭7"
+
+  [[modes.tunings]]
+    intervals = "9/8 (204), 256/243 (90)"
+    tetrachords = "9/8 - 32/27 - 4/3 | 256/243 - 32/27 - 4/3"
+    adjustments = "P1[0] Δ2[+4] ♭3[-6] P4[-2] P5[+2] ♭6[-8] ♭7[-4]"
+    names = "Pythagorean"
+
+  [[modes.tunings]]
+    intervals = "9/8 (204), 10/9 (182), 16/15 (112)"
+    tetrachords = "9/8 - 6/5 - 4/3 | 16/15 - 32/27 - 4/3"
+    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[-2] P5[+2] ♭6[+14] ♭7[-4]"
+    names = "Just Minor"
+
+  [[modes.tunings]]
+    intervals = "19/17 (193), 936/875 (117)"
+    tetrachords = "19/17 - 280/234 - 234/175 | 936/875 - 280/234 - 234/175"
+    adjustments = "P1[0] Δ2[-7] ♭3[+10] P4[+3] P5[-3] ♭6[+14] ♭7[+7]"
+    names = "Quarter-Comma Meantone (rationalized)"
+
+  [[modes.tunings]]
+    intervals = "19/17 (193), 29/27 (123)"
+    tetrachords = "19/17 - 6/5 - 145/108 | 29/27 - 6/5 - 145/108"
+    adjustments = "P1[0] Δ2[-7] ♭3[+16] P4[+9] P5[+2] ♭6[+25] ♭7[+18]"
+    names = "Perfect-Fifth/Stretched-Octave Meantone (rationalized)"
+
+
+  [[modes.tunings]]
+    name = "Harmonic 14/13"
+    adjustments = "P1[0] Δ2[+4] ♭3[+32] P4[-2] P5[+2] ♭6[+30] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 13/12"
+    adjustments = "P1[0] Δ2[+4] ♭3[+43] P4[-2] P5[+2] ♭6[+41] ♭7[-4]"
+
+  [modes.names]
+    Western = "Minor Scale, Natural Minor"
+    Ashkenazi = "Magein Avot Mode"
+    Arabic = "Maqam Nahawand-Kurd"
+    Turkish = "Bûselik-Kurdi Makam"
+    Hindustani = "Asavari Thaat"
+    Carnatic = "Naṭabhairavi (20th Mēḷakarta Rāgam)"
+    Japanese = "Yo (A mode, aux. 2/♭6)"
+    
+[[modes]]
+  ordinal = 6
+  slug = "phr"
+  canonical = "Phrygian Mode"
+  degrees = "P1 ♭2 ♭3 P4 P5 ♭6 ♭7"
+
+  [[modes.tunings]]
+    intervals = "9/8 (204), 256/243 (90)"
+    tetrachords = "256/243 - 32/27 - 4/3 | 256/243 - 32/27 - 4/3"
+    adjustments = "P1[0] ♭2[-10] ♭3[-6] P4[-2] P5[+2] ♭6[-8] ♭7[-4]"
+    names = "Pythagorean"
+
+  [[modes.tunings]]
+    intervals = "9/8 (204), 10/9 (182), 16/15 (112)"
+    tetrachords = "16/15 - 32/27 - 4/3 | 16/15 - 32/27 - 4/3"
+    adjustments = "P1[0] ♭2[+12] ♭3[-6] P4[-2] P5[+2] ♭6[+14] ♭7[-4]"
+    names = "Just Minor"
+
+  [[modes.tunings]]
+    intervals = "19/17 (193), 936/875 (117)"
+    tetrachords = "936/875 - 280/234 - 234/175 | 936/875 - 280/234 - 234/175"
+    adjustments = "P1[0] ♭2[+17] ♭3[+10] P4[+3] P5[-3] ♭6[+14] ♭7[+7]"
+    names = "Quarter-Comma Meantone (rationalized)"
+
+  [[modes.tunings]]
+    intervals = "19/17 (193), 29/27 (123)"
+    tetrachords = "29/27 - 6/5 - 145/108 | 29/27 - 6/5 - 145/108"
+    adjustments = "P1[0] ♭2[+23] ♭3[+16] P4[+9] P5[+2] ♭6[+25] ♭7[+18]"
+    names = "Perfect-Fifth/Stretched-Octave Meantone (rationalized)"
+
+  [[modes.tunings]]
+    name = "Harmonic 14/13"
+    adjustments = "P1[0] ♭2[+28] ♭3[-6] P4[-2] P5[+2] ♭6[+30] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 13/12"
+    adjustments = "P1[0] ♭2[+39] ♭3[-6] P4[-2] P5[+2] ♭6[+41] ♭7[-4]"
+
+  [modes.names]
+    Ashkenazi = "Yishtabach Mode"
+    Arabic = "Maqam Kurd"
+    Turkish = "Kürdî Makam"
+    Hindustani = "Bhairavi Thaat"
+    Carnatic = "Tōdi [Hanumatōdi] (8th Mēḷakarta Rāgam)"
+    Japanese = "In (E mode, aux. ♭3/♭7)"
+    
+[[modes]]
+  ordinal = 7
+  slug = "loc"
+  canonical = "Locrian Mode"
+  degrees = "P1 ♭2 ♭3 P4 ♯4 ♭6 ♭7"
+
+  [[modes.tunings]]
+    intervals = "9/8 (204), 256/243 (90)"
+    tetrachords = "256/243 - 32/27 - 4/3 | 9/8 - 81/64 - 729/512"
+    adjustments = "P1[0] ♭2[-10] ♭3[-6] P4[-2] ♯4[-12] ♭6[-8] ♭7[-4]"
+    names = "Pythagorean"
+
+  [[modes.tunings]]
+    intervals = "9/8 (204), 10/9 (182), 16/15 (112)"
+    tetrachords = "16/15 - 32/27 - 4/3 | 10/9 - 5/4 - 45/32"
+    adjustments = "P1[0] ♭2[+12] ♭3[-6] P4[-2] ♯4[+10] ♭6[-8] ♭7[-4]"
+    names = "Just Minor"
+
+  [[modes.tunings]]
+    intervals = "19/17 (193), 936/875 (117)"
+    tetrachords = "936/875 - 280/234 - 234/175 | 19/17 - 5/4 - 225/161"
+    adjustments = "P1[0] ♭2[+17] ♭3[+10] P4[+3] ♯4[+20] ♭6[+14] ♭7[+7]"
+    names = "Quarter-Comma Meantone (rationalized)"
+
+  [[modes.tunings]]
+    intervals = "19/17 (193), 29/27 (123)"
+    tetrachords = "29/27 - 6/5 - 145/108 | 19/17 - 5/4 - 81/58"
+    adjustments = "P1[0] ♭2[+23] ♭3[+16] P4[+9] ♯4[+32] ♭6[+25] ♭7[+18]"
+    names = "Perfect-Fifth/Stretched-Octave Meantone (rationalized)"
+
+  [[modes.tunings]]
+    name = "Harmonic 14/13"
+    adjustments = "P1[0] ♭2[+28] ♭3[-6] P4[-2] ♯4[+26] ♭6[-8] ♭7[-4]"
+
+  [[modes.tunings]]
+    name = "Harmonic 13/12"
+    adjustments = "P1[0] ♭2[+39] ♭3[-6] P4[-2] ♯4[+37] ♭6[-8] ♭7[-4]"
+
+  [modes.names]
+  Arabic = "Maqam Lami"
