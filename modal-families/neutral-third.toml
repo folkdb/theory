@@ -46,25 +46,19 @@
   degrees = "P1 Δ2 ▷3 P4 P5 Δ6 ▷7"
 
   [[modes.tunings]]
-    intervals = "9/8, 12/11, 88/81"
-    tetrachords = "9/8 - 27/22 - 4/3 | 9/8 - 27/22 - 4/3"
-    adjustments = "P1[0] Δ2[+4] ▷3[+5] P4[-2] P5[+2] Δ6[+6] ▷7[+7]"
-    names = "Pythagorean Second/Zalzalian Third"
-
-  [[modes.tunings]]
-    intervals = "9/8, 35/32, 13/12"
+    intervals = "9/8 (204), 35/32 (155), 13/12 (139)"
     tetrachords = "9/8 - 16/13 - 4/3 | 9/8 - 16/13 - 4/3"
     adjustments = "P1[0] Δ2[+4] ▷3[+9] P4[-2] P5[+2] Δ6[+6] ▷7[+11]"
-    names = "Pythagorean Second/Tridecimal Neutral Third"
+    names = "Tridecimal Neutral Third"
 
   [[modes.tunings]]
-    intervals = "9/8, 11/10, 42/39"
-    tetrachords = "9/8 - 26/21 - 4/3 | 9/8 - 26/21 - 4/3"
+    intervals = "9/8 (204), 11/10 (165), 320/297 (129)"
+    tetrachords = "9/8 - 99/80 - 4/3 | 9/8 - 99/80 - 4/3"
     adjustments = "P1[0] Δ2[+4] ▷3[+19] P4[-2] P5[+2] Δ6[+6] ▷7[+21]"
-    names = "Pythagorean Second/Unidecimal 4/5-Tone"
+    names = "Unidecimal 4/5-Tone"
 
   [[modes.tunings]]
-    intervals = "19/17, 35/32"
+    intervals = "19/17 (193), 35/32 (155)"
     tetrachords = "19/17 - 11/9 - 4/3 | 19/17 - 11/9 - 4/3"
     adjustments = "P1[0] Δ2[-7] ▷3[-3] P4[+3] P5[-3] Δ6[-10] ▷7[-5]"
     names = "Quasi-Meantone/Unidecimal Neutral Third"
