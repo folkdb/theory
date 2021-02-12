@@ -46,7 +46,7 @@
   degrees = "P1 Δ2 ▷3 P4 P5 Δ6 ▷7"
 
   [[modes.tunings]]
-    intervals = "9/8 (204), 35/32 (155), 13/12 (139)"
+    intervals = "9/8 (204), 128/117 (155), 13/12 (139)"
     tetrachords = "9/8 - 16/13 - 4/3 | 9/8 - 16/13 - 4/3"
     adjustments = "P1[0] Δ2[+4] ▷3[+9] P4[-2] P5[+2] Δ6[+6] ▷7[+11]"
     names = "Tridecimal Neutral Third"
@@ -64,7 +64,7 @@
     names = "Quasi-Meantone/Unidecimal Neutral Third"
 
   [[modes.tunings]]
-    intervals = "19/17, 11/10, 12/11"
+    intervals = "19/17 (193), 11/10 (165), 12/11 (151)"
     tetrachords = "19/17 - 16/13 - 145/108 | 19/17 - 16/13 - 145/108"
     adjustments = "P1[0] Δ2[-7] ▷3[+9] P4[+9] P5[+2] Δ6[-5] ▷7[+11]"
     names = "Stretched-Octave/Quasi-Meantone/Tridecimal Neutral Third"
