@@ -1,107 +1,107 @@
 [[notes]]
   degree = "P1"
-  name = "G"
+  name = "F"
   ratio = "1/1"
   cents = 0
 
 [[notes]]
+  degree = "P1[+49]"
+  name = "F‖"
+  ratio = "36/35"
+  cents = 48.77
+
+[[notes]]
+  degree = "♭2[-20]"
+  name = "F♯"
+  ratio = "135/128"
+  cents = 92.18
+
+[[notes]]
   degree = "♭2"
-  name = "A♭"
+  name = "G♭"
   ratio = "16/15"
   cents = 111.73
 
 [[notes]]
   degree = "Δ2"
-  name = "A"
+  name = "G"
   ratio = "9/8"
   cents = 203.91
 
 [[notes]]
   degree = "♭3"
-  name = "B♭"
+  name = "A♭"
   ratio = "6/5"
   cents = 315.64
 
 [[notes]]
-  degree = "▷3"
-  name = "B▷"
-  ratio = "16/13"
-  cents = 359.47
-
-[[notes]]
-  degree = "Δ3"
-  name = "B"
-  ratio = "5/4"
-  cents = 386.31
+  degree = "Δ3[+22]"
+  name = "A"
+  ratio = "81/64"
+  cents = 407.82
 
 [[notes]]
   degree = "P4"
-  name = "C"
+  name = "B♭"
   ratio = "4/3"
   cents = 498.04
 
 [[notes]]
   degree = "‖4"
-  name = "C‖"
+  name = "B▷"
   ratio = "18/13"
   cents = 563.38
 
 [[notes]]
   degree = "♯4"
-  name = "C♯"
+  name = "B"
   ratio = "45/32"
   cents = 590.22
 
 [[notes]]
-  degree = "♯4[+20]"
-  name = "D♭"
-  ratio = "64/45"
-  cents = 609.78
-
-[[notes]]
   degree = "P5"
-  name = "D"
+  name = "C"
   ratio = "3/2"
   cents = 701.96
 
 [[notes]]
+  degree = "P5[+49]"
+  name = "C‖"
+  ratio = "54/35"
+  cents = 750.72
+
+[[notes]]
+  degree = "♭6[-20]"
+  name = "C♯"
+  ratio = "405/256"
+  cents = 794.13
+
+[[notes]]
   degree = "♭6"
-  name = "E♭"
+  name = "D♭"
   ratio = "8/5"
   cents = 813.69
 
 [[notes]]
-  degree = "▷6"
-  name = "E▷"
-  ratio = "64/39"
-  cents = 857.52
+  degree = "Δ6[+22]"
+  name = "D"
+  ratio = "27/16"
+  cents = 905.87
 
 [[notes]]
-  degree = "Δ6"
-  name = "E"
-  ratio = "5/3"
-  cents = 884.36
-
-[[notes]]
-  degree = "♭7"
-  name = "F"
-  ratio = "16/9"
-  cents = 996.09
+  degree = "♭7[+22]"
+  name = "E♭"
+  ratio = "9/5"
+  cents = 1017.60
 
 [[notes]]
   degree = "▷7"
-  name = "F‖"
+  name = "E▷"
   ratio = "24/13"
   cents = 1061.43
 
 [[notes]]
   degree = "Δ7"
-  name = "F♯"
+  name = "E"
   ratio = "15/8"
   cents = 1088.27
-
-[[notes]]
-  degree = "Δ7[+20]"
-  name = "G♭"
-  ratio = "256/135"
-  cents = 1107.82
