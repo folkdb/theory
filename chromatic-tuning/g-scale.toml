@@ -11,6 +11,12 @@
   cents = 111.73
 
 [[notes]]
+  degree = "▷2"
+  name = "A▷"
+  ratio = "128/117"
+  cents = 155.56
+
+[[notes]]
   degree = "Δ2"
   name = "A"
   ratio = "9/8"
@@ -43,8 +49,8 @@
 [[notes]]
   degree = "‖4"
   name = "C‖"
-  ratio = "18/13"
-  cents = 563.38
+  ratio = "15/11"
+  cents = 536.95
 
 [[notes]]
   degree = "♯4"
@@ -91,8 +97,8 @@
 [[notes]]
   degree = "▷7"
   name = "F‖"
-  ratio = "24/13"
-  cents = 1061.43
+  ratio = "20/11"
+  cents = 1035.00
 
 [[notes]]
   degree = "Δ7"
