@@ -2,16 +2,11 @@
   ordinal = 1
   slug = "lyd-x3-x6"
   canonical = "Lydian ×3 ×6"
-  quality = "major"
-
-  [modes.degrees]
-    1 = [1]
-    2 = [1]
-    3 = []
-    4 = [1]
-    5 = [1]
-    6 = []
-    7 = [1]
+  degrees = ""
+  tunings = [
+    "F G B C E",
+    "F G B▷ C E▷",
+  ]
 
   [modes.names]
     Carnatic = "Hamsanādam Rāgam"
@@ -21,16 +16,10 @@
   ordinal = 2
   slug = "ion-x2-x6"
   canonical = "Ionian ×2 ×6"
-  quality = "major"
-
-  [modes.degrees]
-    1 = [1]
-    2 = []
-    3 = [1]
-    4 = [0]
-    5 = [1]
-    6 = []
-    7 = [1]
+  tunings = [
+    "C E F G B",
+    "C E▷ F G B▷",
+  ]
 
   [modes.names]
     Ethiopian = "Bati [Batti] Major"
@@ -41,16 +30,10 @@
   ordinal = 3
   slug = "mix-x2-x5"
   canonical = "Mixolydian ×2 ×5"
-  quality = "major"
-
-  [modes.degrees]
-    1 = [1]
-    2 = []
-    3 = [1]
-    4 = [0]
-    5 = []
-    6 = [1]
-    7 = [0]
+  tunings = [
+    "G B C E F",
+    "G B▷ C E▷ F",
+  ]
 
   [modes.names]
     Japanese = "Ryu-kyu (G mode)"
@@ -59,15 +42,10 @@
   ordinal = 6
   slug = "phr-x4-x7"
   canonical = "Phrygian ×4 ×7"
-
-  [modes.degrees]
-    1 = [1]
-    2 = [0]
-    3 = [0]
-    4 = []
-    5 = [1]
-    6 = [0]
-    7 = []
+  tunings = [
+    "E F G B C",
+    "E▷ F G B▷ C",
+  ]
 
   [modes.names]
     Hindustani = "Raag Bhoopal [Bhupal] Todi"
@@ -75,18 +53,13 @@
     Japanese = "Ryu-kyu (E mode)"
 
 [[modes]]
+  ordinal = 7
   slug = "loc-x3-x7"
   canonical = "Locrian ×3 ×7"
-
-  [modes.degrees]
-    1 = [1]
-    2 = [0]
-    3 = []
-    4 = [0, 1]
-    5 = []
-    6 = [0]
-    7 = []
+  tunings = [
+    "B C E F G",
+    "B▷ C E▷ F G",
+  ]
 
   [modes.names]
     Japanese = "Ryu-kyu (B mode)"
-
