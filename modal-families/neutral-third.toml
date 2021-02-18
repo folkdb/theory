@@ -60,7 +60,7 @@
 [[modes]]
   ordinal = 6
   slug = "sikah"
-  canonical = "Maqam Sikah"
+  canonical = "Sikah"
   degrees = "P1 ▷2 ▷3 ‖4 P5 ▷6 ▷7"
   tunings = [
     "E▷ F G A B▷ C D",
@@ -73,7 +73,7 @@
 [[modes]]
   ordinal = 7
   slug = "iraq"
-  canonical = "Maqam ‘Iraq"
+  canonical = "Iraq"
   degrees = "P1 ▷2 ▷3 P4 ▷5 ▷6 ▷7"
   tunings = [
     "B▷ C D E▷ F G A",

@@ -2,7 +2,7 @@
   ordinal = 1
   slug = "lyd-x3-x6"
   canonical = "Lydian ×3 ×6"
-  degrees = ""
+  degrees = "P1 Δ2 ♯4 P5 Δ7"
   tunings = [
     "F G B C E",
     "F G B▷ C E▷",
@@ -16,6 +16,7 @@
   ordinal = 2
   slug = "ion-x2-x6"
   canonical = "Ionian ×2 ×6"
+  degrees = "P1 Δ3 P4 P5 Δ7"
   tunings = [
     "C E F G B",
     "C E▷ F G B▷",
@@ -30,6 +31,7 @@
   ordinal = 3
   slug = "mix-x2-x5"
   canonical = "Mixolydian ×2 ×5"
+  degrees = "P1 Δ3 P4 Δ6 ♭7"
   tunings = [
     "G B C E F",
     "G B▷ C E▷ F",
@@ -42,6 +44,7 @@
   ordinal = 6
   slug = "phr-x4-x7"
   canonical = "Phrygian ×4 ×7"
+  degrees = "P1 ♭2 ♭3 P5 ♭6"
   tunings = [
     "E F G B C",
     "E▷ F G B▷ C",
@@ -56,6 +59,7 @@
   ordinal = 7
   slug = "loc-x3-x7"
   canonical = "Locrian ×3 ×7"
+  degrees = "P1 ♭2 P4 ♯4 ♭6"
   tunings = [
     "B C E F G",
     "B▷ C E▷ F G",

@@ -3,27 +3,10 @@
   slug = "lyd-x2-x6"
   canonical = "Lydian ×2 ×6"
   degrees = "P1 Δ3 ♯4 P5 Δ7"
-
-  [[modes.tunings]]
-    name = "Pythagorean"
-    adjustments = "P1[0] Δ3[+8] ♯4[+12] P5[+2] Δ7[+10]"
-
-  [[modes.tunings]]
-    name = "Just Thirds"
-    adjustments = "P1[0] Δ3[-14] ♯4[-10] P5[+2] Δ7[-12]"
-
-  [[modes.tunings]]
-    name = "Harmonic 15/14"
-    adjustments = "P1[0] Δ3[-21] ♯4[-17] P5[+2] Δ7[-19]"
-
-  [[modes.tunings]]
-    name = "Harmonic 14/13"
-    adjustments = "P1[0] Δ3[-30] ♯4[-26] P5[+2] Δ7[-28]"
-
-  [[modes.tunings]]
-    name = "Harmonic 13/12"
-    adjustments = "P1[0] Δ3[-41] ♯4[-37] P5[+2] Δ7[-39]"
-
+  tunings = [
+    "F A B C E",
+    "F A▷ B▷ C E▷",
+  ]
 
   [modes.names]
     Ethiopian = "Bati [Batti] Lydian"
@@ -36,27 +19,10 @@
   slug = "ion-x2-x5"
   canonical = "Ionian ×2 ×5"
   degrees = "P1 Δ3 P4 Δ6 Δ7"
-
-  [[modes.tunings]]
-    name = "Pythagorean"
-    adjustments = "P1[0] Δ3[+8] P4[-2] Δ6[+6] Δ7[+10]"
-
-  [[modes.tunings]]
-    name = "Just Thirds"
-    adjustments = "P1[0] Δ3[-14] P4[-2] Δ6[-16] Δ7[-12]"
-
-  [[modes.tunings]]
-    name = "Harmonic 15/14"
-    adjustments = "P1[0] Δ3[-21] P4[-2] Δ6[-23] Δ7[-19]"
-
-  [[modes.tunings]]
-    name = "Harmonic 14/13"
-    adjustments = "P1[0] Δ3[-30] P4[-2] Δ6[-32] Δ7[-28]"
-
-  [[modes.tunings]]
-    name = "Harmonic 13/12"
-    adjustments = "P1[0] Δ3[-41] P4[-2] Δ6[-43] Δ7[-39]"
-
+  tunings = [
+    "C E F A B",
+    "C E▷ F A▷ B▷",
+  ]
 
   [modes.names]
     Hindustani = "Raag Bhinna Shadja"
@@ -67,27 +33,10 @@
   slug = "aeo-x4-x7"
   canonical = "Aeolian ×4 ×7"
   degrees = "P1 Δ2 ♭3 P5 ♭6"
-
-  [[modes.tunings]]
-    name = "Pythagorean"
-    adjustments = "P1[0] Δ2[+4] ♭3[-6] P5[+2] ♭6[-8]"
-
-  [[modes.tunings]]
-    name = "Just Thirds"
-    adjustments = "P1[0] Δ2[+4] ♭3[+16] P5[+2] ♭6[+14]"
-
-  [[modes.tunings]]
-    name = "Harmonic 15/14"
-    adjustments = "P1[0] Δ2[+4] ♭3[+23] P5[+2] ♭6[+21]"
-
-  [[modes.tunings]]
-    name = "Harmonic 14/13"
-    adjustments = "P1[0] Δ2[+4] ♭3[+32] P5[+2] ♭6[+30]"
-
-  [[modes.tunings]]
-    name = "Harmonic 13/12"
-    adjustments = "P1[0] Δ2[+4] ♭3[+43] P5[+2] ♭6[+41]"
-
+  tunings = [
+    "A B C E F",
+    "A▷ B▷ C E▷ F",
+  ]
 
 [[modes]]
   ordinal = 6
@@ -111,29 +60,10 @@
   canonical = "Locrian ×3 ×6"
   degrees = "P1 ♭2 P4 ♯4 ♭7"
 
-  [[modes.tunings]]
-    name = "Pythagorean"
-    adjustments = "P1[0] ♭2[-10] P4[-2] ♯4[-12] ♭7[-4]"
-
-  [[modes.tunings]]
-    name = "Just Thirds (minor)"
-    adjustments = "P1[0] ♭2[+12] P4[-2] ♯4[+10] ♭7[-4]"
-
-  [[modes.tunings]]
-    name = "Just Thirds (major)"
-    adjustments = "P1[0] ♭2[+12] P4[-2] ♯4[+10] ♭7[-4]"
-
-  [[modes.tunings]]
-    name = "Harmonic 15/14"
-    adjustments = "P1[0] ♭2[+19] P4[-2] ♯4[+17] ♭7[-4]"
-
-  [[modes.tunings]]
-    name = "Harmonic 14/13"
-    adjustments = "P1[0] ♭2[+28] P4[-2] ♯4[+26] ♭7[-4]"
-
-  [[modes.tunings]]
-    name = "Harmonic 13/12"
-    adjustments = "P1[0] ♭2[+39] P4[-2] ♯4[+37] ♭7[-4]"
+  tunings = [
+    "B C E F A",
+    "B▷ C E▷ F A▷",
+  ]
 
   [modes.names]
     Ethiopian = "Anchihoye"

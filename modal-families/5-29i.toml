@@ -65,16 +65,11 @@
   ordinal = 6
   slug = "phr-x3-x6"
   canonical = "Phrygian ×3 ×6"
-  quality = "minor"
-
-  [modes.degrees]
-    1 = [1]
-    2 = [0]
-    3 = []
-    4 = [0]
-    5 = [1]
-    6 = []
-    7 = [0]
+  degrees = "P1 ♭2 P4 P5 ♭7"
+  tunings = [
+    "E F A B D",
+    "E▷ F A▷ B▷ D",
+  ]
 
   [modes.names]
     Hindustani = "Raag Bairagi [Bairagi Bhairav]"
