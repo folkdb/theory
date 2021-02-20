@@ -3,26 +3,10 @@
   slug = "lyd-r2"
   canonical = "Lydian ↑2"
   degrees = "P1 ♭3 Δ3 ♯4 P5 Δ6 Δ7"
-
-  [[modes.tunings]]
-    name = "Pythagorean"
-    adjustments = "P1[0] ♭3[+18] Δ3[+8] ♯4[+12] P5[+2] Δ6[+6] Δ7[+10]"
-
-  [[modes.tunings]]
-    name = "Harmonic 16/15 (major)"
-    adjustments = "P1[0] ♭3[-26] Δ3[-14] ♯4[-10] P5[+2] Δ6[+6] Δ7[-12]"
-
-  [[modes.tunings]]
-    name = "Harmonic 15/14 (major)"
-    adjustments = "P1[0] ♭3[-33] Δ3[-14] ♯4[-10] P5[+2] Δ6[+6] Δ7[-12]"
-
-  [[modes.tunings]]
-    name = "Harmonic 14/13 (major)"
-    adjustments = "P1[0] ♭3[-42] Δ3[-14] ♯4[-10] P5[+2] Δ6[+6] Δ7[-12]"
-
-  [[modes.tunings]]
-    name = "Harmonic 13/12 (major)"
-    adjustments = "P1[0] ♭3[-53] Δ3[-14] ♯4[-10] P5[+2] Δ6[+6] Δ7[-12]"
+  tunings = [
+    "A♭ B C D E♭ F G",
+    "B♭ C♯ D E F G A",
+  ]
 
   [modes.names]
     Carnatic = "Kōsalam (71st Mēḷakarta Rāgam)"
@@ -32,52 +16,20 @@
   slug = "ion-r5"
   canonical = "Ionian ↑5"
   degrees = "P1 Δ2 Δ3 P4 ♭6 Δ6 Δ7"
-
-  [[modes.tunings]]
-    name = "Pythagorean"
-    adjustments = "P1[0] Δ2[+4] Δ3[+8] P4[-2] ♭6[+16] Δ6[+6] Δ7[+10]"
-
-  [[modes.tunings]]
-    name = "Harmonic 16/15 (major)"
-    adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] ♭6[-28] Δ6[-16] Δ7[-12]"
-
-  [[modes.tunings]]
-    name = "Harmonic 15/14 (major)"
-    adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] ♭6[-35] Δ6[-16] Δ7[-12]"
-
-  [[modes.tunings]]
-    name = "Harmonic 14/13 (major)"
-    adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] ♭6[-44] Δ6[-16] Δ7[-12]"
-
-  [[modes.tunings]]
-    name = "Harmonic 13/12 (major)"
-    adjustments = "P1[0] Δ2[+4] Δ3[-14] P4[-2] ♭6[-55] Δ6[-16] Δ7[-12]"
+  tunings = [
+    "E♭ F G A♭ B C D",
+    "F G A B♭ C♯ D E",
+  ]
 
 [[modes]]
   ordinal = 4
   slug = "dor-s4"
   canonical = "Dorian ♯4"
   degrees = "P1 Δ2 ♭3 ♯4 P5 Δ6 ♭7"
-
-  [[modes.tunings]]
-    name = "Pythagorean"
-    adjustments = "P1[0] Δ2[+4] ♭3[-6] ♯4[+12] P5[+2] Δ6[+6] ♭7[-4]"
-
-  [[modes.tunings]]
-    name = "Harmonic 16/15 (minor)"
-    adjustments = "P1[0] Δ2[+4] ♭3[+16] ♯4[-10] P5[+2] Δ6[+6] ♭7[+18]"
-
-  [[modes.tunings]]
-    name = "Harmonic 15/14 (minor)"
-    adjustments = "P1[0] Δ2[+4] ♭3[+23] ♯4[-10] P5[+2] Δ6[+6] ♭7[+18]"
-
-  [[modes.tunings]]
-    name = "Harmonic 14/13 (minor)"
-    adjustments = "P1[0] Δ2[+4] ♭3[+32] ♯4[-10] P5[+2] Δ6[+6] ♭7[+18]"
-
-  [[modes.tunings]]
-    name = "Harmonic 13/12 (minor)"
-    adjustments = "P1[0] Δ2[+4] ♭3[+43] ♯4[-10] P5[+2] Δ6[+6] ♭7[+18]"
+  tunings = [
+    "F G A♭ B C D E♭",
+    "G A B♭ C♯ D E F",
+  ]
 
   [modes.names]
     Western = "Ukrainian Dorian, Romanian Minor"
@@ -90,26 +42,10 @@
   slug = "aeo-maj7"
   canonical = "Aeolian Δ7"
   degrees = "P1 Δ2 ♭3 P4 P5 ♭6 Δ7"
-
-  [[modes.tunings]]
-    name = "Pythagorean"
-    adjustments = "P1[0] Δ2[+4] ♭3[-6] P4[-2] P5[+2] ♭6[-8] Δ7[+10]"
-
-  [[modes.tunings]]
-    name = "Harmonic 16/15 (minor)"
-    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[-2] P5[+2] ♭6[+14] Δ7[-12]"
-
-  [[modes.tunings]]
-    name = "Harmonic 15/14 (minor)"
-    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[-2] P5[+2] ♭6[+21] Δ7[-12]"
-
-  [[modes.tunings]]
-    name = "Harmonic 14/13 (minor)"
-    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[-2] P5[+2] ♭6[+30] Δ7[-12]"
-
-  [[modes.tunings]]
-    name = "Harmonic 13/12 (minor)"
-    adjustments = "P1[0] Δ2[+4] ♭3[+16] P4[-2] P5[+2] ♭6[+41] Δ7[-12]"
+  tunings = [
+    "C D E♭ F G A♭ B",
+    "D E F G A B♭ C♯",
+  ]
 
   [modes.names]
     Western = "Harmonic Minor"
@@ -122,26 +58,10 @@
   slug = "phr-maj3"
   canonical = "Phrygian Δ3"
   degrees = "P1 ♭2 Δ3 P4 P5 ♭6 ♭7"
-
-  [[modes.tunings]]
-    name = "Pythagorean"
-    adjustments = "P1[0] ♭2[-10] Δ3[+8] P4[-2] P5[+2] ♭6[-8] ♭7[-4]"
-
-  [[modes.tunings]]
-    name = "Harmonic 16/15 (minor)"
-    adjustments = "P1[0] ♭2[+12] Δ3[-14] P4[-2] P5[+2] ♭6[+14] ♭7[-4]"
-
-  [[modes.tunings]]
-    name = "Harmonic 15/14 (minor)"
-    adjustments = "P1[0] ♭2[+19] Δ3[-14] P4[-2] P5[+2] ♭6[+14] ♭7[-4]"
-
-  [[modes.tunings]]
-    name = "Harmonic 14/13 (minor)"
-    adjustments = "P1[0] ♭2[+28] Δ3[-14] P4[-2] P5[+2] ♭6[+14] ♭7[-4]"
-
-  [[modes.tunings]]
-    name = "Harmonic 13/12 (minor)"
-    adjustments = "P1[0] ♭2[+39] Δ3[-14] P4[-2] P5[+2] ♭6[+14] ♭7[-4]"
+  tunings = [
+    "G A♭ B C D E♭ F",
+    "A B♭ C♯ D E F G",
+  ]
 
   [modes.names]
     Western = "Phrygian Dominant, Spanish Phrygian"
@@ -155,23 +75,7 @@
   slug = "loc-maj6"
   canonical = "Locrian Δ6"
   degrees = "P1 ♭2 ♭3 P4 ♯4 Δ6 ♭7"
-
-  [[modes.tunings]]
-    name = "Pythagorean"
-    adjustments = "P1[0] ♭2[-10] ♭3[-6] P4[-2] ♯4[-12] Δ6[+6] ♭7[-4]"
-
-  [[modes.tunings]]
-    name = "Harmonic 16/15 (minor)"
-    adjustments = "P1[0] ♭2[+12] ♭3[-6] P4[-2] ♯4[+10] Δ6[-16] ♭7[-4]"
-
-  [[modes.tunings]]
-    name = "Harmonic 15/14 (minor)"
-    adjustments = "P1[0] ♭2[+12] ♭3[-6] P4[-2] ♯4[+17] Δ6[-16] ♭7[-4]"
-
-  [[modes.tunings]]
-    name = "Harmonic 14/13 (minor)"
-    adjustments = "P1[0] ♭2[+12] ♭3[-6] P4[-2] ♯4[+26] Δ6[-16] ♭7[-4]"
-
-  [[modes.tunings]]
-    name = "Harmonic 13/12 (minor)"
-    adjustments = "P1[0] ♭2[+12] ♭3[-6] P4[-2] ♯4[+37] Δ6[-16] ♭7[-4]"
+  tunings = [
+    "D E♭ F G A♭ B C",
+    "E F G A B♭ C♯ D",
+  ]

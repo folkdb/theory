@@ -1,7 +1,7 @@
 [[modes]]
   ordinal = 1
-  slug = "rast-from-4"
-  canonical = "Rast (from IV)"
+  slug = "rast-on-4"
+  canonical = "Rast on IV"
   degrees = "P1 Δ2 Δ3 ‖4 P5 Δ6 ▷7"
   tunings = [
     "F G A B▷ C D E▷",
@@ -49,8 +49,8 @@
 
 [[modes]]
   ordinal = 5
-  slug = "bayati-rast-from-5"
-  canonical = "Bayati-Rast (from V)"
+  slug = "bayati-rast-on-5"
+  canonical = "Bayati-Rast on V"
   degrees = "P1 ▷2 ♭3 P4 ▷5 ♭6 ♭7"
   tunings = [
     "A B▷ C D E▷ F G",
