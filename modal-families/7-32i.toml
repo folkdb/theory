@@ -1,0 +1,84 @@
+[[modes]]
+  ordinal = 1
+  slug = "lyd-b3"
+  canonical = "Lydian ♭3"
+  degrees = "P1 Δ2 ♭3 ♯4 P5 Δ6 Δ7"
+  tunings = [
+    "F G A♭ B C D E",
+    "C D E♭ F♯ G A B",
+  ]
+
+  [modes.names]
+
+[[modes]]
+  ordinal = 2
+  slug = "ion-b6"
+  canonical = "Ionian ♭6"
+  degrees = "P1 Δ2 Δ3 P4 P5 ♭6 Δ7"
+  tunings = [
+    "C D E F G A♭ B",
+    "G A B C D E♭ F♯",
+  ]
+
+  [modes.names]
+    Western = "Harmonic Major"
+
+[[modes]]
+  ordinal = 3
+  slug = "mix-b2"
+  canonical = "Mixolydian ♭2"
+  degrees = "P1 ♭2 Δ3 P4 P5 Δ6 ♭7"
+  tunings = [
+    "G A♭ B C D E F",
+    "D E♭ F♯ G A B C",
+  ]
+
+  [modes.names]
+
+[[modes]]
+  ordinal = 4
+  slug = "dor-b5"
+  canonical = "Dorian ↓5"
+  degrees = "P1 Δ2 ♭3 P4 ♯4 Δ6 ♭7"
+  tunings = [
+    "D E F G A♭ B C",
+    "A B C D E♭ F♯ G",
+  ]
+
+  [modes.names]
+
+[[modes]]
+  ordinal = 5
+  slug = "lyd-r2-r5"
+  canonical = "Lydian ↑2 ↑5"
+  degrees = "P1 ♭3 Δ3 P4 ♭6 Δ6 Δ7"
+  tunings = [
+    "A♭ B C D E F G",
+    "E♭ F♯ G A B C D",
+  ]
+
+  [modes.names]
+
+[[modes]]
+  ordinal = 6
+  slug = "phr-l4"
+  canonical = "Phrygian ↓4"
+  degrees = "P1 ♭2 ♭3 Δ3 P5 ♭6 ♭7"
+  tunings = [
+    "E F G A♭ B C D",
+    "B C D E♭ F♯ G A",
+  ]
+
+  [modes.names]
+
+[[modes]]
+  ordinal = 7
+  slug = "loc-l7"
+  canonical = "Locrian ↓7"
+  degrees = "P1 ♭2 ♭3 P4 ♯4 ♭6 Δ6"
+  tunings = [
+    "B C D E F G A♭",
+    "F♯ G A B C D E♭",
+  ]
+
+  [modes.names]

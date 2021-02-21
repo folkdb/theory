@@ -1,0 +1,78 @@
+[[modes]]
+  ordinal = 1
+  slug = "lyd-r2-b7"
+  canonical = "Lydian ↑2 ♭7"
+  degrees = "P1 ♭3 Δ3 ♯4 P5 Δ6 ♭7"
+  tunings = [
+    "B♭ C♯ D E F G A♭",
+    "D F F♯ G♯ A B C"
+  ]
+
+  [modes.names]
+
+[[modes]]
+  ordinal = 2
+  slug = "ion-b3-r5"
+  canonical = "Ionian ♭3 ↑5"
+  degrees = "P1 Δ2 ♭3 P4 ♭6 Δ6 Δ7"
+  tunings = [
+    "F G A♭ B♭ C♯ D E",
+    "A B C D F F♯ G♯",
+  ]
+
+  [modes.names]
+
+[[modes]]
+  ordinal = 4
+  slug = "dor-b2-s4"
+  canonical = "Dorian ♭2 ♯4"
+  degrees = "P1 ♭2 ♭3 ♯4 P5 Δ6 ♭7"
+  tunings = [
+    "F G♭ A♭ B C D E♭",
+    "G A♭ B♭ C♯ D E F",
+    "B C D F F♯ G♯ A",
+  ]
+
+  [modes.names]
+
+[[modes]]
+  ordinal = 5
+  slug = "aeo-l5-maj7"
+  canonical = "Aeolian ↓5 Δ7"
+  degrees = "P1 Δ2 ♭3 P4 ♯4 ♭6 Δ7"
+  tunings = [
+    "D E F G A♭ B♭ C♯",
+    "F♯ G♯ A B C D F",
+  ]
+
+  [modes.names]
+
+[[modes]]
+  ordinal = 7
+  slug = "loc-l4-maj6"
+  canonical = "Locrian ↓4 Δ6"
+  degrees = "P1 ♭2 ♭3 Δ3 ♯4 Δ6 ♭7"
+  tunings = [
+    "E F G A♭ B♭ C♯ D",
+    "G♯ A B C D F F♯",
+  ]
+
+[[modes]]
+  ordinal = 10
+  slug = "loc-l4-l6-l7"
+  canonical = "Locrian ↓4 ↓6 ↓7"
+  degrees = "P1 ♭2 ♭3 Δ3 ♯4 P5 Δ6"
+  tunings = [
+    "C♯ D E F G A♭ B♭",
+    "F F♯ G♯ A B C D",
+  ]
+
+[[modes]]
+  ordinal = 11
+  slug = "lyd-r3-r5"
+  canonical = "Lydian ↑3 ↑5"
+  degrees = "P1 Δ2 P4 ♯4 ♭6 Δ6 Δ7"
+  tunings = [
+    "A♭ B♭ C♯ D E F G",
+    "C D F F♯ G♯ A B",
+  ]
