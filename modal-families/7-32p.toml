@@ -83,3 +83,15 @@
     minor = "D E♭ F G A♭ B C"
 
   [modes.names]
+
+[[modes]]
+  ordinal = 10
+  slug = "loc-l4-l7"
+  canonical = "Locrian ↓4 ↓7"
+  degrees = "P1 ♭2 ♭3 Δ3 ♯4 ♭6 Δ6"
+
+  [modes.tunings]
+    major = "A B♭ C D♭ E♭ F G♭"
+    minor = "B C D E♭ F G A♭"
+
+    [modes.names]

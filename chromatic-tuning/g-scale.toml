@@ -13,8 +13,8 @@
 [[notes]]
   degree = "▷2"
   name = "A▷"
-  ratio = "128/117"
-  cents = 155.56
+  ratio = "12/11"
+  cents = 150.64
 
 [[notes]]
   degree = "Δ2"
@@ -47,22 +47,16 @@
   cents = 498.04
 
 [[notes]]
-  degree = "‖4"
-  name = "C‖"
-  ratio = "15/11"
-  cents = 536.95
-
-[[notes]]
   degree = "♯4"
-  name = "C♯"
-  ratio = "45/32"
-  cents = 590.22
-
-[[notes]]
-  degree = "♯4[+20]"
   name = "D♭"
   ratio = "64/45"
   cents = 609.78
+
+[[notes]]
+  degree = "▷5"
+  name = "D▷"
+  ratio = "16/11"
+  cents = 648.68
 
 [[notes]]
   degree = "P5"
@@ -95,19 +89,13 @@
   cents = 996.09
 
 [[notes]]
-  degree = "▷7"
-  name = "F‖"
-  ratio = "20/11"
-  cents = 1035.00
-
-[[notes]]
   degree = "Δ7"
-  name = "F♯"
-  ratio = "15/8"
-  cents = 1088.27
-
-[[notes]]
-  degree = "Δ7[+20]"
   name = "G♭"
   ratio = "256/135"
   cents = 1107.82
+
+[[notes]]
+  degree = "▷8"
+  name = "G▷"
+  ratio = "64/33"
+  cents = 1146.73
