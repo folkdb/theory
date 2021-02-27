@@ -41,6 +41,12 @@
   cents = 386.31
 
 [[notes]]
+  degree = "♭4"
+  name = "C♭"
+  ratio = "9/7"
+  cents = 435.08
+
+[[notes]]
   degree = "P4"
   name = "C"
   ratio = "4/3"
@@ -81,6 +87,12 @@
   name = "E"
   ratio = "5/3"
   cents = 884.36
+
+[[notes]]
+  degree = "𝄫7"
+  name = "F♭"
+  ratio = "12/7"
+  cents = 933.13
 
 [[notes]]
   degree = "♭7"

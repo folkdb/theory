@@ -7,6 +7,7 @@
   [modes.tunings]
     major = "G♭ A B♭ C D♭ E♭ F"
     minor = "A♭ B C D E♭ F G"
+    septimal = "F♭ G A♭ B♭ C♭ D♭ E♭"
 
   [modes.names]
     Carnatic = "Kōsalam (71st Mēḷakarta Rāgam)"
@@ -20,6 +21,7 @@
   [modes.tunings]
     major = "D♭ E♭ F G♭ A B♭ C"
     minor = "E♭ F G A♭ B C D"
+    septimal = "C♭ D♭ E♭ F♭ G A♭ B♭"
 
   [modes.names]
 
@@ -32,6 +34,7 @@
   [modes.tunings]
     major = "E♭ F G♭ A B♭ C D♭"
     minor = "F G A♭ B C D E♭"
+    septimal = "D♭ E♭ F♭ G A♭ B♭ C♭"
 
   [modes.names]
     Western = "Ukrainian Dorian, Romanian Minor"
@@ -48,6 +51,7 @@
   [modes.tunings]
     major = "B♭ C D♭ E♭ F G♭ A"
     minor = "C D E♭ F G A♭ B"
+    septimal = "A♭ B♭ C♭ D♭ E♭ F♭ G"
 
   [modes.names]
     Western = "Harmonic Minor"
@@ -64,6 +68,7 @@
   [modes.tunings]
     major = "F G♭ A B♭ C D♭ E♭"
     minor = "G A♭ B C D E♭ F"
+    septimal = "E♭ F♭ G A♭ B♭ C♭ D♭"
 
   [modes.names]
     Western = "Phrygian Dominant, Spanish Phrygian"
@@ -81,6 +86,7 @@
   [modes.tunings]
     major = "C D♭ E♭ F G♭ A B♭"
     minor = "D E♭ F G A♭ B C"
+    septimal = "B♭ C♭ D♭ E♭ F♭ G A♭"
 
   [modes.names]
 
@@ -93,5 +99,6 @@
   [modes.tunings]
     major = "A B♭ C D♭ E♭ F G♭"
     minor = "B C D E♭ F G A♭"
+    septimal = "G A♭ B♭ C♭ D♭ E♭ F♭"
 
     [modes.names]

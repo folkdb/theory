@@ -1,22 +1,22 @@
 [[modes]]
   ordinal = 1
   slug = "rast-on-4"
-  canonical = "Rast on IV"
+  canonical = "Rast (IV)"
   degrees = "P1 Δ2 Δ3 ‖4 P5 Δ6 ▷7"
-  tunings = [
-    "F G A B▷ C D E▷",
-    "A♭ B♭ C D▷ E♭ F G▷",
-  ]
+
+  [modes.tunings]
+    major = "F G A B▷ C D E▷"
+    minor = "A♭ B♭ C D▷ E♭ F G▷"
 
 [[modes]]
   ordinal = 2
   slug = "rast"
   canonical = "Rast"
   degrees = "P1 Δ2 ▷3 P4 P5 Δ6 ▷7"
-  tunings = [
-    "C D E▷ F G A B▷",
-    "E♭ F G▷ A♭ B♭ C D▷",
-  ]
+
+  [modes.tunings]
+    major = "C D E▷ F G A B▷"
+    minor = "E♭ F G▷ A♭ B♭ C D▷"
 
   [modes.names]
     Arabic = "Maqam Rast"
@@ -26,10 +26,10 @@
   slug = "nairuz"
   canonical = "Nairuz"
   degrees = "P1 Δ2 ▷3 P4 P5 ▷6 ♭7"
-  tunings = [
-    "G A B▷ C D E▷ F",
-    "B♭ C D▷ E♭ F G▷ A♭",
-  ]
+
+  [modes.tunings]
+    major = "G A B▷ C D E▷ F"
+    minor = "B♭ C D▷ E♭ F G▷ A♭"
 
   [modes.names]
     Arabic = "Maqam Nairuz, Maqam Yakah"
@@ -39,10 +39,10 @@
   slug = "bayati-rast"
   canonical = "Bayati-Rast"
   degrees = "P1 ▷2 ♭3 P4 P5 ▷6 ♭7"
-  tunings = [
-    "D E▷ F G A B▷ C",
-    "F G▷ A♭ B♭ C D▷ E♭",
-  ]
+
+  [modes.tunings]
+    major = "D E▷ F G A B▷ C"
+    minor = "F G▷ A♭ B♭ C D▷ E♭"
 
   [modes.names]
     Arabic = "Maqam Bayati-Rast, Maqam Muhayyar"
@@ -50,22 +50,22 @@
 [[modes]]
   ordinal = 5
   slug = "bayati-rast-on-5"
-  canonical = "Bayati-Rast on V"
+  canonical = "Bayati-Rast (V)"
   degrees = "P1 ▷2 ♭3 P4 ▷5 ♭6 ♭7"
-  tunings = [
-    "A B▷ C D E▷ F G",
-    "C D▷ E♭ F G▷ A♭ B♭",
-  ]
+
+  [modes.tunings]
+    major = "A B▷ C D E▷ F G"
+    minor = "C D▷ E♭ F G▷ A♭ B♭"
 
 [[modes]]
   ordinal = 6
   slug = "sikah"
   canonical = "Sikah"
   degrees = "P1 ▷2 ▷3 ‖4 P5 ▷6 ▷7"
-  tunings = [
-    "E▷ F G A B▷ C D",
-    "G▷ A♭ B♭ C D▷ E♭ F",
-  ]
+
+  [modes.tunings]
+    major = "E▷ F G A B▷ C D"
+    minor = "G▷ A♭ B♭ C D▷ E♭ F"
 
   [modes.names]
     Arabic = "Maqam Sikah"
@@ -75,10 +75,10 @@
   slug = "iraq"
   canonical = "Iraq"
   degrees = "P1 ▷2 ▷3 P4 ▷5 ▷6 ▷7"
-  tunings = [
-    "B▷ C D E▷ F G A",
-    "D▷ E♭ F G▷ A♭ B♭ C",
-  ]
+
+  [modes.tunings]
+    major = "B▷ C D E▷ F G A"
+    minor = "D▷ E♭ F G▷ A♭ B♭ C"
 
   [modes.names]
     Arabic = "Maqam ‘Iraq"
