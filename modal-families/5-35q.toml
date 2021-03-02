@@ -9,7 +9,8 @@
     just-major = "G A B D E"
     just-minor = "E♭ F G B♭ C"
     septimal-major = "G A C♭ D F♭"
-    septimal-minor = ""
+    tridecimal-major = "G A B▷ D E▷"
+    unidecimal-major = "F G A▷ C D▷"
 
   [modes.names]
     Western = "Major Pentatonic"
@@ -94,10 +95,9 @@
 
   [modes.tunings]
     symmetrical = "D F G A C"
-    just-major = "E G A B D"
-    just-minor = "C E♭ F G B♭"
-    septimal-major = "F♭ G A C♭ D"
-    septimal-minor = "E G♭ A♭ B♭ D♭"
+    major = "E G A B D"
+    minor = "C E♭ F G B♭"
+    septimal = "F♭ G A C♭ D"
 
   [[modes.tunings]]
     name = "Yu"

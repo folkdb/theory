@@ -55,8 +55,8 @@
 [[notes]]
   degree = "♯4"
   name = "D♭"
-  ratio = "64/45"
-  cents = 609.78
+  ratio = "7/5"
+  cents = 582.51
 
 [[notes]]
   degree = "▷5"
@@ -103,8 +103,8 @@
 [[notes]]
   degree = "Δ7"
   name = "G♭"
-  ratio = "256/135"
-  cents = 1107.82
+  ratio = "28/15"
+  cents = 1080.56
 
 [[notes]]
   degree = "▷8"

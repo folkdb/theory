@@ -29,8 +29,7 @@
   degrees = "P1 ♭2 ♭3 ♯4 P5 Δ6 ♭7"
 
   [modes.tunings]
-    major = "E♭ F♭ G♭ A B♭ C D♭"
-    minor = "F G♭ A♭ B C D E♭"
+    septimal = "E♭ F♭ G♭ A B♭ C D♭"
 
   [modes.names]
 

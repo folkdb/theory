@@ -7,7 +7,7 @@
   [modes.tunings]
     major = "F G A B C D E♭"
     minor = "A♭ B♭ C D E♭ F G♭"
-    septimal = "D♭ E♭ F G A♭ B♭ C♭"
+    septimal = "G♭ A♭ B♭ C D♭ E♭ F♭"
 
   [modes.names]
 
@@ -20,7 +20,7 @@
   [modes.tunings]
     major = "C D E♭ F G A B"
     minor = "E♭ F G♭ A♭ B♭ C D"
-    septimal = "A♭ B♭ C♭ D♭ E♭ F G"
+    septimal = "D♭ E♭ F♭ G♭ A♭ B♭ C"
 
   [modes.names]
 
@@ -33,7 +33,7 @@
   [modes.tunings]
     major = "G A B C D E♭ F"
     minor = "B♭ C D E♭ F G♭ A♭"
-    septimal = "E♭ F G A♭ B♭ C♭ D♭"
+    septimal = "A♭ B♭ C D♭ E♭ F♭ G♭"
 
   [modes.names]
 
@@ -46,7 +46,7 @@
   [modes.tunings]
     major = "D E♭ F G A B C"
     minor = "F G♭ A♭ B♭ C D E♭"
-    septimal = "B♭ C♭ D♭ E♭ F G A♭"
+    septimal = "E♭ F♭ G♭ A♭ B♭ C D♭"
 
   [modes.names]
 
@@ -59,7 +59,7 @@
   [modes.tunings]
     major = "A B C D E♭ F G"
     minor = "C D E♭ F G♭ A♭ B♭"
-    septimal = "F G A♭ B♭ C♭ D♭ E♭"
+    septimal = "B♭ C D♭ E♭ F♭ G♭ A♭"
 
   [modes.names]
 
@@ -72,7 +72,7 @@
   [modes.tunings]
     major = "B C D E♭ F G A"
     minor = "D E♭ F G♭ A♭ B♭ C"
-    septimal = "G A♭ B♭ C♭ D♭ E♭ F"
+    septimal = "C D♭ E♭ F♭ G♭ A♭ B♭"
 
   [modes.names]
 
@@ -85,6 +85,6 @@
   [modes.tunings]
     major = "E♭ F G A B C D"
     minor = "G♭ A♭ B♭ C D E♭ F"
-    septimal = "C♭ D♭ E♭ F G A♭ B♭"
+    septimal = "F♭ G♭ A♭ B♭ C D♭ E♭"
 
   [modes.names]

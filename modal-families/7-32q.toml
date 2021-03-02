@@ -2,10 +2,10 @@
   ordinal = 1
   slug = "lyd-r2"
   canonical = "Lydian ↑2"
-  degrees = "P1 ♭3 Δ3 ♯4 P5 Δ6 Δ7"
+  degrees = "P1 ‖2 Δ3 ♯4 P5 Δ6 Δ7"
 
   [modes.tunings]
-    minor = "A♭ B C D E♭ F G"
+    minor = "A♭ ▷B C D E♭ F G"
     septimal = "C♭ D E♭ F G♭ A♭ B♭"
 
   [modes.names]
