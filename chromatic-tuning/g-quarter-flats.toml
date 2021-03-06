@@ -5,10 +5,28 @@
   cents = 0
 
 [[notes]]
+  degree = "♭2₋"
+  name = "A♭₋"
+  ratio = "20/19"
+  cents = 88.80
+
+[[notes]]
   degree = "♭2"
   name = "A♭"
   ratio = "16/15"
   cents = 111.73
+
+[[notes]]
+  degree = "♭2₊"
+  name = "A♭₊"
+  ratio = "15/14"
+  cents = 119.44
+
+[[notes]]
+  degree = "▷2"
+  name = "A▷₋"
+  ratio = "13/12"
+  cents = 138.57
 
 [[notes]]
   degree = "▷2"
@@ -17,10 +35,22 @@
   cents = 150.64
 
 [[notes]]
+  degree = "▷2₊"
+  name = "A▷₊"
+  ratio = "35/32"
+  cents = 155.14
+
+[[notes]]
   degree = "Δ2"
   name = "A"
   ratio = "9/8"
   cents = 203.91
+
+[[notes]]
+  degree = "♭3₋"
+  name = "B♭₋"
+  ratio = "19/16"
+  cents = 297.51
 
 [[notes]]
   degree = "♭3"

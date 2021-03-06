@@ -1,0 +1,143 @@
+[[notes]]
+  degree = "P1"
+  name = "G"
+  ratio = "1/1"
+  cents = 0
+
+[[notes]]
+  degree = "♭2₋"
+  name = "A♭₋"
+  ratio = "20/19"
+  cents = 88.80
+
+[[notes]]
+  degree = "♭2"
+  name = "A♭"
+  ratio = "16/15"
+  cents = 111.73
+
+[[notes]]
+  degree = "♭2₊"
+  name = "A♭₊"
+  ratio = "15/14"
+  cents = 119.44
+
+[[notes]]
+  degree = "▷2"
+  name = "A▷₋"
+  ratio = "13/12"
+  cents = 138.57
+
+[[notes]]
+  degree = "▷2"
+  name = "A▷"
+  ratio = "12/11"
+  cents = 150.64
+
+[[notes]]
+  degree = "▷2₊"
+  name = "A▷₊"
+  ratio = "35/32"
+  cents = 155.14
+
+[[notes]]
+  degree = "Δ2"
+  name = "A"
+  ratio = "9/8"
+  cents = 203.91
+
+[[notes]]
+  degree = "♭3₋"
+  name = "B♭₋"
+  ratio = "19/16"
+  cents = 297.51
+
+[[notes]]
+  degree = "♭3"
+  name = "B♭"
+  ratio = "6/5"
+  cents = 315.64
+
+[[notes]]
+  degree = "▷3"
+  name = "B▷"
+  ratio = "16/13"
+  cents = 359.47
+
+[[notes]]
+  degree = "Δ3"
+  name = "B"
+  ratio = "5/4"
+  cents = 386.31
+
+[[notes]]
+  degree = "♭4"
+  name = "C♭"
+  ratio = "9/7"
+  cents = 435.08
+
+[[notes]]
+  degree = "P4"
+  name = "C"
+  ratio = "4/3"
+  cents = 498.04
+
+[[notes]]
+  degree = "♯4"
+  name = "D♭"
+  ratio = "7/5"
+  cents = 582.51
+
+[[notes]]
+  degree = "▷5"
+  name = "D▷"
+  ratio = "16/11"
+  cents = 648.68
+
+[[notes]]
+  degree = "P5"
+  name = "D"
+  ratio = "3/2"
+  cents = 701.96
+
+[[notes]]
+  degree = "♭6"
+  name = "E♭"
+  ratio = "8/5"
+  cents = 813.69
+
+[[notes]]
+  degree = "▷6"
+  name = "E▷"
+  ratio = "64/39"
+  cents = 857.52
+
+[[notes]]
+  degree = "Δ6"
+  name = "E"
+  ratio = "5/3"
+  cents = 884.36
+
+[[notes]]
+  degree = "𝄫7"
+  name = "F♭"
+  ratio = "12/7"
+  cents = 933.13
+
+[[notes]]
+  degree = "♭7"
+  name = "F"
+  ratio = "16/9"
+  cents = 996.09
+
+[[notes]]
+  degree = "Δ7"
+  name = "G♭"
+  ratio = "28/15"
+  cents = 1080.56
+
+[[notes]]
+  degree = "▷8"
+  name = "G▷"
+  ratio = "64/33"
+  cents = 1146.73

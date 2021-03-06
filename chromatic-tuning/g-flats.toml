@@ -1,0 +1,66 @@
+[[notes]]
+  degree = "♭2₋"
+  name = "A♭₋"
+  ratio = "20/19"
+  cents = 88.80
+
+[[notes]]
+  degree = "♭2"
+  name = "A♭"
+  ratio = "16/15"
+  cents = 111.73
+
+[[notes]]
+  degree = "♭2₊"
+  name = "A♭₊"
+  ratio = "15/14"
+  cents = 119.44
+
+[[notes]]
+  degree = "♭3₋"
+  name = "B♭₋"
+  ratio = "19/16"
+  cents = 297.51
+
+[[notes]]
+  degree = "♭3"
+  name = "B♭"
+  ratio = "6/5"
+  cents = 315.64
+
+[[notes]]
+  degree = "♭3₊"
+  name = "B♭₊"
+  ratio = ""
+  cents = 323
+
+[[notes]]
+  degree = "♯4"
+  name = "D♭"
+  ratio = "45/32"
+  cents = 590
+
+[[notes]]
+  degree = "♯4"
+  name = "D♭"
+  ratio = "64/45"
+  cents = 610
+
+[[notes]]
+  degree = "♯4"
+  name = "D♭"
+  ratio = "10/7"
+  cents = 617
+
+[[notes]]
+  degree = "♭6"
+  name = "E♭"
+  ratio = "8/5"
+  cents = 813.69
+
+[[notes]]
+  degree = "Δ7"
+  name = "G♭"
+  ratio = "28/15"
+  cents = 1080.56
+

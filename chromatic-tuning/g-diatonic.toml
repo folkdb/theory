@@ -1,0 +1,41 @@
+[[notes]]
+  degree = "P1"
+  name = "G"
+  ratio = "1/1"
+  cents = 0
+
+[[notes]]
+  degree = "Δ2"
+  name = "A"
+  ratio = "9/8"
+  cents = 203.91
+
+[[notes]]
+  degree = "Δ3"
+  name = "B"
+  ratio = "5/4"
+  cents = 386.31
+
+[[notes]]
+  degree = "P4"
+  name = "C"
+  ratio = "4/3"
+  cents = 498.04
+
+[[notes]]
+  degree = "P5"
+  name = "D"
+  ratio = "3/2"
+  cents = 701.96
+
+[[notes]]
+  degree = "Δ6"
+  name = "E"
+  ratio = "5/3"
+  cents = 884.36
+
+[[notes]]
+  degree = "♭7"
+  name = "F"
+  ratio = "16/9"
+  cents = 996.09

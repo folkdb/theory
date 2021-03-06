@@ -97,7 +97,7 @@
     just-major = "E G A B D"
     just-minor = "C E♭ F G B♭"
     septimal-major = "F♭ G A C♭ D"
-    septimal-minor = "E G♭ A♭ B♭ D♭"
+    septimal-minor = "E♭ G♭ A♭ B♭ D♭"
 
   [[modes.tunings]]
     name = "Yu"

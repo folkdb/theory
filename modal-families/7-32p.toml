@@ -62,8 +62,8 @@
   degrees = "P1 ♭2 Δ3 P4 P5 ♭6 ♭7"
 
   [modes.tunings]
-    minor = "G A♭ B C D E♭ F"
-    septimal = "B♭ C♭ D E♭ F G♭ A♭"
+    just = "G A♭ B C D E♭ F"
+    septimal = "G A♭₊ B C D E♭₊ F"
 
   [modes.names]
     Western = "Phrygian Dominant, Spanish Phrygian"
