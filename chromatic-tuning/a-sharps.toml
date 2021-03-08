@@ -1,0 +1,59 @@
+[[notes]]
+  degree = "♯1₋"
+  name = "A♯"
+  ratio = "28/27"
+  cents = 62.96
+
+[[notes]]
+  degree = "♯1"
+  name = "A♯"
+  ratio = "25/24"
+  cents = 70.67
+
+[[notes]]
+  degree = "♯1₊"
+  name = "A♯₊"
+  ratio = "135/128"
+  cents = 92.18
+
+[[notes]]
+  degree = "Δ3₋"
+  name = "C♯₋"
+  ratio = "56/45"
+  cents = 378.60
+
+[[notes]]
+  degree = "Δ3"
+  name = "C♯"
+  ratio = "5/4"
+  cents = 386.31
+
+[[notes]]
+  degree = "Δ3₊"
+  name = "C♯₊"
+  ratio = "81/64"
+  cents = 407.82
+
+[[notes]]
+  degree = "♯4"
+  name = "D"
+  ratio = "4/3"
+  cents = 498.04
+
+[[notes]]
+  degree = "P5"
+  name = "E"
+  ratio = "40/27"
+  cents = 680.45
+
+[[notes]]
+  degree = "♭6"
+  name = "F"
+  ratio = "128/81"
+  cents = 792.81
+
+[[notes]]
+  degree = "♭7"
+  name = "G"
+  ratio = "16/9"
+  cents = 996.09
