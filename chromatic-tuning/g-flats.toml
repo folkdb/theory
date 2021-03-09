@@ -1,10 +1,4 @@
 [[notes]]
-  degree = "♭2₋"
-  name = "A♭₋"
-  ratio = "19/18"
-  cents = 93.60
-
-[[notes]]
   degree = "♭2"
   name = "A♭"
   ratio = "16/15"
@@ -17,12 +11,6 @@
   cents = 119.44
 
 [[notes]]
-  degree = "♭3₋"
-  name = "B♭₋"
-  ratio = "19/16"
-  cents = 297.51
-
-[[notes]]
   degree = "♭3"
   name = "B♭"
   ratio = "6/5"
@@ -33,12 +21,6 @@
   name = "B♭₊"
   ratio = "17/14"
   cents = 336.13
-
-[[notes]]
-  degree = "♭5₋"
-  name = "D♭₋"
-  ratio = "45/32"
-  cents = 590.22
 
 [[notes]]
   degree = "♭5"
@@ -54,12 +36,6 @@
 
 [[notes]]
   degree = "♭6"
-  name = "E♭₋"
-  ratio = "19/12"
-  cents = 795.56
-
-[[notes]]
-  degree = "♭6"
   name = "E♭"
   ratio = "8/5"
   cents = 813.69
@@ -71,19 +47,7 @@
   cents = 834.17
 
 [[notes]]
-  degree = "Δ7₋"
-  name = "G♭₋"
-  ratio = "15/8"
-  cents = 1088.27
-
-[[notes]]
-  degree = "Δ7"
+  degree = "♭8"
   name = "G♭"
   ratio = "256/135"
   cents = 1107.82
-
-[[notes]]
-  degree = "Δ7₊"
-  name = "G♭₊"
-  ratio = "40/21"
-  cents = 1115.53
