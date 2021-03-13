@@ -1,0 +1,41 @@
+[[notes]]
+  degree = "▷2"
+  name = "A▷"
+  ratio = "11/10"
+  cents = 165.00
+
+[[notes]]
+  degree = "▷3₋"
+  name = "B▷₋"
+  ratio = "39/32"
+  cents = 342.48
+
+[[notes]]
+  degree = "▷3"
+  name = "B▷"
+  ratio = "16/13"
+  cents = 359.47
+
+[[notes]]
+  degree = "▷5"
+  name = "D▷"
+  ratio = "22/15"
+  cents = 663.05
+
+[[notes]]
+  degree = "▷6₋"
+  name = "E▷₋"
+  ratio = "13/8"
+  cents = 840.53
+
+[[notes]]
+  degree = "▷6"
+  name = "E▷"
+  ratio = "64/39"
+  cents = 857.52
+
+[[notes]]
+  degree = "▷8"
+  name = "G▷"
+  ratio = "88/45"
+  cents = 1161.09

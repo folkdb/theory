@@ -1,0 +1,41 @@
+[[notes]]
+  degree = "‖1"
+  name = "G‖"
+  ratio = "33/32"
+  cents = 53.27
+
+[[notes]]
+  degree = "‖2₋"
+  name = "A‖₋"
+  ratio = "8/7"
+  cents = 231.17
+
+[[notes]]
+  degree = "‖2"
+  name = "A‖"
+  ratio = "15/13"
+  cents = 247.74
+
+[[notes]]
+  degree = "‖4"
+  name = "C‖"
+  ratio = "11/8"
+  cents = 551.32
+
+[[notes]]
+  degree = "‖5₋"
+  name = "D‖₋"
+  ratio = "32/21"
+  cents = 729.22
+
+[[notes]]
+  degree = "‖5"
+  name = "D‖"
+  ratio = "20/13"
+  cents = 745.79
+
+[[notes]]
+  degree = "▷7"
+  name = "F‖"
+  ratio = "11/6"
+  cents = 1049.36
