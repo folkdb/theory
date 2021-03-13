@@ -5,12 +5,6 @@
   cents = 53.27
 
 [[notes]]
-  degree = "‖2₋"
-  name = "A‖₋"
-  ratio = "8/7"
-  cents = 231.17
-
-[[notes]]
   degree = "‖2"
   name = "A‖"
   ratio = "15/13"
@@ -21,12 +15,6 @@
   name = "C‖"
   ratio = "11/8"
   cents = 551.32
-
-[[notes]]
-  degree = "‖5₋"
-  name = "D‖₋"
-  ratio = "32/21"
-  cents = 729.22
 
 [[notes]]
   degree = "‖5"

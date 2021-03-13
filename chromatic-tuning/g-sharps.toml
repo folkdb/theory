@@ -11,12 +11,6 @@
   cents = 92.18
 
 [[notes]]
-  degree = "♯2₋"
-  name = "A♯₋"
-  ratio = "7/6"
-  cents = 266.87
-
-[[notes]]
   degree = "♯2"
   name = "A♯"
   ratio = "75/64"
@@ -27,12 +21,6 @@
   name = "C♯"
   ratio = "45/32"
   cents = 590.22
-
-[[notes]]
-  degree = "♯5₋"
-  name = "D♯₋"
-  ratio = "14/9"
-  cents = 764.92
 
 [[notes]]
   degree = "♯5"
