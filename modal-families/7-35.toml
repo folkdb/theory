@@ -5,8 +5,10 @@
   degrees = "P1 Δ2 Δ3 ♯4 P5 Δ6 Δ7"
 
   [modes.tunings]
-    major = "F G A B C D E"
-    minor = "A♭ B♭ C D E♭ F G"
+    just-major = "F G A B C D E"
+    just-minor = "A♭ B♭ C D E♭ F G"
+    wolf-major = "B♭ C D E F G A"
+    wolf-minor = "D♭ E♭ F G A♭ B♭ C"
 
   [modes.names]
     Hindustani = "Kalyan Thaat"
@@ -20,8 +22,10 @@
   degrees = "P1 Δ2 Δ3 P4 P5 Δ6 Δ7"
 
   [modes.tunings]
-    major = "C D E F G A B"
-    minor = "E♭ F G A♭ B♭ C D"
+    just-major = "C D E F G A B"
+    just-minor = "E♭ F G A♭ B♭ C D"
+    wolf-major = "F G A B♭ C D E"
+    wolf-minor = "A♭ B♭ C D♭ E♭ F G"
 
   [modes.names]
     Western = "Major Scale"
@@ -41,8 +45,8 @@
   [modes.tunings]
     just-major = "G A B C D E F"
     just-minor = "B♭ C D E♭ F G A♭"
-    wolf-major = "F G A B♭ C D E♭"
-    wolf-minor = "A♭ B♭ C D♭ E♭ F G♭"
+    wolf-major = "C D E F G A B♭"
+    wolf-minor = "E♭ F G A♭ B♭ C D♭"
 
   [modes.names]
     Ashkenazi = "Adonai Malach Mode (lower octave)"
