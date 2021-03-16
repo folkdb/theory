@@ -6,9 +6,9 @@
 
   [modes.tunings]
     just-major = "F G A B C D E"
+    imperfect-major = "B♭ C D E F G A"
     just-minor = "A♭ B♭ C D E♭ F G"
-    wolf-major = "B♭ C D E F G A"
-    wolf-minor = "D♭ E♭ F G A♭ B♭ C"
+    imperfect-minor = "D♭ E♭ F G A♭ B♭ C"
 
   [modes.names]
     Hindustani = "Kalyan Thaat"
@@ -23,9 +23,9 @@
 
   [modes.tunings]
     just-major = "C D E F G A B"
+    imperfect-major = "F G A B♭ C D E"
     just-minor = "E♭ F G A♭ B♭ C D"
-    wolf-major = "F G A B♭ C D E"
-    wolf-minor = "A♭ B♭ C D♭ E♭ F G"
+    imperfect-minor = "A♭ B♭ C D♭ E♭ F G"
 
   [modes.names]
     Western = "Major Scale"
@@ -44,9 +44,9 @@
 
   [modes.tunings]
     just-major = "G A B C D E F"
+    imperfect-major = "C D E F G A B♭"
     just-minor = "B♭ C D E♭ F G A♭"
-    wolf-major = "C D E F G A B♭"
-    wolf-minor = "E♭ F G A♭ B♭ C D♭"
+    imperfect-minor = "E♭ F G A♭ B♭ C D♭"
 
   [modes.names]
     Ashkenazi = "Adonai Malach Mode (lower octave)"
@@ -63,8 +63,10 @@
   degrees = "P1 Δ2 ♭3 P4 P5 Δ6 ♭7"
 
   [modes.tunings]
-    major = "D E F G A B C"
-    minor = "F G A♭ B♭ C D E♭"
+    just-major = "D E F G A B C"
+    imperfect-major = "G A B♭ C D E F"
+    just-minor = "F G A♭ B♭ C D E♭"
+    imperfect-minor = "B♭ C D♭ E♭ F G A♭"
 
   [modes.names]
     Ashkenazi = "Adonai Malach Mode (upper octave)"
@@ -79,8 +81,10 @@
   degrees = "P1 Δ2 ♭3 P4 P5 ♭6 ♭7"
 
   [modes.tunings]
-    major = "A B C D E F G"
-    minor = "C D E♭ F G A♭ B♭"
+    just-major = "A B C D E F G"
+    imperfect-major = "D E F G A B♭ C"
+    just-minor = "C D E♭ F G A♭ B♭"
+    imperfect-minor = "F G A♭ B♭ C D♭ E♭"
 
   [modes.names]
     Western = "Minor Scale, Natural Minor"
@@ -98,8 +102,10 @@
   degrees = "P1 ♭2 ♭3 P4 P5 ♭6 ♭7"
 
   [modes.tunings]
-    major = "E F G A B C D"
-    minor = "G A♭ B♭ C D E♭ F"
+    just-major = "E F G A B C D"
+    imperfect-major = "A B♭ C D E F G"
+    just-minor = "G A♭ B♭ C D E♭ F"
+    imperfect-minor = "C D♭ E♭ F G A♭ B♭"
 
   [modes.names]
     Ashkenazi = "Yishtabach Mode"
@@ -116,8 +122,10 @@
   degrees = "P1 ♭2 ♭3 P4 ♯4 ♭6 ♭7"
 
   [modes.tunings]
-    major = "B C D E F G A"
-    minor = "D E♭ F G A♭ B♭ C"
+    just-major = "B C D E F G A"
+    imperfect-major = "E F G A B♭ C D"
+    just-minor = "D E♭ F G A♭ B♭ C"
+    imperfect-minor = "G A♭ B♭ C D♭ E♭ F"
 
   [modes.names]
     Arabic = "Maqam Lami"
