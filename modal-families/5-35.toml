@@ -9,7 +9,7 @@
     just-major = "G A B D E"
     imperfect-major = "B♭ C D F G"
     just-minor = "E♭ F G B♭ C"
-    imperfect-minor = "D♭ E♭ F A♭ B♭"
+    imperfect-minor = "C D E G A"
 
   [modes.names]
     Western = "Major Pentatonic"
@@ -30,7 +30,7 @@
     just-major = "D E G A B"
     imperfect-major = "F G B♭ C D"
     just-minor = "B♭ C E♭ F G"
-    imperfect-minor = "A♭ B♭ D♭ E♭ F"
+    imperfect-minor = "G A C D E"
 
   [modes.names]
     Western = "Scottish Pentatonic"
@@ -52,7 +52,7 @@
     just-major = "A B D E G"
     imperfect-major = "C D F G B♭"
     just-minor = "F G B♭ C E♭"
-    imperfect-minor = "E♭ F A♭ B♭ D♭"
+    imperfect-minor = "D E G A C"
 
   [modes.names]
     Ethiopian = "Yematebela Wof (popular song)"
@@ -72,7 +72,7 @@
     just-major = "E G A B D"
     imperfect-major = "G B♭ C D F"
     just-minor = "C E♭ F G B♭"
-    imperfect-minor = "B♭ D♭ E♭ F A♭"
+    imperfect-minor = "A C D E G"
 
   [modes.names]
     Western = "Minor Pentatonic"
@@ -95,7 +95,7 @@
     just-major = "B D E G A"
     imperfect-major = "D F G B♭ C"
     just-minor = "G B♭ C E♭ F"
-    imperfect-minor = "F A♭ B♭ D♭ E♭"
+    imperfect-minor = "E G A C D"
 
   [modes.names]
     Ethiopian = "Shegaye [Shegye Shegitu] (popular song)"
