@@ -5,11 +5,11 @@
   degrees = "P1 Δ2 Δ3 P5 Δ6"
 
   [modes.tunings]
-    Pythagorean = "F G A C D"
+    pythagorean = "F G A C D"
     just-major = "G A B D E"
+    imperfect-major = "B♭ C D F G"
     just-minor = "E♭ F G B♭ C"
-    wolf-major = "B♭ C D F G"
-    wolf-minor = "D♭ E♭ F A♭ B♭"
+    imperfect-minor = "D♭ E♭ F A♭ B♭"
 
   [modes.names]
     Western = "Major Pentatonic"
@@ -26,11 +26,11 @@
   degrees = "P1 Δ2 P4 P5 Δ6"
 
   [modes.tunings]
-    Pythagorean = "C D F G A"
+    pythagorean = "C D F G A"
     just-major = "D E G A B"
+    imperfect-major = "F G B♭ C D"
     just-minor = "B♭ C E♭ F G"
-    wolf-major = "F G B♭ C D"
-    wolf-minor = "A♭ B♭ D♭ E♭ F"
+    imperfect-minor = "A♭ B♭ D♭ E♭ F"
 
   [modes.names]
     Western = "Scottish Pentatonic"
@@ -48,11 +48,11 @@
   degrees = "P1 Δ2 P4 P5 ♭7"
 
   [modes.tunings]
-    Pythagorean = "G A C D F"
+    pythagorean = "G A C D F"
     just-major = "A B D E G"
+    imperfect-major = "C D F G B♭"
     just-minor = "F G B♭ C E♭"
-    wolf-major = "C D F G B♭"
-    wolf-minor = "E♭ F A♭ B♭ D♭"
+    imperfect-minor = "E♭ F A♭ B♭ D♭"
 
   [modes.names]
     Ethiopian = "Yematebela Wof (popular song)"
@@ -68,11 +68,11 @@
   degrees = "P1 ♭3 P4 P5 ♭7"
 
   [modes.tunings]
-    Pythagorean = "D F G A C"
+    pythagorean = "D F G A C"
     just-major = "E G A B D"
+    imperfect-major = "G B♭ C D F"
     just-minor = "C E♭ F G B♭"
-    wolf-major = "G B♭ C D F"
-    wolf-minor = "B♭ D♭ E♭ F A♭"
+    imperfect-minor = "B♭ D♭ E♭ F A♭"
 
   [modes.names]
     Western = "Minor Pentatonic"
@@ -91,11 +91,11 @@
   degrees = "P1 ♭3 P4 ♭6 ♭7"
 
   [modes.tunings]
-    Pythagorean = "A C D F G"
+    pythagorean = "A C D F G"
     just-major = "B D E G A"
+    imperfect-major = "D F G B♭ C"
     just-minor = "G B♭ C E♭ F"
-    wolf-major = "D F G B♭ C"
-    wolf-minor = "F A♭ B♭ D♭ E♭"
+    imperfect-minor = "F A♭ B♭ D♭ E♭"
 
   [modes.names]
     Ethiopian = "Shegaye [Shegye Shegitu] (popular song)"
