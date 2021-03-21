@@ -17,8 +17,8 @@
   degrees = "P1 Δ2 Δ3 P4 P5 ♭6 Δ7"
 
   [modes.tunings]
-    major = "C D E F G A♭ B"
-    minor = "E♭ F G A♭ B♭ C♭ D"
+    major = "A B C♯ D E F G♯"
+    minor = "C D E F G A♭ B"
 
   [modes.names]
     Western = "Harmonic Major"

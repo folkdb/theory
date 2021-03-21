@@ -1,0 +1,11 @@
+[[modes]]
+  ordinal = 6
+  slug = "nea-min"
+  canonical = "Neapolitan Minor"
+  degrees = "P1 ♭2 ♭3 P4 P5 ♭6 Δ7"
+
+  [modes.tunings]
+    major = "E F G A B C D♯"
+    minor = "C D♭ E♭ F G A♭ B"
+
+  [modes.names]

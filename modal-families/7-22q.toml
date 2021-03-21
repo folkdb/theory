@@ -1,0 +1,11 @@
+[[modes]]
+  ordinal = 6
+  slug = "double-harm-min"
+  canonical = "Double Harmonic Minor"
+  degrees = "P1 Δ2 ♭3 ♯4 P5 ♭6 Δ7"
+
+  [modes.tunings]
+    major = "A B C‖ D♯ E F‖ G♯"
+    minor = "F G A▷ B C D▷ E"
+
+  [modes.names]
