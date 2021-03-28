@@ -57,20 +57,15 @@
 
 [[modes]]
   ordinal = 6
-  slug = "phr-maj3"
-  canonical = "Phrygian Δ3"
-  degrees = "P1 ♭2 Δ3 P4 P5 ♭6 ♭7"
+  slug = "bayati-rast-maj3"
+  canonical = "Bayati-Rast Δ3"
+  degrees = "P1 ▷2 Δ3 P4 P5 ▷6 ♭7"
 
   [modes.tunings]
     major = "E F‖ G♯ A B C‖ D"
     minor = "G A▷ B C D E▷ F"
 
   [modes.names]
-    Western = "Phrygian Dominant, Spanish Phrygian"
-    Ashkenazi = "Ahava Rabbah Mode, Freygish"
-    Iberian = "Escala Andaluza"
-    Arabic = "Maqam Hijaz-Nahawand"
-    Carnatic = "Vakuḷābharaṇam (14th Mēḷakarta Rāgam)"
 
 [[modes]]
   ordinal = 7
