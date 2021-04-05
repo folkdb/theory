@@ -1,8 +1,8 @@
 [[notes]]
   degree = "‖1"
   name = "G‖"
-  ratio = "33/32"
-  cents = 53.27
+  ratio = "40/39"
+  cents = 43.83
 
 [[notes]]
   degree = "‖2"
@@ -13,8 +13,8 @@
 [[notes]]
   degree = "‖4"
   name = "C‖"
-  ratio = "11/8"
-  cents = 551.32
+  ratio = "15/11"
+  cents = 536.95
 
 [[notes]]
   degree = "‖5"
@@ -25,5 +25,5 @@
 [[notes]]
   degree = "▷7"
   name = "F‖"
-  ratio = "11/6"
-  cents = 1049.36
+  ratio = "20/11"
+  cents = 1035.00
