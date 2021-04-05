@@ -1,5 +1,29 @@
 [[modes]]
-  ordinal = 6
+  ordinal = 1
+  slug = ""
+  canonical = ""
+  degrees = "P1 ♭3 Δ3 ♯4 P5 ♭7 Δ7"
+
+  [modes.tunings]
+    major = "F G♯ A B C D♯ E"
+    minor = "D♭ E F G A♭ B C"
+
+  [modes.names]
+
+[[modes]]
+  ordinal = 2
+  slug = ""
+  canonical = ""
+  degrees = "P1 ♭3 Δ3 P4 ♭6 Δ6 Δ7"
+
+  [modes.tunings]
+    major = "C D♯ E F G♯ A B"
+    minor = "A♭ B C D♭ E F G"
+
+    [modes.names]
+
+[[modes]]
+  ordinal = 5
   slug = "double-harm-min"
   canonical = "Double Harmonic Minor"
   degrees = "P1 Δ2 ♭3 ♯4 P5 ♭6 Δ7"
@@ -7,5 +31,53 @@
   [modes.tunings]
     major = "A B C D♯ E F G♯"
     minor = "F G A♭ B C D♭ E"
+
+  [modes.names]
+
+[[modes]]
+  ordinal = 6
+  slug = ""
+  canonical = ""
+  degrees = "P1 ♭2 Δ3 P4 P5 ♭6 Δ7"
+
+  [modes.tunings]
+    major = "E F G♯ A B C D♯"
+    minor = "C D♭ E F G A♭ B"
+
+  [modes.names]
+
+[[modes]]
+  ordinal = 7
+  slug = ""
+  canonical = ""
+  degrees = "P1 ♭2 Δ3 P4 ♯4 Δ6 ♭7"
+
+  [modes.tunings]
+    major = "B C D♯ E F G♯ A"
+    minor = "G A♭ B C D♭ E F"
+
+  [modes.names]
+
+[[modes]]
+  ordinal = 10
+  slug = ""
+  canonical = ""
+  degrees = "P1 ♭2 ♭3 Δ3 P5 ♭6 Δ6"
+
+  [modes.tunings]
+    major = "G♯ A B C D♯ E F"
+    minor = "E F G A♭ B C D♭"
+
+  [modes.names]
+
+[[modes]]
+  ordinal = 11
+  slug = ""
+  canonical = ""
+  degrees = "P1 ♭2 Δ2 P4 ♯4 ♭6 Δ6"
+
+  [modes.tunings]
+    major = "D♯ E F G♯ A B C"
+    minor = "B C D♭ E F G A♭"
 
   [modes.names]

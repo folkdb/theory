@@ -1,14 +1,8 @@
 [[notes]]
-  degree = "♯1₋"
-  name = "G♯₋"
-  ratio = "25/24"
-  cents = 70.67
-
-[[notes]]
   degree = "♯1"
   name = "G♯"
-  ratio = "135/128"
-  cents = 92.18
+  ratio = "25/24"
+  cents = 70.67
 
 [[notes]]
   degree = "♯2"

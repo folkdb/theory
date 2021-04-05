@@ -11,12 +11,6 @@
   cents = 315.64
 
 [[notes]]
-  degree = "♭3₊"
-  name = "B♭₊"
-  ratio = "243/200"
-  cents = 337.15
-
-[[notes]]
   degree = "♭5"
   name = "D♭"
   ratio = "64/45"
@@ -29,13 +23,7 @@
   cents = 813.69
 
 [[notes]]
-  degree = "♭6₊"
-  name = "E♭₊"
-  ratio = "81/50"
-  cents = 835.19
-
-[[notes]]
   degree = "♭8"
   name = "G♭"
-  ratio = "256/135"
-  cents = 1107.82
+  ratio = "48/25"
+  cents = 1129.33
