@@ -15,8 +15,9 @@
   degrees = "P1 Δ2 ▷3 P4 P5 Δ6 ▷7"
 
   [modes.tunings]
-    major = "F G A▷ B♭ C D E▷"
-    minor = "D E F‖ G A B C‖"
+    just-major = "C D E▷ F G A B▷"
+    imperfect-major = "F G A▷ B♭ C D E▷"
+    just-minor = "D E F‖ G A B C‖"
 
   [modes.names]
     Arabic = "Maqam Rast"

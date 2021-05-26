@@ -1,0 +1,46 @@
+ratio = "4/3"
+cents = 498
+
+[[divisions]]
+  ratios = ["32/25", "25/24"]
+  cents = [427, 71]
+
+[[divisions]]
+  ratios = ["81/84", "256/243"]
+  cents = [408, 90]
+
+[[divisions]]
+  ratios = ["5/4", "16/15"]
+  cents = [386, 112]
+
+[[divisions]]
+  ratios = ["100/81", "27/25"]
+  cents = [365, 133]
+
+[[divisions]]
+  ratios = ["128/105", "35/32"]
+  cents = [343, 155]
+
+[[divisions]]
+  ratios = ["243/200", "800/729"]
+  cents = [337, 161]
+
+[[divisions]]
+  ratios = ["6/5", "10/9"]
+  cents = [316, 182]
+
+[[divisions]]
+  ratios = ["32/27", "9/8"]
+  cents = [294, 204]
+
+[[divisions]]
+  ratios = ["75/64", "256/225"]
+  cents = [275, 223]
+
+[[divisions]]
+  ratios = ["7/6", "8/7"]
+  cents = [267, 231]
+
+[[divisions]]
+  ratios = ["125/108", "144/125"]
+  cents = [253, 245]
