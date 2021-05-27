@@ -1,0 +1,23 @@
+degree = "P4"
+ratio = "21/16"
+cents = 471
+
+[[divisions]]
+  ratios = ["5/4", "21/20"]
+  cents = [386, 84]
+
+[[divisions]]
+  ratios = ["6/5", "35/32"]
+  cents = [316, 155]
+
+[[divisions]]
+  ratios = ["189/160", "10/9"]
+  cents = [289, 182]
+
+[[divisions]]
+  ratios = ["7/6", "9/8"]
+  cents = [267, 204]
+
+[[divisions]]
+  ratios = ["147/128", "8/7"]
+  cents = [240, 231]
