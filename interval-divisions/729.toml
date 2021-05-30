@@ -1,0 +1,34 @@
+limit = 7
+degree = "P5"
+ratio = "32/21"
+cents = 729
+
+[[divisions]]
+  limit = 7
+  degrees = ["♭5", "♭2"]
+  ratios = ["4/3", "16/15"]
+  cents = [617, 112]
+
+[[divisions]]
+  limit = 7
+  degrees = ["P4", "Δ2+"]
+  ratios = ["4/3", "8/7"]
+  cents = [498, 231]
+
+[[divisions]]
+  limit = 7
+  degrees = ["P4-", "♭3-"]
+  ratios = ["64/49", "7/6"]
+  cents = [462, 267]
+
+[[divisions]]
+  limit = 7
+  degrees = ["Δ3+", "♭3"]
+  ratios = ["9/7", "32/27"]
+  cents = [435, 294]
+
+[[divisions]]
+  limit = 7
+  degrees = ["Δ3", "♭3+"]
+  ratios = ["5/4", "128/105"]
+  cents = [386, 343]

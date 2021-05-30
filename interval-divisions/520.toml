@@ -3,6 +3,10 @@ ratio = "27/20"
 cents = 520
 
 [[divisions]]
+  ratios = ["9/7", "21/20"]
+  cents = [435, 84]
+
+[[divisions]]
   ratios = ["32/25", "135/128"]
   cents = [427, 92]
 

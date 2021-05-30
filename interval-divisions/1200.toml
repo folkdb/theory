@@ -1,0 +1,46 @@
+limit = 2
+degree = "P8"
+ratio = "2/1"
+cents = 1200
+
+[[divisions]]
+  limit = 7
+  degrees = ["P5+", "P4-"]
+  ratios = ["32/21", "21/16"]
+  cents = [729, 471]
+
+[[divisions]]
+  limit = 3
+  degrees = ["P5", "P4"]
+  ratios = ["3/2", "4/3"]
+  cents = [702, 498]
+
+[[divisions]]
+  limit = 5
+  degrees = ["P5", "P4"]
+  ratios = ["40/27", "27/20"]
+  cents = [680, 520]
+
+[[divisions]]
+  limit = 5
+  degrees = ["♭5+", "♯4-"]
+  ratios = ["36/25", "25/18"]
+  cents = [631, 569]
+
+[[divisions]]
+  limit = 7
+  degrees = ["♭5", "♯4"]
+  ratios = ["10/7", "7/5"]
+  cents = [617, 583]
+
+[[divisions]]
+  limit = 3
+  degrees = ["♭5", "♯4"]
+  ratios = ["729/512", "1024/729"]
+  cents = [612, 588]
+
+[[divisions]]
+  limit = 5
+  degrees = ["♭5", "♯4"]
+  ratios = ["64/45", "45/32"]
+  cents = [610, 590]
