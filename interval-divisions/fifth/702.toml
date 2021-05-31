@@ -1,0 +1,22 @@
+limit = 3
+degree = "P5"
+ratio = "3/2"
+cents = 702
+
+[[divisions]]
+  limit = 3
+  degrees = ["♭5", "♭2"]
+  ratios = ["729/512", "256/243"]
+  cents = [612, 90]
+
+[[divisions]]
+  limit = 5
+  degrees = ["♭5", "♭2"]
+  ratios = ["64/45", "135/128"]
+  cents = [610, 92]
+
+[[divisions]]
+  limit = 5
+  degrees = ["♯4", "♭2"]
+  ratios = ["45/32", "16/15"]
+  cents = [590, 112]

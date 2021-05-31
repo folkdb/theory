@@ -1,0 +1,6 @@
+limit = 3
+degree = "♭2"
+ratio = "256/243"
+cents = 90
+
+divisions = []
