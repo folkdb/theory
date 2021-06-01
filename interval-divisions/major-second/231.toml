@@ -1,0 +1,10 @@
+limit = 7
+degree = "Δ2+"
+ratio = "8/7"
+cents = 231
+
+[[divisions]]
+  limit = 7
+  degrees = ["♭2", "♭2"]
+  ratios = ["15/14", "16/15"]
+  cents = [119, 112]

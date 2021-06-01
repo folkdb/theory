@@ -1,0 +1,16 @@
+limit = 3
+degree = "Δ2"
+ratio = "9/8"
+cents = 204
+
+[[divisions]]
+  limit = 5
+  degrees = ["♭2+", "♭2-"]
+  ratios = ["27/25", "25/24"]
+  cents = [133, 71]
+
+[[divisions]]
+  limit = 5
+  degrees = ["♭2", "♭2"]
+  ratios = ["16/15", "135/128"]
+  cents = [112, 92]
