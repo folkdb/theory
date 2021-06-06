@@ -33,7 +33,3 @@ cents = 520
 [[divisions]]
   ratios = ["189/160", "8/7"]
   cents = [289, 231]
-
-[[divisions]]
-  ratios = ["7/6", "81/70"]
-  cents = [267, 253]

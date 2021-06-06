@@ -15,8 +15,3 @@ cents = 267
   ratios = ["35/32", "16/15"]
   cents = [155, 112]
 
-[[divisions]]
-  limit = 7
-  degrees = ["Δ2-", "♭2"]
-  ratios = ["147/135", "15/14"]
-  cents = [147, 119]
