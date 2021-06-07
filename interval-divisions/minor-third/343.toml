@@ -5,6 +5,6 @@ cents = 343
 
 [[divisions]]
   limit = 7
-  degrees = ["Δ2-", "♭2+"]
-  ratios = ["35/32", "27/25"]
-  cents = [155, 133]
+  degrees = ["Δ2+", "♭2"]
+  ratios = ["8/7", "16/15"]
+  cents = [231, 112]

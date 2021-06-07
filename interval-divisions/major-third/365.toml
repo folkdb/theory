@@ -1,0 +1,34 @@
+limit = 5
+degree = "Δ3-"
+ratio = "100/81"
+cents = 365
+
+[[divisions]]
+  limit = 5
+  degrees = ["♭3", "♭2-"]
+  ratios = ["32/27", "25/24"]
+  cents = [294, 71]
+
+[[divisions]]
+  limit = 5
+  degrees = ["♭3-", "♭2"]
+  ratios = ["75/64", "256/243"]
+  cents = [275, 90]
+
+[[divisions]]
+  limit = 5
+  degrees = ["♭3-", "♭2"]
+  ratios = ["125/108", "16/15"]
+  cents = [253, 112]
+
+[[divisions]]
+  limit = 5
+  degrees = ["Δ2", "Δ2-"]
+  ratios = ["9/8", "800/729"]
+  cents = [204, 161]
+
+[[divisions]]
+  limit = 5
+  degrees = ["Δ2", "Δ2"]
+  ratios = ["10/9", "10/9"]
+  cents = [182, 182]
