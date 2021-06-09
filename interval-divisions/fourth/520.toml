@@ -4,29 +4,55 @@ ratio = "27/20"
 cents = 520
 
 [[divisions]]
+  limit = 7
+  degrees = ["Δ3+", "♭2"]
   ratios = ["9/7", "21/20"]
   cents = [435, 84]
 
 [[divisions]]
+  limit = 5
+  degrees = ["Δ3+", "♭2"]
   ratios = ["32/25", "135/128"]
   cents = [427, 92]
 
 [[divisions]]
+  limit = 5
+  degrees = ["Δ3", "♭2"]
   ratios = ["81/84", "16/15"]
   cents = [408, 112]
 
 [[divisions]]
+  limit = 5
+  degrees = ["Δ3", "♭2+"]
   ratios = ["5/4", "27/25"]
   cents = [386, 133]
 
 [[divisions]]
+  limit = 5
+  degrees = ["♭3+", "Δ2"]
   ratios = ["243/200", "10/9"]
   cents = [337, 182]
 
 [[divisions]]
+  limit = 5
+  degrees = ["♭3", "Δ2"]
   ratios = ["6/5", "9/8"]
   cents = [316, 204]
 
 [[divisions]]
+  limit = 7
+  degrees = ["♭3", "Δ2+"]
   ratios = ["189/160", "8/7"]
   cents = [289, 231]
+
+[[divisions]]
+  limit = 5
+  degrees = ["♭3-", "Δ2+"]
+  ratios = ["75/64", "144/125"]
+  cents = [275, 245]
+
+[[divisions]]
+  limit = 7
+  degrees = ["♭3-", "Δ2+"]
+  ratios = ["7/6", "189/160"]
+  cents = [267, 253]

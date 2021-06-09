@@ -1,0 +1,28 @@
+limit = 7
+degree = "Δ3+"
+ratio = "9/7"
+cents = 435
+
+[[divisions]]
+  limit = 7
+  degrees = ["♭3+", "♭2"]
+  ratios = ["128/105", "135/128"]
+  cents = [343, 92]
+
+[[divisions]]
+  limit = 7
+  degrees = ["♭3", "♭2"]
+  ratios = ["6/5", "15/14"]
+  cents = [316, 119]
+
+[[divisions]]
+  limit = 7
+  degrees = ["♭3-", "Δ2"]
+  ratios = ["189/160", "10/9"]
+  cents = [253, 182]
+
+[[divisions]]
+  limit = 7
+  degrees = ["Δ2+", "Δ2"]
+  ratios = ["7/6", "9/8"]
+  cents = [231, 204]
